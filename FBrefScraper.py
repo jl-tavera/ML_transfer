@@ -2,18 +2,41 @@
 WEB SCRAPING FUNCTIONS FOR FBREF
 '''
 
-#Libraries
+'''
+Libraries
+'''
+
 from cgitb import html
 import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
 
 
+
+'''
+FORMAT FUNCTIONS
+'''
+
 def formatHREF(href):
     href = href[0]
     href = 'https://www.fbref.com/' + str(href['href'])
     return href
 
+
+def getSeasons(url): 
+    seasons = {}
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+    table = soup.find('table', id='seasons')
+    for row in table.tbody.find_all('tr'):    
+        columns = row.find_all('th')
+        if(columns != []):
+            season = columns[0].text.strip()
+            seasonHREF = columns[0].find_all('a', href=True)
+            seasonHREF = formatHREF(seasonHREF)
+        seasons[season] = seasonHREF
+
+    return seasons
 
 def getSquads(url):
     squads = {}
