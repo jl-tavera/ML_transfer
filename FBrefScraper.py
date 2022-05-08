@@ -3,10 +3,12 @@ WEB SCRAPING FUNCTIONS FOR FBREF
 '''
 
 '''
-Libraries
+LIBRARIES
 '''
 
 from cgitb import html
+from tabnanny import check
+from typing import final
 import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
@@ -22,6 +24,11 @@ def formatHREF(href):
     href = 'https://www.fbref.com/' + str(href['href'])
     return href
 
+
+
+'''
+SCRAPING FUNCTIONS
+'''
 
 def getSeasons(url): 
     seasons = {}
@@ -51,10 +58,10 @@ def getSquads(url):
         if(columns != []):
             squad = columns[0].text.strip()
             
-            squad_href = columns[0].find_all('a', href=True)
-            squad_href = formatHREF(squad_href)
+            squadHREF = columns[0].find_all('a', href=True)
+            squadHREF = formatHREF(squadHREF)
 
-            squads[squad] = squad_href
+            squads[squad] = squadHREF
 
     return squads
 
@@ -75,3 +82,65 @@ def getSeasonMatchReports(squads):
         
         matchReports[squad] = matchs
     return matchReports
+
+def getMatchReportStats(url):
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+   
+    titles_list = []
+    squads_names = []
+    extra_stats = []
+    initial_stats = []
+
+    team_stats = soup.find('div', {'id': 'team_stats'})
+
+    team_stats_extra = soup.find('div', {'id': 'team_stats_extra'})
+    team_stats_extra = team_stats_extra.find_all('div')
+
+    stats_titles = team_stats.find_all('th') 
+    stats = team_stats.find_all('strong') 
+    squads = team_stats.find_all('span', { 'class': 'teamandlogo'})
+
+
+    for squad in squads: 
+        squad = squad.text.strip()
+        squads_names.append(squad)
+
+    for th in stats_titles: 
+        try:
+            col = int(th["colspan"])
+        except (ValueError, KeyError) as e:
+            col = 0
+        if col == 2: 
+            th = th.text.strip()
+            if th != 'Cards':
+                titles_list.append(th)
+    
+    for i, stat in enumerate(stats):
+        j = 0
+        if i % 2 == 0:
+            initial_stats.append(stat.text.strip())
+            initial_stats.append(titles_list[j])
+            j =+ 1
+        else: 
+            initial_stats.append(stat.text.strip())
+
+    
+
+    for stat in team_stats_extra:
+        stat = stat.text.strip()
+        check = False
+
+        if stat == None and check == False:
+            check = True
+
+        if stat == None and check == True:
+            check = False
+
+        if check == False and ('\n' not in stat) and (stat not in squads_names) and (len(stat) != 0):
+            extra_stats.append(stat)
+    
+    final_stats = initial_stats + extra_stats
+
+    return final_stats, squads_names
+    
