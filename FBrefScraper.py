@@ -12,6 +12,7 @@ from typing import final
 import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
+import numpy as np
 
 
 
@@ -23,6 +24,35 @@ def formatHREF(href):
     href = href[0]
     href = 'https://www.fbref.com/' + str(href['href'])
     return href
+
+def formatList(lst,n):
+    lst2 = []
+    j = len(lst)//n
+    lst = np.array_split(lst, j)
+    for chunk in lst:
+        lst2.append(chunk.tolist())
+
+    return lst2
+
+
+def formatMRSTeam(squads, final_stats):
+    stats_dict = {}
+    squad_1 = {}
+    squad_2 = {}
+    
+    final_stats = formatList(final_stats, 3)
+
+    for i,stat in enumerate(final_stats):
+        
+        stat_type = stat[1]
+        squad_1[stat_type] = stat[0]
+        squad_2[stat_type] = stat[2]
+
+    stats_dict[squads[0]] = squad_1
+    stats_dict[squads[1]] = squad_2
+
+    return stats_dict
+
 
 
 
@@ -83,14 +113,13 @@ def getSeasonMatchReports(squads):
         matchReports[squad] = matchs
     return matchReports
 
-def getMatchReportStats(url):
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, features='lxml')
-   
+def getMRSTeam(soup):
+
     titles_list = []
     squads_names = []
     extra_stats = []
     initial_stats = []
+    j = 0
 
     team_stats = soup.find('div', {'id': 'team_stats'})
 
@@ -117,15 +146,13 @@ def getMatchReportStats(url):
                 titles_list.append(th)
     
     for i, stat in enumerate(stats):
-        j = 0
+        
         if i % 2 == 0:
             initial_stats.append(stat.text.strip())
             initial_stats.append(titles_list[j])
-            j =+ 1
+            j += 1
         else: 
             initial_stats.append(stat.text.strip())
-
-    
 
     for stat in team_stats_extra:
         stat = stat.text.strip()
@@ -133,14 +160,21 @@ def getMatchReportStats(url):
 
         if stat == None and check == False:
             check = True
-
         if stat == None and check == True:
             check = False
-
         if check == False and ('\n' not in stat) and (stat not in squads_names) and (len(stat) != 0):
             extra_stats.append(stat)
     
     final_stats = initial_stats + extra_stats
+    stats_team_dict = formatMRSTeam(squads_names, final_stats)
 
-    return final_stats, squads_names
+    return stats_team_dict
+
+
+def getMatchReportStats(url):
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+    stats_team_dict = getMRSTeam(soup)
+
+    return stats_team_dict
     
