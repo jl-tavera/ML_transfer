@@ -13,8 +13,8 @@ import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
 import numpy as np
-
-
+import config as cf
+import pandas as pd
 
 '''
 FORMAT FUNCTIONS
@@ -89,15 +89,17 @@ def filterSignings(players):
     for squad in players: 
         squad_signings = {}
         for year in players[squad]:
-            squad_year_signings = {}
+            squad_year_signings = ''
             if int(year) > 2017: 
                 players_year = (players[squad][year]).keys()
                 players_year_p = (players[squad][str(int(year) - 1)]).keys()
                 for player in players_year:
                     if player not in players_year_p: 
-                        squad_year_signings[player] = players[squad][year][player]
+                        squad_year_signings += players[squad][year][player] + ','
                 squad_signings[year] = squad_year_signings
         signings[squad] = squad_signings
+
+    signings = pd.DataFrame(signings)
 
     return signings
 
@@ -254,3 +256,15 @@ def getPlayers(soup):
         players_dicc[name] = player_href
 
     return players_dicc
+
+
+'''
+EXPORT FUNCTIONS
+'''
+
+def exportFinalCSV(df, name):
+    route = cf.export_dir.replace('/App', '')
+    df.to_csv(route + str(name) + '.csv')
+
+    return None
+
