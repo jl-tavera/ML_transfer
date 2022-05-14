@@ -84,7 +84,22 @@ def filterSquads(squads_seasons, ATeams):
 
     return filter_squads
 
-    
+def filterSignings(players):
+    signings = {}
+    for squad in players: 
+        squad_signings = {}
+        for year in players[squad]:
+            squad_year_signings = {}
+            if int(year) > 2017: 
+                players_year = (players[squad][year]).keys()
+                players_year_p = (players[squad][str(int(year) - 1)]).keys()
+                for player in players_year:
+                    if player not in players_year_p: 
+                        squad_year_signings[player] = players[squad][year][player]
+                squad_signings[year] = squad_year_signings
+        signings[squad] = squad_signings
+
+    return signings
 
 '''
 SCRAPING FUNCTIONS
@@ -213,4 +228,29 @@ def getMatchReportStats(url):
     stats_team_dict = getMRSTeam(soup)
 
     return stats_team_dict
-    
+
+def getSignings(filter_squads):
+    squad_players = {}
+    for squad in filter_squads:
+        season_players = {}
+        for year in filter_squads[squad]:
+            url = filter_squads[squad][year]
+            r = requests.get(url)
+            soup = BeautifulSoup(r.content, features='lxml')
+            players = getPlayers(soup)
+            season_players[year] = players
+        squad_players[squad] = season_players
+
+    return squad_players
+
+
+def getPlayers(soup):
+    table_players = soup.find('table')
+    players_dicc = {}
+    for row in table_players.tbody.find_all('th'):
+        name = row.text.strip()
+        player_href = row.find_all('a', href=True)
+        player_href = formatHREF(player_href)
+        players_dicc[name] = player_href
+
+    return players_dicc
