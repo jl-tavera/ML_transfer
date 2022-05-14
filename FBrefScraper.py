@@ -53,8 +53,38 @@ def formatMRSTeam(squads, final_stats):
 
     return stats_dict
 
+'''
+FILTER FUNCTIONS
+'''
+def getATeams(squads_seasons): 
+    squads = []
+    teams_A = []
+    for year in squads_seasons: 
+        teams = (squads_seasons[year]).keys()
+        for team in teams: 
+            teams_A.append(team)
+
+    for team in teams_A: 
+        if teams_A.count(team) == 5:
+            squads.append(team)
+    squads =list(dict.fromkeys(squads))
 
 
+    return squads
+
+def filterSquads(squads_seasons, ATeams):
+    filter_squads = {}
+    for squad in ATeams:
+        squad_years = {}
+        for year in squads_seasons:
+            dicc = squads_seasons[year]
+            href = dicc[squad]
+            squad_years[year] = href
+        filter_squads[squad] = squad_years
+
+    return filter_squads
+
+    
 
 '''
 SCRAPING FUNCTIONS
@@ -100,21 +130,6 @@ def getSquads(seasons, year_data, year_now):
 
     return squads_seasons
 
-def getATeams(squads_seasons): 
-    squads = []
-    teams_A = []
-    for year in squads_seasons: 
-        teams = (squads_seasons[year]).keys()
-        for team in teams: 
-            teams_A.append(team)
-
-    for team in teams_A: 
-        if teams_A.count(team) == 5:
-            squads.append(team)
-    squads =list(dict.fromkeys(squads))
-
-
-    return squads, len(squads)
 
 def getSeasonMatchReports(squads):
     matchReports = {}
