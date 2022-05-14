@@ -8,7 +8,7 @@ LIBRARIES
 
 from cgitb import html
 from tabnanny import check
-from typing import final
+# from typing import final
 import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
@@ -75,25 +75,46 @@ def getSeasons(url):
 
     return seasons
 
-def getSquads(url):
-    squads = {}
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, features='lxml')
-    for caption in soup.find_all('caption'):
-        if caption.get_text() == 'League Table Table':
-            table = caption.find_parent('table')
-            break
-    for row in table.tbody.find_all('tr'):    
-        columns = row.find_all('td')
-        if(columns != []):
-            squad = columns[0].text.strip()
-            
-            squadHREF = columns[0].find_all('a', href=True)
-            squadHREF = formatHREF(squadHREF)
+def getSquads(seasons, year_data, year_now):
+    squads_seasons = {}
+    for year in seasons: 
+        if int(year) > year_data and int(year) < year_now :
+            url = seasons[year]
+            squads = {}
+            r = requests.get(url)
+            soup = BeautifulSoup(r.content, features='lxml')
+            for caption in soup.find_all('caption'):
+                if caption.get_text() == 'League Table Table':
+                    table = caption.find_parent('table')
+                    break
+            for row in table.tbody.find_all('tr'):    
+                columns = row.find_all('td')
+                if(columns != []):
+                    squad = columns[0].text.strip()
+                    
+                    squadHREF = columns[0].find_all('a', href=True)
+                    squadHREF = formatHREF(squadHREF)
 
-            squads[squad] = squadHREF
+                    squads[squad] = squadHREF
+            squads_seasons[year] = squads
 
-    return squads
+    return squads_seasons
+
+def getATeams(squads_seasons): 
+    squads = []
+    teams_A = []
+    for year in squads_seasons: 
+        teams = (squads_seasons[year]).keys()
+        for team in teams: 
+            teams_A.append(team)
+
+    for team in teams_A: 
+        if teams_A.count(team) == 5:
+            squads.append(team)
+    squads =list(dict.fromkeys(squads))
+
+
+    return squads, len(squads)
 
 def getSeasonMatchReports(squads):
     matchReports = {}
