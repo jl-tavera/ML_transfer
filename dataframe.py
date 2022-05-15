@@ -1,4 +1,5 @@
 import FBrefScraper as FBref
+import pandas as pd
 
 seasons = FBref.getSeasons('https://fbref.com/en/comps/41/history/Primera-A-Seasons')
 squads = FBref.getSquads(seasons, 2016, 2022)
@@ -6,7 +7,6 @@ teams_A = FBref.getATeams(squads)
 filter_squads = FBref.filterSquads(squads, teams_A)
 players = FBref.getSignings(filter_squads)
 signings = FBref.filterSignings(players)
-
 FBref.exportFinalCSV(signings, 'signings')
 
 # matchReports = FBref.getSeasonMatchReports(squads)
