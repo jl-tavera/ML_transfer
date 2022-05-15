@@ -249,11 +249,22 @@ def getSignings(filter_squads):
 def getPlayers(soup):
     table_players = soup.find('table')
     players_dicc = {}
-    for row in table_players.tbody.find_all('th'):
+    rows = table_players.tbody.find_all('tr')    
+    for i, row in enumerate(table_players.tbody.find_all('th')):
+        
+        columns = rows[i].find_all('td')
         name = row.text.strip()
         player_href = row.find_all('a', href=True)
         player_href = formatHREF(player_href)
-        players_dicc[name] = player_href
+        min = columns[5].text.strip()
+
+        if ',' in min:
+            min = min.replace(',', '')
+        if len(min) > 0:
+            min = int(min)
+            if min > 270: 
+                players_dicc[name] = player_href
+            
 
     return players_dicc
 
