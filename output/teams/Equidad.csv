@@ -1,0 +1,786 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+0,Name,Team,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+1,Pablo Sabbag,La Equidad,2020-01-25,Sat,Primera A,First stage,Away,L 0–2,La Equidad,Junior,N,,45,0,0,0,0,3,1,1,0,1,0,0,0,0,0,0,,,Match Report
+2,Pablo Sabbag,La Equidad,2020-01-29,Wed,Primera A,First stage,Home,L 3–4,La Equidad,Nacional,N,,83,2,0,0,0,4,3,1,0,1,2,1,0,0,0,0,,,Match Report
+3,Pablo Sabbag,La Equidad,2020-02-02,Sun,Primera A,First stage,Away,D 2–2,La Equidad,Millonarios,N,,35,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,,,Match Report
+4,Pablo Sabbag,La Equidad,2020-02-09,Sun,Primera A,First stage,Home,D 3–3,La Equidad,Pereira,Y,FW,90,0,1,0,0,7,3,1,0,1,3,1,0,1,0,0,,,Match Report
+5,Pablo Sabbag,La Equidad,2020-02-14,Fri,Primera A,First stage,Away,L 0–1,La Equidad,Alianza,N,,45,0,0,0,0,2,0,0,0,0,4,1,0,1,0,0,,,Match Report
+6,Pablo Sabbag,La Equidad,2020-02-23,Sun,Primera A,First stage,Home,W 4–1,La Equidad,Cúcuta,N,,32,1,1,0,0,1,1,1,0,1,1,1,0,0,0,0,,,Match Report
+7,Pablo Sabbag,La Equidad,2020-03-01,Sun,Primera A,First stage,Away,W 2–1,La Equidad,Pasto,Y,FW,82,1,1,0,0,3,2,0,0,2,3,1,2,0,0,0,,,Match Report
+8,Pablo Sabbag,La Equidad,2020-03-10,Tue,Primera A,First stage,Home,D 1–1,La Equidad,Pasto,Y,FW,90,0,0,0,0,4,2,0,0,4,2,0,0,1,0,0,,,Match Report
+9,Pablo Sabbag,La Equidad,2020-09-18,Fri,Primera A,First stage,Home,W 4–0,La Equidad,Boyacá Chicó,Y,FW,67,1,0,0,0,4,3,1,0,2,1,1,0,1,0,0,,,Match Report
+10,Pablo Sabbag,La Equidad,2020-10-04,Sun,Primera A,First stage,Home,W 1–0,La Equidad,Independiente,Y,,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+11,Pablo Sabbag,La Equidad,2020-10-07,Wed,Primera A,First stage,Away,L 0–1,La Equidad,AD Cali,Y,FW,54,0,0,0,0,1,0,1,0,2,0,2,0,0,0,0,,,Match Report
+12,Pablo Sabbag,La Equidad,2020-10-10,Sat,Primera A,First stage,Home,W 2–0,La Equidad,Once Caldas,N,,31,0,0,0,0,1,0,0,0,2,1,0,0,2,0,0,,,Match Report
+13,Pablo Sabbag,La Equidad,2020-10-15,Thu,Primera A,First stage,Away,L 0–1,La Equidad,Santa Fe,N,,38,0,0,0,0,1,0,0,0,1,1,3,0,0,0,0,,,Match Report
+14,Pablo Sabbag,La Equidad,2020-10-18,Sun,Primera A,First stage,Home,W 2–1,La Equidad,CA Bucaramanga,Y,FW,90,0,0,0,0,7,1,1,0,3,1,0,0,0,0,0,,,Match Report
+15,Pablo Sabbag,La Equidad,2020-10-24,Sat,Primera A,First stage,Away,W 2–1,La Equidad,Tolima,Y,FW,89,1,0,0,0,4,2,0,0,2,2,1,1,0,0,0,,,Match Report
+16,Pablo Sabbag,La Equidad,2020-11-01,Sun,Primera A,First stage,Home,D 0–0,La Equidad,Rionegro,Y,FW,90,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,,,Match Report
+17,Pablo Sabbag,La Equidad,2020-11-06,Fri,Primera A,First stage,Away,D 1–1,La Equidad,Envigado,Y,FW,55,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,,,Match Report
+18,Pablo Sabbag,La Equidad,2020-11-10,Tue,Primera A,First stage,Home,W 1–0,La Equidad,Boyacá Patriot,Y,FW,68,0,0,0,0,2,0,0,0,1,0,1,2,0,0,0,,,Match Report
+19,Pablo Sabbag,La Equidad,2020-11-15,Sun,Primera A,First stage,Away,W 2–1,La Equidad,CD América,N,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+20,Pablo Sabbag,La Equidad,2020-12-05,Sat,Primera A,Semi-finals,Home,D 1–1,La Equidad,Santa Fe,N,,17,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,,,Match Report
+21,Pablo Sabbag,La Equidad,2020-12-12,Sat,Primera A,Semi-finals,Away,L 1–2,La Equidad,Santa Fe,Y,FW,74,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,,,Match Report
+22,Juan Colina,La Equidad,2020-01-25,Sat,Primera A,First stage,Away,L 0–2,La Equidad,Junior,Y,DM,58,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,,,Match Report
+23,Juan Colina,La Equidad,2020-01-29,Wed,Primera A,First stage,Home,L 3–4,La Equidad,Nacional,Y,CM,62,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,,,Match Report
+24,Juan Colina,La Equidad,2020-02-23,Sun,Primera A,First stage,Home,W 4–1,La Equidad,Cúcuta,N,,45,0,0,0,0,0,0,0,0,2,1,0,0,3,1,0,,,Match Report
+25,Juan Colina,La Equidad,2020-03-01,Sun,Primera A,First stage,Away,W 2–1,La Equidad,Pasto,N,,28,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+26,Juan Colina,La Equidad,2020-10-04,Sun,Primera A,First stage,Home,W 1–0,La Equidad,Independiente,Y,,66,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+27,Juan Colina,La Equidad,2020-10-07,Wed,Primera A,First stage,Away,L 0–1,La Equidad,AD Cali,N,,35,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+28,Juan Colina,La Equidad,2020-10-10,Sat,Primera A,First stage,Home,W 2–0,La Equidad,Once Caldas,N,,31,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+29,Juan Colina,La Equidad,2020-10-15,Thu,Primera A,First stage,Away,L 0–1,La Equidad,Santa Fe,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+30,Juan Colina,La Equidad,2020-10-18,Sun,Primera A,First stage,Home,W 2–1,La Equidad,CA Bucaramanga,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+31,Juan Colina,La Equidad,2020-10-24,Sat,Primera A,First stage,Away,W 2–1,La Equidad,Tolima,Y,CM,54,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+32,Juan Colina,La Equidad,2020-11-01,Sun,Primera A,First stage,Home,D 0–0,La Equidad,Rionegro,Y,CM,45,0,0,0,0,0,0,1,0,5,0,0,0,1,0,0,,,Match Report
+33,Juan Colina,La Equidad,2020-11-06,Fri,Primera A,First stage,Away,D 1–1,La Equidad,Envigado,Y,CM,56,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,,,Match Report
+34,Juan Colina,La Equidad,2020-11-10,Tue,Primera A,First stage,Home,W 1–0,La Equidad,Boyacá Patriot,N,,34,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,Match Report
+35,Juan Colina,La Equidad,2020-11-15,Sun,Primera A,First stage,Away,W 2–1,La Equidad,CD América,Y,CM,65,0,0,0,0,0,0,1,0,2,0,0,0,0,2,0,,,Match Report
+36,Juan Colina,La Equidad,2020-11-21,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,AD Cali,N,,32,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,,,Match Report
+37,Juan Colina,La Equidad,2020-11-28,Sat,Primera A,Quarter-finals,Away,W 1–0,La Equidad,AD Cali,Y,DM,90,0,1,0,0,0,0,0,0,6,3,0,1,2,0,0,,,Match Report
+38,Juan Colina,La Equidad,2020-12-05,Sat,Primera A,Semi-finals,Home,D 1–1,La Equidad,Santa Fe,Y,CM,90,0,0,0,0,0,0,0,0,0,2,0,0,3,1,0,,,Match Report
+39,Juan Colina,La Equidad,2020-12-12,Sat,Primera A,Semi-finals,Away,L 1–2,La Equidad,Santa Fe,Y,DM,90,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0,,,Match Report
+40,Carlos Mario Rodríguez,La Equidad,2020-01-29,Wed,Primera A,First stage,Home,L 3–4,La Equidad,Nacional,N,,28,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,,,Match Report
+41,Carlos Mario Rodríguez,La Equidad,2020-02-09,Sun,Primera A,First stage,Home,D 3–3,La Equidad,Pereira,N,,40,2,0,1,1,3,3,0,0,1,1,0,2,0,0,0,,,Match Report
+42,Carlos Mario Rodríguez,La Equidad,2020-02-14,Fri,Primera A,First stage,Away,L 0–1,La Equidad,Alianza,Y,DM,90,0,0,0,1,4,2,0,0,1,3,0,2,2,0,0,,,Match Report
+43,Carlos Mario Rodríguez,La Equidad,2020-02-23,Sun,Primera A,First stage,Home,W 4–1,La Equidad,Cúcuta,Y,AM,90,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,,,Match Report
+44,Carlos Mario Rodríguez,La Equidad,2020-03-10,Tue,Primera A,First stage,Home,D 1–1,La Equidad,Pasto,Y,RW,75,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,,,Match Report
+45,Carlos Mario Rodríguez,La Equidad,2020-09-25,Fri,Primera A,First stage,Away,L 0–2,La Equidad,Jaguares,N,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+46,Carlos Mario Rodríguez,La Equidad,2020-10-04,Sun,Primera A,First stage,Home,W 1–0,La Equidad,Independiente,N,,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+47,Carlos Mario Rodríguez,La Equidad,2020-10-07,Wed,Primera A,First stage,Away,L 0–1,La Equidad,AD Cali,N,,14,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,Match Report
+48,Carlos Mario Rodríguez,La Equidad,2020-10-10,Sat,Primera A,First stage,Home,W 2–0,La Equidad,Once Caldas,Y,FW,59,0,0,0,0,1,0,0,0,1,2,0,2,0,0,0,,,Match Report
+49,Carlos Mario Rodríguez,La Equidad,2020-10-15,Thu,Primera A,First stage,Away,L 0–1,La Equidad,Santa Fe,Y,FW,52,0,0,0,0,2,0,0,0,3,1,0,0,0,0,0,,,Match Report
+50,Carlos Mario Rodríguez,La Equidad,2020-10-18,Sun,Primera A,First stage,Home,W 2–1,La Equidad,CA Bucaramanga,N,,26,2,0,0,0,2,2,0,0,0,1,0,1,0,0,0,,,Match Report
+51,Carlos Mario Rodríguez,La Equidad,2020-11-10,Tue,Primera A,First stage,Home,W 1–0,La Equidad,Boyacá Patriot,N,,22,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,,,Match Report
+52,Carlos Mario Rodríguez,La Equidad,2020-11-15,Sun,Primera A,First stage,Away,W 2–1,La Equidad,CD América,N,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+53,Carlos Mario Rodríguez,La Equidad,2020-11-21,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,AD Cali,Y,FW,90,0,0,0,0,3,1,0,0,0,2,0,2,2,3,0,,,Match Report
+54,Carlos Mario Rodríguez,La Equidad,2020-11-28,Sat,Primera A,Quarter-finals,Away,W 1–0,La Equidad,AD Cali,N,,35,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,,,Match Report
+55,Carlos Mario Rodríguez,La Equidad,2020-12-05,Sat,Primera A,Semi-finals,Home,D 1–1,La Equidad,Santa Fe,N,,11,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,,,Match Report
+56,Carlos Mario Rodríguez,La Equidad,2020-12-12,Sat,Primera A,Semi-finals,Away,L 1–2,La Equidad,Santa Fe,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+57,Alex Rambal,La Equidad,2020-01-25,Sat,Primera A,First stage,Away,L 0–2,La Equidad,Junior,Y,CB,90,0,0,0,0,1,1,1,0,1,0,0,0,0,2,0,,,Match Report
+58,Alex Rambal,La Equidad,2020-01-29,Wed,Primera A,First stage,Home,L 3–4,La Equidad,Nacional,N,,46,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,Match Report
+59,Alex Rambal,La Equidad,2020-02-02,Sun,Primera A,First stage,Away,D 2–2,La Equidad,Millonarios,Y,CB,90,0,0,0,0,2,0,0,0,1,0,0,0,0,3,0,,,Match Report
+60,Alex Rambal,La Equidad,2020-02-09,Sun,Primera A,First stage,Home,D 3–3,La Equidad,Pereira,Y,CB,90,0,0,0,0,2,1,1,0,1,0,0,0,1,2,0,,,Match Report
+61,Alex Rambal,La Equidad,2020-03-01,Sun,Primera A,First stage,Away,W 2–1,La Equidad,Pasto,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,,,Match Report
+62,Brayhan Torres,La Equidad,2020-01-25,Sat,Primera A,First stage,Away,L 0–2,La Equidad,Junior,N,,32,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,,,Match Report
+63,Brayhan Torres,La Equidad,2020-01-29,Wed,Primera A,First stage,Home,L 3–4,La Equidad,Nacional,Y,FW,90,0,0,0,0,2,1,0,0,1,0,0,5,0,0,0,,,Match Report
+64,Brayhan Torres,La Equidad,2020-02-02,Sun,Primera A,First stage,Away,D 2–2,La Equidad,Millonarios,Y,AM,55,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,,,Match Report
+65,Brayhan Torres,La Equidad,2020-02-14,Fri,Primera A,First stage,Away,L 0–1,La Equidad,Alianza,Y,AM,45,0,0,0,0,0,0,1,0,2,0,0,1,0,1,0,,,Match Report
+66,Brayhan Torres,La Equidad,2020-02-23,Sun,Primera A,First stage,Home,W 4–1,La Equidad,Cúcuta,N,,17,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+67,Brayhan Torres,La Equidad,2020-09-18,Fri,Primera A,First stage,Home,W 4–0,La Equidad,Boyacá Chicó,N,,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+68,Brayhan Torres,La Equidad,2020-09-25,Fri,Primera A,First stage,Away,L 0–2,La Equidad,Jaguares,N,,19,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+69,Brayhan Torres,La Equidad,2020-10-10,Sat,Primera A,First stage,Home,W 2–0,La Equidad,Once Caldas,N,,13,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,Match Report
+70,Brayhan Torres,La Equidad,2020-11-21,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,AD Cali,N,,52,0,0,0,0,1,0,0,0,0,1,0,4,0,0,0,,,Match Report
+71,Brayhan Torres,La Equidad,2020-12-05,Sat,Primera A,Semi-finals,Home,D 1–1,La Equidad,Santa Fe,N,,45,0,0,0,0,0,0,1,0,1,0,0,6,0,0,0,,,Match Report
+72,Brayhan Torres,La Equidad,2020-12-12,Sat,Primera A,Semi-finals,Away,L 1–2,La Equidad,Santa Fe,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+73,Danilo Arboleda,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,CB,90,0,0,0,0,1,0,1,0,1,0,0,0,1,5,0,,,Match Report
+74,Danilo Arboleda,La Equidad,2019-03-02,Sat,Primera A,Apertura Regular Season,Home,W 2–1,La Equidad,Cúcuta,N,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+75,Danilo Arboleda,La Equidad,2019-03-20,Wed,Sudamericana,First stage,Away,D 0–0,co La Equidad,py Independiente,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Match Report
+76,Danilo Arboleda,La Equidad,2019-03-25,Mon,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+77,Danilo Arboleda,La Equidad,2019-03-30,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Tolima,Y,CB,90,0,0,0,0,1,0,1,0,1,1,1,0,2,1,0,,,Match Report
+78,Danilo Arboleda,La Equidad,2019-04-02,Tue,Primera A,Apertura Regular Season,Away,W 3–1,La Equidad,CD América,Y,CB,90,0,0,0,0,1,0,1,0,3,1,0,0,3,0,0,,,Match Report
+79,Danilo Arboleda,La Equidad,2019-04-06,Sat,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Junior,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,,Match Report
+80,Danilo Arboleda,La Equidad,2019-04-13,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,,,Match Report
+81,Danilo Arboleda,La Equidad,2019-04-16,Tue,Sudamericana,First stage,Home,D 0 (4)–0 (3),co La Equidad,py Independiente,Y,CB,120,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,Match Report
+82,Danilo Arboleda,La Equidad,2019-04-20,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,Match Report
+83,Danilo Arboleda,La Equidad,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Jaguares,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,3,4,0,,,Match Report
+84,Danilo Arboleda,La Equidad,2019-05-22,Wed,Sudamericana,Second stage,Home,W 2–0,co La Equidad,py Santaní,Y,CB,90,0,0,0,0,1,0,1,0,1,0,0,0,4,1,0,0,0,Match Report
+85,Danilo Arboleda,La Equidad,2019-05-29,Wed,Sudamericana,Second stage,Away,W 2–1,co La Equidad,py Santaní,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,1,4,1,0,0,0,Match Report
+86,Danilo Arboleda,La Equidad,2019-07-09,Tue,Sudamericana,Round of 16,Away,W 2–1,co La Equidad,bo Royal Parí,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,2,2,0,0,0,Match Report
+87,Danilo Arboleda,La Equidad,2019-07-16,Tue,Sudamericana,Round of 16,Home,W 2–1,co La Equidad,bo Royal Parí,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,Match Report
+88,Danilo Arboleda,La Equidad,2019-07-22,Mon,Primera A,Regular season,Home,L 0–1,La Equidad,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,,,Match Report
+89,Danilo Arboleda,La Equidad,2019-07-27,Sat,Primera A,Regular season,Home,W 2–0,La Equidad,ADU Magdalena,Y,CB,90,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,,,Match Report
+90,Danilo Arboleda,La Equidad,2019-08-03,Sat,Primera A,Regular season,Away,L 0–2,La Equidad,AD Cali,Y,CB,53,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+91,Danilo Arboleda,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,,,Match Report
+92,Danilo Arboleda,La Equidad,2019-08-20,Tue,Sudamericana,Quarter-finals,Away,L 1–2,co La Equidad,br Atlético Mineiro,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Match Report
+93,Danilo Arboleda,La Equidad,2019-08-27,Tue,Sudamericana,Quarter-finals,Home,L 1–3,co La Equidad,br Atlético Mineiro,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,Match Report
+94,Danilo Arboleda,La Equidad,2019-08-31,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,,,Match Report
+95,Danilo Arboleda,La Equidad,2019-09-04,Wed,Primera A,Regular season,Home,D 0–0,La Equidad,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,,,Match Report
+96,Danilo Arboleda,La Equidad,2019-09-09,Mon,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,,,Match Report
+97,Danilo Arboleda,La Equidad,2019-09-14,Sat,Primera A,Regular season,Home,W 1–0,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,1,0,1,1,0,0,1,2,0,,,Match Report
+98,Danilo Arboleda,La Equidad,2019-09-20,Fri,Primera A,Regular season,Away,W 1–0,La Equidad,Tolima,Y,CB,90,0,0,0,0,2,0,0,0,0,0,0,0,2,1,0,,,Match Report
+99,Danilo Arboleda,La Equidad,2019-09-29,Sun,Primera A,Regular season,Home,D 3–3,La Equidad,CD América,Y,CB,90,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,,,Match Report
+100,Danilo Arboleda,La Equidad,2019-10-03,Thu,Primera A,Regular season,Away,L 0–1,La Equidad,Junior,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,,,Match Report
+101,Danilo Arboleda,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,L 0–3,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,Match Report
+102,Danilo Arboleda,La Equidad,2019-10-10,Thu,Primera A,Regular season,Away,D 0–0,La Equidad,Rionegro,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,,,Match Report
+103,Danilo Arboleda,La Equidad,2019-10-13,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,,,Match Report
+104,Danilo Arboleda,La Equidad,2019-10-18,Fri,Primera A,Regular season,Away,D 0–0,La Equidad,Envigado,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,3,0,,,Match Report
+105,Danilo Arboleda,La Equidad,2019-10-24,Thu,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+106,Danilo Arboleda,La Equidad,2019-10-29,Tue,Primera A,Regular season,Away,D 2–2,La Equidad,CA Bucaramanga,Y,,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+107,Armando Vargas,La Equidad,2019-01-26,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Huila,N,,14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+108,Armando Vargas,La Equidad,2019-01-29,Tue,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,N,,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+109,Armando Vargas,La Equidad,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,ADU Magdalena,Y,AM,90,0,0,0,0,1,0,1,0,2,2,0,2,1,0,0,,,Match Report
+110,Armando Vargas,La Equidad,2019-02-10,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,AD Cali,N,,35,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,,,Match Report
+111,Armando Vargas,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,AM,60,0,0,0,0,1,0,0,0,2,1,0,1,1,0,0,,,Match Report
+112,Armando Vargas,La Equidad,2019-03-20,Wed,Sudamericana,First stage,Away,D 0–0,co La Equidad,py Independiente,N,,33,0,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,0,Match Report
+113,Armando Vargas,La Equidad,2019-03-25,Mon,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Boyacá Patriot,Y,AM,63,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,,,Match Report
+114,Armando Vargas,La Equidad,2019-03-30,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Tolima,Y,AM,75,0,0,0,0,3,1,0,0,0,2,0,1,0,0,0,,,Match Report
+115,Armando Vargas,La Equidad,2019-04-02,Tue,Primera A,Apertura Regular Season,Away,W 3–1,La Equidad,CD América,Y,AM,73,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,,,Match Report
+116,Armando Vargas,La Equidad,2019-04-06,Sat,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Junior,Y,AM,70,0,1,0,0,2,0,1,0,2,2,0,1,0,0,0,,,Match Report
+117,Armando Vargas,La Equidad,2019-04-13,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Santa Fe,Y,AM,71,1,0,0,0,1,1,0,0,2,2,0,2,0,0,0,,,Match Report
+118,Armando Vargas,La Equidad,2019-04-16,Tue,Sudamericana,First stage,Home,D 0 (4)–0 (3),co La Equidad,py Independiente,Y,AM,120,0,0,0,0,7,3,0,0,0,0,0,4,1,0,0,0,0,Match Report
+119,Armando Vargas,La Equidad,2019-04-20,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Once Caldas,Y,AM,87,0,0,0,0,1,0,0,0,2,0,2,1,0,0,0,,,Match Report
+120,Armando Vargas,La Equidad,2019-04-24,Wed,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,AM,78,0,0,0,0,1,1,0,0,1,1,0,4,0,0,0,,,Match Report
+121,Armando Vargas,La Equidad,2019-04-27,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Envigado,Y,AM,90,0,0,0,0,2,1,1,0,2,0,1,6,0,0,0,,,Match Report
+122,Armando Vargas,La Equidad,2019-05-05,Sun,Primera A,Apertura Regular Season,Home,W 3–1,La Equidad,CA Bucaramanga,Y,AM,62,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,,,Match Report
+123,Armando Vargas,La Equidad,2019-05-22,Wed,Sudamericana,Second stage,Home,W 2–0,co La Equidad,py Santaní,Y,AM,79,0,1,0,0,5,4,0,0,0,0,0,7,0,0,0,0,0,Match Report
+124,Armando Vargas,La Equidad,2019-05-29,Wed,Sudamericana,Second stage,Away,W 2–1,co La Equidad,py Santaní,N,,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+125,Armando Vargas,La Equidad,2019-07-09,Tue,Sudamericana,Round of 16,Away,W 2–1,co La Equidad,bo Royal Parí,Y,AM,90,0,0,0,0,3,2,0,0,1,2,0,3,0,0,0,0,0,Match Report
+126,Armando Vargas,La Equidad,2019-07-16,Tue,Sudamericana,Round of 16,Home,W 2–1,co La Equidad,bo Royal Parí,Y,AM,83,0,0,0,0,2,1,0,0,1,1,0,4,0,0,0,0,0,Match Report
+127,Armando Vargas,La Equidad,2019-07-22,Mon,Primera A,Regular season,Home,L 0–1,La Equidad,Independiente,Y,AM,90,0,0,0,0,3,0,1,0,1,4,0,6,0,0,0,,,Match Report
+128,Armando Vargas,La Equidad,2019-07-27,Sat,Primera A,Regular season,Home,W 2–0,La Equidad,ADU Magdalena,Y,FW,66,0,1,0,0,4,1,0,0,0,0,0,4,1,0,0,,,Match Report
+129,Armando Vargas,La Equidad,2019-08-03,Sat,Primera A,Regular season,Away,L 0–2,La Equidad,AD Cali,Y,DM,90,0,0,0,0,2,0,0,0,2,2,0,2,1,0,0,,,Match Report
+130,Armando Vargas,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,Y,AM,66,0,0,0,0,3,2,0,0,0,0,0,6,1,0,0,,,Match Report
+131,Armando Vargas,La Equidad,2019-08-24,Sat,Primera A,Regular season,Away,L 1–2,La Equidad,Cúcuta,Y,AM,62,0,0,0,0,2,1,0,0,0,1,0,1,0,1,0,,,Match Report
+132,Armando Vargas,La Equidad,2019-08-27,Tue,Sudamericana,Quarter-finals,Home,L 1–3,co La Equidad,br Atlético Mineiro,Y,AM,90,0,1,0,0,3,0,0,0,0,0,0,5,0,0,0,0,0,Match Report
+133,Armando Vargas,La Equidad,2019-08-31,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,Alianza,Y,AM,90,1,0,0,0,5,2,0,0,0,1,0,1,0,0,0,,,Match Report
+134,Armando Vargas,La Equidad,2019-09-04,Wed,Primera A,Regular season,Home,D 0–0,La Equidad,Pasto,Y,AM,75,0,0,0,0,2,0,1,0,1,1,0,1,0,0,0,,,Match Report
+135,Armando Vargas,La Equidad,2019-09-09,Mon,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,AM,78,0,0,0,0,3,1,1,0,0,1,0,4,0,0,0,,,Match Report
+136,Armando Vargas,La Equidad,2019-09-14,Sat,Primera A,Regular season,Home,W 1–0,La Equidad,Boyacá Patriot,N,,28,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,,,Match Report
+137,Armando Vargas,La Equidad,2019-09-20,Fri,Primera A,Regular season,Away,W 1–0,La Equidad,Tolima,Y,AM,72,0,0,0,0,1,0,0,0,3,2,0,3,1,2,0,,,Match Report
+138,Armando Vargas,La Equidad,2019-09-29,Sun,Primera A,Regular season,Home,D 3–3,La Equidad,CD América,Y,AM,62,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,,,Match Report
+139,Armando Vargas,La Equidad,2019-10-03,Thu,Primera A,Regular season,Away,L 0–1,La Equidad,Junior,N,,45,0,0,0,0,1,0,0,0,1,2,0,3,0,0,0,,,Match Report
+140,Armando Vargas,La Equidad,2019-10-10,Thu,Primera A,Regular season,Away,D 0–0,La Equidad,Rionegro,N,,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+141,Armando Vargas,La Equidad,2019-10-24,Thu,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,FW,63,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,,,Match Report
+142,Andrés Murillo,La Equidad,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,ADU Magdalena,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0,,,Match Report
+143,Andrés Murillo,La Equidad,2019-02-17,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Nacional,Y,CB,90,0,0,0,0,1,1,1,0,0,1,0,0,0,2,0,,,Match Report
+144,Andrés Murillo,La Equidad,2019-02-23,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,,,Match Report
+145,Andrés Murillo,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,,,Match Report
+146,Andrés Murillo,La Equidad,2019-03-02,Sat,Primera A,Apertura Regular Season,Home,W 2–1,La Equidad,Cúcuta,Y,CB,90,1,0,0,0,3,2,0,0,1,0,0,0,0,0,0,,,Match Report
+147,Andrés Murillo,La Equidad,2019-03-09,Sat,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,,,Match Report
+148,Andrés Murillo,La Equidad,2019-03-20,Wed,Sudamericana,First stage,Away,D 0–0,co La Equidad,py Independiente,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,Match Report
+149,Andrés Murillo,La Equidad,2019-04-02,Tue,Primera A,Apertura Regular Season,Away,W 3–1,La Equidad,CD América,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+150,Andrés Murillo,La Equidad,2019-04-27,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Envigado,N,,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+151,Andrés Murillo,La Equidad,2019-05-22,Wed,Sudamericana,Second stage,Home,W 2–0,co La Equidad,py Santaní,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+152,Andrés Murillo,La Equidad,2019-05-29,Wed,Sudamericana,Second stage,Away,W 2–1,co La Equidad,py Santaní,Y,LB,90,0,0,0,0,0,0,0,0,1,2,0,1,3,0,0,0,0,Match Report
+153,Andrés Murillo,La Equidad,2019-07-13,Sat,Primera A,Regular season,Away,L 2–3,La Equidad,Huila,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+154,Andrés Murillo,La Equidad,2019-07-22,Mon,Primera A,Regular season,Home,L 0–1,La Equidad,Independiente,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,,,Match Report
+155,Andrés Murillo,La Equidad,2019-08-03,Sat,Primera A,Regular season,Away,L 0–2,La Equidad,AD Cali,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+156,Andrés Murillo,La Equidad,2019-08-17,Sat,Primera A,Regular season,Away,L 2–3,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,,,Match Report
+157,Andrés Murillo,La Equidad,2019-08-24,Sat,Primera A,Regular season,Away,L 1–2,La Equidad,Cúcuta,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,,Match Report
+158,Andrés Murillo,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,L 0–3,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,1,1,0,0,0,1,0,0,3,3,0,,,Match Report
+159,Andrés Murillo,La Equidad,2019-10-10,Thu,Primera A,Regular season,Away,D 0–0,La Equidad,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,0,3,3,0,,,Match Report
+160,Andrés Murillo,La Equidad,2019-10-13,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,LB,90,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,,,Match Report
+161,Andrés Murillo,La Equidad,2019-10-18,Fri,Primera A,Regular season,Away,D 0–0,La Equidad,Envigado,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,,,Match Report
+162,Andrés Murillo,La Equidad,2019-10-24,Thu,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,LB,81,0,0,0,0,1,0,0,0,2,1,0,0,1,2,0,,,Match Report
+163,Andrés Murillo,La Equidad,2019-10-29,Tue,Primera A,Regular season,Away,D 2–2,La Equidad,CA Bucaramanga,Y,,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+164,Cristian Palomeque,La Equidad,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,ADU Magdalena,Y,AM,77,0,0,0,0,3,1,0,0,2,3,0,6,1,0,0,,,Match Report
+165,Cristian Palomeque,La Equidad,2019-02-17,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Nacional,N,,12,0,0,0,0,2,0,0,0,0,0,2,1,1,0,0,,,Match Report
+166,Cristian Palomeque,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,LB,90,0,0,0,0,1,0,0,0,1,1,0,1,3,0,0,,,Match Report
+167,Cristian Palomeque,La Equidad,2019-03-25,Mon,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Boyacá Patriot,N,,27,0,0,0,0,1,1,0,0,0,0,0,2,1,0,0,,,Match Report
+168,Cristian Palomeque,La Equidad,2019-04-13,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Santa Fe,Y,AM,66,0,0,0,0,4,1,1,0,3,3,0,1,0,0,0,,,Match Report
+169,Cristian Palomeque,La Equidad,2019-04-20,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Once Caldas,Y,LB,90,0,0,0,0,0,0,1,0,1,2,0,2,0,2,0,,,Match Report
+170,Cristian Palomeque,La Equidad,2019-04-27,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Envigado,Y,LB,88,0,0,0,0,0,0,0,1,1,1,0,4,2,1,0,,,Match Report
+171,Cristian Palomeque,La Equidad,2019-07-09,Tue,Sudamericana,Round of 16,Away,W 2–1,co La Equidad,bo Royal Parí,N,,27,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,Match Report
+172,Cristian Palomeque,La Equidad,2019-07-16,Tue,Sudamericana,Round of 16,Home,W 2–1,co La Equidad,bo Royal Parí,Y,AM,66,0,0,0,0,2,2,0,0,2,1,0,2,0,0,0,0,0,Match Report
+173,Cristian Palomeque,La Equidad,2019-07-27,Sat,Primera A,Regular season,Home,W 2–0,La Equidad,ADU Magdalena,Y,LM,75,0,1,0,0,2,0,0,0,1,2,0,1,1,2,0,,,Match Report
+174,Cristian Palomeque,La Equidad,2019-08-03,Sat,Primera A,Regular season,Away,L 0–2,La Equidad,AD Cali,Y,DM,90,0,0,0,0,2,0,0,0,0,2,0,4,3,0,0,,,Match Report
+175,Cristian Palomeque,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,Y,AM,77,0,0,0,0,1,1,0,0,2,1,0,2,2,0,0,,,Match Report
+176,Cristian Palomeque,La Equidad,2019-08-20,Tue,Sudamericana,Quarter-finals,Away,L 1–2,co La Equidad,br Atlético Mineiro,Y,LW,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Match Report
+177,Cristian Palomeque,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,L 0–3,La Equidad,Santa Fe,N,,46,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,,,Match Report
+178,Cristian Palomeque,La Equidad,2019-10-10,Thu,Primera A,Regular season,Away,D 0–0,La Equidad,Rionegro,Y,AM,90,0,0,0,0,1,1,0,0,6,1,0,3,1,0,0,,,Match Report
+179,Cristian Palomeque,La Equidad,2019-10-13,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,AM,69,0,1,0,0,2,2,0,0,1,1,0,1,1,0,0,,,Match Report
+180,Cristian Palomeque,La Equidad,2019-10-24,Thu,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,N,,13,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,Match Report
+181,Ethan González,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,N,,9,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,,,Match Report
+182,Ethan González,La Equidad,2019-03-09,Sat,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,N,,33,0,0,0,0,1,0,1,0,3,0,0,1,0,0,0,,,Match Report
+183,Ethan González,La Equidad,2019-04-16,Tue,Sudamericana,First stage,Home,D 0 (4)–0 (3),co La Equidad,py Independiente,N,,37,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+184,Ethan González,La Equidad,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Jaguares,N,,49,0,1,0,0,1,0,0,0,1,6,0,0,0,1,0,,,Match Report
+185,Ethan González,La Equidad,2019-05-05,Sun,Primera A,Apertura Regular Season,Home,W 3–1,La Equidad,CA Bucaramanga,Y,FW,90,0,0,0,0,1,0,0,0,4,7,0,0,1,0,0,,,Match Report
+186,Ethan González,La Equidad,2019-05-22,Wed,Sudamericana,Second stage,Home,W 2–0,co La Equidad,py Santaní,N,,8,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Match Report
+187,Ethan González,La Equidad,2019-07-09,Tue,Sudamericana,Round of 16,Away,W 2–1,co La Equidad,bo Royal Parí,Y,FW,90,2,0,0,0,4,3,0,0,0,2,1,0,0,0,0,0,0,Match Report
+188,Ethan González,La Equidad,2019-07-16,Tue,Sudamericana,Round of 16,Home,W 2–1,co La Equidad,bo Royal Parí,Y,FW,90,1,0,0,0,1,1,0,0,2,3,1,2,1,0,0,0,0,Match Report
+189,Ethan González,La Equidad,2019-07-22,Mon,Primera A,Regular season,Home,L 0–1,La Equidad,Independiente,Y,FW,70,0,0,0,0,3,2,0,0,0,1,0,0,0,0,0,,,Match Report
+190,Ethan González,La Equidad,2019-07-27,Sat,Primera A,Regular season,Home,W 2–0,La Equidad,ADU Magdalena,Y,FW,73,2,0,0,0,4,3,0,0,2,1,0,0,0,0,0,,,Match Report
+191,Ethan González,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,Y,FW,90,0,0,0,0,3,2,0,0,0,3,2,1,0,1,0,,,Match Report
+192,Ethan González,La Equidad,2019-08-20,Tue,Sudamericana,Quarter-finals,Away,L 1–2,co La Equidad,br Atlético Mineiro,Y,FW,54,0,0,0,0,1,1,2,1,2,0,0,0,0,0,0,0,0,Match Report
+193,Ethan González,La Equidad,2019-08-24,Sat,Primera A,Regular season,Away,L 1–2,La Equidad,Cúcuta,Y,FW,90,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,,,Match Report
+194,Ethan González,La Equidad,2019-08-31,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,Alianza,Y,FW,68,0,0,0,0,1,0,0,0,2,0,2,0,1,0,0,,,Match Report
+195,Ethan González,La Equidad,2019-09-04,Wed,Primera A,Regular season,Home,D 0–0,La Equidad,Pasto,Y,FW,90,0,0,0,0,2,0,0,0,4,3,0,0,0,0,0,,,Match Report
+196,Ethan González,La Equidad,2019-09-09,Mon,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,FW,45,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,,,Match Report
+197,Gastón Poncet,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,N,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+198,Gastón Poncet,La Equidad,2019-08-17,Sat,Primera A,Regular season,Away,L 2–3,La Equidad,Millonarios,Y,AM,45,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,,Match Report
+199,Gastón Poncet,La Equidad,2019-08-24,Sat,Primera A,Regular season,Away,L 1–2,La Equidad,Cúcuta,Y,AM,56,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,,,Match Report
+200,Gastón Poncet,La Equidad,2019-09-09,Mon,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,N,,45,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,,,Match Report
+201,Gastón Poncet,La Equidad,2019-09-14,Sat,Primera A,Regular season,Home,W 1–0,La Equidad,Boyacá Patriot,Y,FW,76,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,,,Match Report
+202,Gastón Poncet,La Equidad,2019-09-20,Fri,Primera A,Regular season,Away,W 1–0,La Equidad,Tolima,Y,FW,82,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,,,Match Report
+203,Gastón Poncet,La Equidad,2019-09-29,Sun,Primera A,Regular season,Home,D 3–3,La Equidad,CD América,Y,FW,74,1,0,0,0,2,1,0,0,0,1,1,0,0,0,0,,,Match Report
+204,Gastón Poncet,La Equidad,2019-10-03,Thu,Primera A,Regular season,Away,L 0–1,La Equidad,Junior,Y,FW,90,0,0,0,0,0,0,0,0,3,1,0,2,0,1,0,,,Match Report
+205,Gastón Poncet,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,L 0–3,La Equidad,Santa Fe,N,,35,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,,,Match Report
+206,Gastón Poncet,La Equidad,2019-10-10,Thu,Primera A,Regular season,Away,D 0–0,La Equidad,Rionegro,N,,23,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,,,Match Report
+207,Gastón Poncet,La Equidad,2019-10-18,Fri,Primera A,Regular season,Away,D 0–0,La Equidad,Envigado,Y,AM,62,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,,,Match Report
+208,Joan Castro,La Equidad,2019-08-03,Sat,Primera A,Regular season,Away,L 0–2,La Equidad,AD Cali,N,,37,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+209,Joan Castro,La Equidad,2019-08-10,Sat,Primera A,Regular season,Home,D 0–0,La Equidad,Nacional,Y,RB,90,0,0,0,0,0,0,0,0,0,1,0,1,3,2,0,,,Match Report
+210,Joan Castro,La Equidad,2019-08-17,Sat,Primera A,Regular season,Away,L 2–3,La Equidad,Millonarios,Y,RB,90,0,0,0,0,1,0,0,0,3,0,0,0,1,2,0,,,Match Report
+211,Joan Castro,La Equidad,2019-08-24,Sat,Primera A,Regular season,Away,L 1–2,La Equidad,Cúcuta,Y,RB,90,0,0,0,0,1,0,1,0,2,3,0,1,2,2,0,,,Match Report
+212,Joan Castro,La Equidad,2019-09-04,Wed,Primera A,Regular season,Home,D 0–0,La Equidad,Pasto,Y,RB,90,0,0,0,0,0,0,0,0,1,2,0,3,1,0,0,,,Match Report
+213,Joan Castro,La Equidad,2019-09-09,Mon,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,RB,64,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,,,Match Report
+214,Joan Castro,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,L 0–3,La Equidad,Santa Fe,Y,RB,90,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,,,Match Report
+215,Joan Castro,La Equidad,2019-10-13,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,N,,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+216,Joan Castro,La Equidad,2019-10-18,Fri,Primera A,Regular season,Away,D 0–0,La Equidad,Envigado,N,,28,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,,,Match Report
+217,Joan Castro,La Equidad,2019-10-29,Tue,Primera A,Regular season,Away,D 2–2,La Equidad,CA Bucaramanga,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+218,Jesús González,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,AM,78,0,0,0,0,2,0,0,0,2,4,0,4,1,0,0,,,Match Report
+219,Jesús González,La Equidad,2019-03-09,Sat,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,N,,45,0,0,0,0,1,0,0,0,3,4,0,0,0,0,0,,,Match Report
+220,Jesús González,La Equidad,2019-03-30,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Tolima,N,,9,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,Match Report
+221,Jesús González,La Equidad,2019-04-13,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Santa Fe,N,,24,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,,,Match Report
+222,Jesús González,La Equidad,2019-04-16,Tue,Sudamericana,First stage,Home,D 0 (4)–0 (3),co La Equidad,py Independiente,N,,52,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,Match Report
+223,Jesús González,La Equidad,2019-04-20,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Once Caldas,N,,27,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,Match Report
+224,Jesús González,La Equidad,2019-04-24,Wed,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,AM,90,0,0,0,0,1,0,0,0,3,4,1,6,1,0,0,,,Match Report
+225,Jesús González,La Equidad,2019-04-27,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Envigado,Y,AM,90,0,0,0,0,5,1,1,0,2,3,0,4,0,0,0,,,Match Report
+226,Jesús González,La Equidad,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Jaguares,Y,FW,76,0,0,0,0,2,1,0,0,2,2,1,1,1,0,0,,,Match Report
+227,Jesús González,La Equidad,2019-05-05,Sun,Primera A,Apertura Regular Season,Home,W 3–1,La Equidad,CA Bucaramanga,N,,19,0,0,0,0,1,0,0,0,0,0,2,1,0,1,0,,,Match Report
+228,Jesús González,La Equidad,2019-05-29,Wed,Sudamericana,Second stage,Away,W 2–1,co La Equidad,py Santaní,N,,12,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+229,Jesús González,La Equidad,2019-07-09,Tue,Sudamericana,Round of 16,Away,W 2–1,co La Equidad,bo Royal Parí,Y,DM,72,0,0,0,0,2,0,0,0,2,4,0,1,0,0,0,0,0,Match Report
+230,Jesús González,La Equidad,2019-07-16,Tue,Sudamericana,Round of 16,Home,W 2–1,co La Equidad,bo Royal Parí,Y,AM,90,0,0,0,0,1,0,1,0,1,3,1,1,0,0,0,0,0,Match Report
+231,Jesús González,La Equidad,2019-07-22,Mon,Primera A,Regular season,Home,L 0–1,La Equidad,Independiente,N,,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+232,Jesús González,La Equidad,2019-08-17,Sat,Primera A,Regular season,Away,L 2–3,La Equidad,Millonarios,Y,AM,65,0,0,0,0,1,0,0,0,2,3,1,0,0,0,0,,,Match Report
+233,Jesús González,La Equidad,2019-08-27,Tue,Sudamericana,Quarter-finals,Home,L 1–3,co La Equidad,br Atlético Mineiro,N,,12,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,Match Report
+234,Carlos Ibargüen,La Equidad,2019-01-29,Tue,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,N,,25,0,0,0,0,0,0,0,0,4,1,1,0,1,0,0,,,Match Report
+235,Carlos Ibargüen,La Equidad,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,ADU Magdalena,Y,FW,71,0,0,0,0,2,0,0,0,0,2,3,0,1,0,0,,,Match Report
+236,Carlos Ibargüen,La Equidad,2019-02-10,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,AD Cali,N,,16,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,,,Match Report
+237,Carlos Ibargüen,La Equidad,2019-02-23,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,Millonarios,N,,33,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,,,Match Report
+238,Carlos Ibargüen,La Equidad,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,FW,81,0,0,0,0,4,0,0,0,5,2,1,0,0,0,0,,,Match Report
+239,Carlos Ibargüen,La Equidad,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Boyacá Patriot,Y,AM,90,0,0,0,0,3,1,0,0,4,1,0,0,0,0,0,,,Match Report
+240,Carlos Ibargüen,La Equidad,2019-03-20,Wed,Sudamericana,First stage,Away,D 0–0,co La Equidad,py Independiente,Y,FW,90,0,0,0,0,0,0,1,0,2,2,1,0,1,0,0,0,0,Match Report
+241,Carlos Ibargüen,La Equidad,2019-03-25,Mon,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Boyacá Patriot,N,,16,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+242,Carlos Ibargüen,La Equidad,2019-07-16,Tue,Primera A,Regular season,Home,L 0–1,CA Bucaramanga,AD Cali,Y,FW,90,0,0,0,0,5,1,0,0,4,5,1,0,0,0,0,,,Match Report
+243,Carlos Ibargüen,La Equidad,2019-07-21,Sun,Primera A,Regular season,Away,D 0–0,CA Bucaramanga,Nacional,Y,FW,74,0,0,0,0,0,0,1,0,5,1,3,0,0,1,0,,,Match Report
+244,Carlos Ibargüen,La Equidad,2019-07-27,Sat,Primera A,Regular season,Home,L 1–2,CA Bucaramanga,Millonarios,Y,FW,54,0,0,0,0,1,1,0,0,5,1,0,0,1,0,0,,,Match Report
+245,Carlos Ibargüen,La Equidad,2019-09-01,Sun,Primera A,Regular season,Home,D 0–0,CA Bucaramanga,Junior,N,,4,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+246,Carlos Ibargüen,La Equidad,2019-09-07,Sat,Primera A,Regular season,Away,L 0–2,CA Bucaramanga,Cúcuta,N,,24,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+247,Carlos Ibargüen,La Equidad,2019-09-13,Fri,Primera A,Regular season,Home,W 2–0,CA Bucaramanga,Rionegro,Y,FW,63,0,0,0,0,3,0,0,0,5,3,1,1,0,0,0,,,Match Report
+248,Carlos Ibargüen,La Equidad,2019-09-21,Sat,Primera A,Regular season,Away,D 1–1,CA Bucaramanga,CD América,Y,FW,82,0,0,0,0,1,0,0,0,4,3,3,0,0,1,0,,,Match Report
+249,Carlos Ibargüen,La Equidad,2019-09-28,Sat,Primera A,Regular season,Home,L 2–3,CA Bucaramanga,Envigado,Y,FW,67,0,0,0,0,4,1,0,0,2,1,0,1,0,1,0,,,Match Report
+250,Carlos Ibargüen,La Equidad,2019-10-03,Thu,Primera A,Regular season,Away,L 0–2,CA Bucaramanga,Santa Fe,N,,16,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,,,Match Report
+251,Carlos Ibargüen,La Equidad,2019-10-06,Sun,Primera A,Regular season,Home,D 2–2,CA Bucaramanga,Independiente,N,,8,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,Match Report
+252,Carlos Ibargüen,La Equidad,2019-10-24,Thu,Primera A,Regular season,Away,W 2–1,CA Bucaramanga,ADU Magdalena,N,,13,0,0,0,0,2,2,0,0,1,0,2,0,0,0,0,,,Match Report
+253,Carlos Ibargüen,La Equidad,2019-10-29,Tue,Primera A,Regular season,Home,D 2–2,CA Bucaramanga,La Equidad,Y,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+254,John Edison García,La Equidad,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Jaguares,Y,CB,90,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,,,Match Report
+255,John Edison García,La Equidad,2018-03-06,Tue,Primera A,Apertura Regular Season,Home,W 4–0,La Equidad,Boyacá Chicó,N,,37,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,Match Report
+256,John Edison García,La Equidad,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,AD Cali,Y,CB,81,0,0,0,0,0,0,0,0,1,2,0,0,1,2,0,,,Match Report
+257,John Edison García,La Equidad,2018-04-01,Sun,Primera A,Apertura Regular Season,Away,L 2–3,La Equidad,Once Caldas,N,,46,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,,,Match Report
+258,John Edison García,La Equidad,2018-04-07,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report
+259,John Edison García,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,Y,CB,90,0,0,0,0,1,0,1,0,2,1,0,0,0,2,0,,,Match Report
+260,John Edison García,La Equidad,2018-04-14,Sat,Primera A,Apertura Regular Season,Away,L 1–4,La Equidad,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,,,Match Report
+261,John Edison García,La Equidad,2018-04-21,Sat,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,2,0,0,0,1,1,0,0,2,2,0,,,Match Report
+262,John Edison García,La Equidad,2018-04-26,Thu,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Santa Fe,Y,CB,90,1,0,0,0,2,1,0,0,0,2,0,0,0,0,0,,,Match Report
+263,John Edison García,La Equidad,2018-04-29,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+264,John Edison García,La Equidad,2018-05-06,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,CD América,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+265,John Edison García,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,,Match Report
+266,John Edison García,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,,,Match Report
+267,John Edison García,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,CB,90,0,0,0,0,1,0,1,0,1,2,0,0,0,3,0,,,Match Report
+268,John Edison García,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,1,2,0,,,Match Report
+269,John Edison García,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,CB,90,0,0,0,0,1,1,1,0,3,0,0,1,0,1,0,,,Match Report
+270,John Edison García,La Equidad,2018-09-01,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Boyacá Chicó,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,2,0,,,Match Report
+271,John Edison García,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,,,Match Report
+272,John Edison García,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,,,Match Report
+273,John Edison García,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,,,Match Report
+274,John Edison García,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,1,0,1,0,2,1,0,0,0,3,0,,,Match Report
+275,John Edison García,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,,,Match Report
+276,John Edison García,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,Y,CB,90,0,0,0,0,1,1,1,0,1,0,0,0,1,2,0,,,Match Report
+277,John Edison García,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,5,0,,,Match Report
+278,John Edison García,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,Y,CB,45,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,,,Match Report
+279,John Edison García,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,Y,CB,90,1,0,0,0,1,1,0,0,1,0,0,0,0,4,0,,,Match Report
+280,John Edison García,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,Y,CB,90,0,0,0,0,1,0,1,0,0,1,0,0,0,3,0,,,Match Report
+281,John Edison García,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,,,Match Report
+282,John Edison García,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,Y,CB,90,0,0,0,0,5,1,0,0,1,0,0,0,2,0,0,,,Match Report
+283,Carlos Peralta,La Equidad,2018-03-06,Tue,Primera A,Apertura Regular Season,Home,W 4–0,La Equidad,Boyacá Chicó,Y,FW,45,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,,Match Report
+284,Carlos Peralta,La Equidad,2018-03-13,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Independiente,Y,FW,66,0,0,0,0,2,0,0,0,2,4,1,0,0,0,0,,,Match Report
+285,Carlos Peralta,La Equidad,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,AD Cali,Y,FW,72,1,0,1,1,7,3,0,0,3,1,1,1,0,0,0,,,Match Report
+286,Carlos Peralta,La Equidad,2018-03-24,Sat,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Rionegro,Y,FW,61,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,,,Match Report
+287,Carlos Peralta,La Equidad,2018-03-28,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Junior,N,,13,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,,,Match Report
+288,Carlos Peralta,La Equidad,2018-04-01,Sun,Primera A,Apertura Regular Season,Away,L 2–3,La Equidad,Once Caldas,Y,FW,71,2,0,0,0,3,3,0,0,2,2,0,0,1,0,0,,,Match Report
+289,Carlos Peralta,La Equidad,2018-04-07,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Millonarios,Y,FW,90,0,0,0,0,4,0,0,0,4,2,0,0,1,0,0,,,Match Report
+290,Carlos Peralta,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,Y,FW,90,2,0,1,1,8,3,0,0,2,0,1,0,0,0,0,,,Match Report
+291,Carlos Peralta,La Equidad,2018-04-14,Sat,Primera A,Apertura Regular Season,Away,L 1–4,La Equidad,Tolima,Y,FW,90,1,0,0,0,2,1,0,0,2,4,1,0,0,0,0,,,Match Report
+292,Carlos Peralta,La Equidad,2018-04-21,Sat,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Boyacá Patriot,Y,FW,89,0,0,0,0,3,1,0,1,2,0,0,0,0,0,0,,,Match Report
+293,Carlos Peralta,La Equidad,2018-05-06,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,CD América,Y,FW,66,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+294,Carlos Peralta,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,FW,90,2,0,2,2,3,2,0,0,4,2,1,0,0,0,0,,,Match Report
+295,Carlos Peralta,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,FW,90,1,0,0,0,5,3,0,0,1,3,0,0,1,0,0,,,Match Report
+296,Carlos Peralta,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,FW,90,1,0,0,0,2,1,0,0,1,1,0,0,3,0,0,,,Match Report
+297,Carlos Peralta,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,FW,90,1,0,0,0,3,2,0,0,4,2,0,1,0,0,0,,,Match Report
+298,Carlos Peralta,La Equidad,2018-08-24,Fri,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,FW,86,1,0,0,0,5,2,0,0,1,3,1,0,2,0,0,,,Match Report
+299,Carlos Peralta,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,Y,FW,90,1,0,1,1,5,3,0,0,0,1,0,0,0,0,0,,,Match Report
+300,Carlos Peralta,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,Y,FW,90,0,0,0,0,4,2,0,0,1,2,0,0,1,0,0,,,Match Report
+301,Carlos Peralta,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,Y,FW,90,0,0,0,0,1,0,0,0,3,4,0,0,0,1,0,,,Match Report
+302,Carlos Peralta,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,Y,FW,59,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,,,Match Report
+303,Carlos Peralta,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,N,,35,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,,,Match Report
+304,Carlos Peralta,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,Y,FW,86,0,0,0,0,0,0,0,0,2,2,1,0,1,1,0,,,Match Report
+305,Carlos Peralta,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,Y,FW,90,1,0,0,0,3,1,0,0,1,3,1,0,0,0,0,,,Match Report
+306,Carlos Peralta,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,Y,FW,90,2,0,1,1,9,6,0,0,0,1,0,0,1,0,0,,,Match Report
+307,Carlos Peralta,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,Y,FW,90,0,0,0,0,0,0,0,0,3,1,0,1,1,0,0,,,Match Report
+308,Carlos Peralta,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,Y,FW,62,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+309,Carlos Peralta,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,Y,FW,90,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,,,Match Report
+310,Hansel Zapata,La Equidad,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,CA Bucaramanga,N,,32,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,Match Report
+311,Hansel Zapata,La Equidad,2018-02-20,Tue,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,N,,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,Match Report
+312,Hansel Zapata,La Equidad,2018-02-25,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,N,,19,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,,,Match Report
+313,Hansel Zapata,La Equidad,2018-03-03,Sat,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Huila,N,,45,0,0,0,0,2,0,0,0,0,1,0,2,0,0,0,,,Match Report
+314,Hansel Zapata,La Equidad,2018-03-13,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Independiente,N,,24,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+315,Hansel Zapata,La Equidad,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,AD Cali,Y,AM,64,1,0,0,0,1,1,0,0,0,1,1,2,0,1,0,,,Match Report
+316,Hansel Zapata,La Equidad,2018-03-24,Sat,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Rionegro,Y,AM,90,1,0,0,0,1,1,0,0,1,0,0,3,4,0,0,,,Match Report
+317,Hansel Zapata,La Equidad,2018-03-28,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Junior,Y,AM,60,0,0,0,0,2,0,1,0,1,0,0,1,0,0,0,,,Match Report
+318,Hansel Zapata,La Equidad,2018-04-01,Sun,Primera A,Apertura Regular Season,Away,L 2–3,La Equidad,Once Caldas,Y,AM,44,0,0,0,0,1,0,0,0,0,0,0,4,1,0,0,,,Match Report
+319,Hansel Zapata,La Equidad,2018-04-07,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Millonarios,N,,4,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,,,Match Report
+320,Hansel Zapata,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,N,,36,0,1,0,0,0,0,0,0,1,0,0,7,0,0,0,,,Match Report
+321,Hansel Zapata,La Equidad,2018-04-14,Sat,Primera A,Apertura Regular Season,Away,L 1–4,La Equidad,Tolima,Y,AM,90,0,0,0,0,2,0,0,0,0,3,0,3,0,0,0,,,Match Report
+322,Hansel Zapata,La Equidad,2018-04-21,Sat,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Boyacá Patriot,Y,AM,59,0,0,0,0,1,0,1,0,1,1,0,6,0,0,0,,,Match Report
+323,Hansel Zapata,La Equidad,2018-04-26,Thu,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Santa Fe,Y,AM,90,0,1,0,0,2,1,0,0,1,2,0,7,0,0,0,,,Match Report
+324,Hansel Zapata,La Equidad,2018-04-29,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Nacional,Y,AM,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+325,Hansel Zapata,La Equidad,2018-05-06,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,CD América,Y,AM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+326,Hansel Zapata,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,AM,90,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,,,Match Report
+327,Hansel Zapata,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,AM,76,0,1,0,0,0,0,0,0,1,1,0,5,0,0,0,,,Match Report
+328,Hansel Zapata,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,AM,90,0,2,0,0,2,0,0,0,0,2,1,7,1,0,0,,,Match Report
+329,Hansel Zapata,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,AM,90,0,0,0,0,5,1,0,0,0,2,1,3,1,0,0,,,Match Report
+330,Hansel Zapata,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,AM,90,0,1,0,0,2,0,0,0,1,5,0,9,0,1,0,,,Match Report
+331,Hansel Zapata,La Equidad,2018-08-24,Fri,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,AM,22,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,,,Match Report
+332,Hansel Zapata,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,Y,AM,90,0,0,0,0,1,0,0,0,0,0,0,11,0,0,0,,,Match Report
+333,Hansel Zapata,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,N,,45,0,0,0,0,1,0,0,0,1,0,0,6,1,0,0,,,Match Report
+334,Hansel Zapata,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,Y,AM,90,0,1,0,0,2,0,0,0,0,1,1,8,0,1,0,,,Match Report
+335,Hansel Zapata,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,N,,45,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,,,Match Report
+336,Hansel Zapata,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,N,,45,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,,,Match Report
+337,Hansel Zapata,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+338,Hansel Zapata,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,N,,45,0,0,0,0,2,0,0,0,0,2,0,3,0,0,0,,,Match Report
+339,Hansel Zapata,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,Y,AM,90,0,0,0,0,0,0,0,0,2,2,0,3,0,0,0,,,Match Report
+340,Hansel Zapata,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,N,,23,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,,Match Report
+341,Hansel Zapata,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,Y,AM,67,0,0,0,0,2,1,1,0,2,1,0,2,0,1,0,,,Match Report
+342,Hansel Zapata,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,N,,29,0,0,0,0,1,0,0,0,0,0,0,5,1,0,0,,,Match Report
+343,Hansel Zapata,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,Y,AM,85,0,0,0,0,0,0,0,0,0,0,1,4,2,0,0,,,Match Report
+344,Hansel Zapata,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,Y,AM,90,0,0,0,0,2,0,0,0,1,1,0,7,0,0,0,,,Match Report
+345,Pablo Lima,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,DM,77,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,,,Match Report
+346,Pablo Lima,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,DM,90,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,Match Report
+347,Pablo Lima,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,DM,90,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,,,Match Report
+348,Pablo Lima,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,DM,90,0,0,0,0,1,0,0,0,0,1,0,0,3,0,0,,,Match Report
+349,Pablo Lima,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,DM,90,0,0,0,0,2,0,1,0,0,2,0,0,0,0,0,,,Match Report
+350,Pablo Lima,La Equidad,2018-08-24,Fri,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,DM,90,0,0,0,0,2,0,0,0,2,1,0,0,1,1,0,,,Match Report
+351,Pablo Lima,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,Y,DM,90,0,0,0,0,2,0,0,0,1,1,0,1,2,0,0,,,Match Report
+352,Pablo Lima,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,Y,DM,90,0,0,0,0,2,1,0,0,2,1,0,0,2,0,0,,,Match Report
+353,Pablo Lima,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,Y,DM,90,0,0,0,0,1,0,1,0,0,2,0,0,2,3,0,,,Match Report
+354,Pablo Lima,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,Y,DM,90,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,,,Match Report
+355,Pablo Lima,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,DM,90,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,,,Match Report
+356,Pablo Lima,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,Y,DM,90,0,0,0,0,1,0,0,0,1,0,0,0,2,1,0,,,Match Report
+357,Pablo Lima,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,Y,DM,90,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,,,Match Report
+358,Pablo Lima,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,DM,70,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,,,Match Report
+359,Pablo Lima,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,N,,27,0,0,0,0,0,0,1,0,2,2,0,0,1,0,0,,,Match Report
+360,Pablo Lima,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,Y,DM,90,0,0,0,0,0,0,0,0,0,1,0,1,0,4,0,,,Match Report
+361,Pablo Lima,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,Y,DM,78,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,,,Match Report
+362,Pablo Lima,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,Y,DM,90,0,0,0,0,0,0,0,0,1,0,0,1,1,3,0,,,Match Report
+363,Pablo Lima,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,Y,DM,90,0,0,0,0,0,0,0,0,1,1,0,0,1,4,0,,,Match Report
+364,Matías Mier,La Equidad,2018-02-01,Thu,Libertadores,Second qualifying stage,Away,L 0–1,co Junior,py Olimpia,N,,10,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,Match Report
+365,Matías Mier,La Equidad,2018-02-04,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Junior,CA Bucaramanga,Y,AM,63,0,0,0,0,1,0,1,0,1,0,0,4,1,1,0,,,Match Report
+366,Matías Mier,La Equidad,2018-02-18,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Junior,Huila,Y,AM,66,0,0,0,0,5,2,0,0,1,1,0,5,0,0,0,,,Match Report
+367,Matías Mier,La Equidad,2018-02-25,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Junior,Boyacá Chicó,Y,AM,64,0,0,0,0,1,0,0,0,2,3,0,2,0,0,0,,,Match Report
+368,Matías Mier,La Equidad,2018-03-01,Thu,Libertadores,Group stage,Home,L 0–3,co Junior,br Palmeiras,Y,DM,32,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Match Report
+369,Matías Mier,La Equidad,2018-03-24,Sat,Primera A,Apertura Regular Season,Home,W 3–0,Junior,Once Caldas,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+370,Matías Mier,La Equidad,2018-03-28,Wed,Primera A,Apertura Regular Season,Away,D 0–0,Junior,La Equidad,N,,7,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,,,Match Report
+371,Matías Mier,La Equidad,2018-04-08,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Junior,Tolima,N,,45,0,0,0,0,2,1,0,0,1,1,0,2,0,1,0,,,Match Report
+372,Matías Mier,La Equidad,2018-04-15,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Junior,Boyacá Patriot,Y,FW,90,0,0,0,0,2,0,1,0,1,1,0,5,2,1,0,,,Match Report
+373,Matías Mier,La Equidad,2018-04-25,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Junior,Nacional,Y,LW,45,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,,,Match Report
+374,Matías Mier,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,AM,64,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,,,Match Report
+375,Matías Mier,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,AM,64,0,0,0,0,3,0,0,0,0,3,0,1,1,0,0,,,Match Report
+376,Matías Mier,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,AM,69,0,0,0,0,3,1,0,0,0,0,0,1,1,0,0,,,Match Report
+377,Matías Mier,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,AM,68,0,1,0,0,3,0,0,0,1,2,0,3,0,2,0,,,Match Report
+378,Matías Mier,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,N,,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+379,Matías Mier,La Equidad,2018-08-24,Fri,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,AM,79,0,0,0,0,5,1,0,0,2,1,1,1,2,1,0,,,Match Report
+380,Matías Mier,La Equidad,2018-09-01,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Boyacá Chicó,N,,29,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,,,Match Report
+381,Matías Mier,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,Y,AM,68,0,0,0,0,0,0,0,0,0,3,0,3,1,0,0,,,Match Report
+382,Matías Mier,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,N,,38,0,0,0,0,3,0,1,0,2,1,0,2,1,0,0,,,Match Report
+383,Matías Mier,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,Y,AM,59,0,0,0,0,2,1,0,0,3,0,0,2,0,1,0,,,Match Report
+384,Matías Mier,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,N,,45,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,,,Match Report
+385,Matías Mier,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,Y,AM,90,1,0,0,0,5,2,0,0,3,1,0,4,0,2,0,,,Match Report
+386,Matías Mier,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,Y,AM,64,0,0,0,0,1,0,0,0,1,0,1,10,0,0,0,,,Match Report
+387,Matías Mier,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,AM,45,0,0,0,0,2,1,0,0,0,0,0,4,0,0,0,,,Match Report
+388,Matías Mier,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,Y,AM,63,0,0,0,0,1,1,0,0,2,1,0,2,1,0,0,,,Match Report
+389,Matías Mier,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,Y,AM,90,0,1,0,0,3,3,1,0,1,0,1,8,1,0,0,,,Match Report
+390,Matías Mier,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,Y,AM,59,0,0,0,0,1,0,0,0,1,0,0,1,0,3,0,,,Match Report
+391,Matías Mier,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,Y,AM,90,0,0,0,0,2,0,0,0,1,1,1,1,1,2,0,,,Match Report
+392,Matías Mier,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,Y,AM,45,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+393,Oscar Bernal,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,Y,RB,90,0,0,0,0,1,0,0,0,3,0,0,2,3,1,0,,,Match Report
+394,Oscar Bernal,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,Y,RB,90,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,,,Match Report
+395,Oscar Bernal,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,Y,RB,45,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,,,Match Report
+396,Oscar Bernal,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,Y,RB,45,0,0,0,0,1,0,0,0,2,0,0,2,1,0,0,,,Match Report
+397,Oscar Bernal,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,RB,90,0,0,0,0,1,0,0,0,2,2,0,1,1,0,0,,,Match Report
+398,Oscar Bernal,La Equidad,2018-08-24,Fri,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,N,,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+399,Oscar Bernal,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,Y,RB,90,0,0,0,0,0,0,1,0,1,6,0,2,1,0,0,,,Match Report
+400,Oscar Bernal,La Equidad,2018-09-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,AD Cali,Y,RB,45,0,0,0,0,0,0,1,0,1,2,0,0,2,0,0,,,Match Report
+401,Oscar Bernal,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,Y,RB,90,0,0,0,0,0,0,0,0,2,7,0,3,0,3,0,,,Match Report
+402,Oscar Bernal,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,N,,57,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,,,Match Report
+403,Oscar Bernal,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,Y,RB,90,0,0,0,0,3,1,1,0,2,4,0,5,2,4,0,,,Match Report
+404,Luis Carlos Cabezas,La Equidad,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Jaguares,N,,19,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,Match Report
+405,Luis Carlos Cabezas,La Equidad,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,CA Bucaramanga,N,,32,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,,,Match Report
+406,Luis Carlos Cabezas,La Equidad,2018-02-20,Tue,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,FW,90,0,0,0,0,2,0,0,0,1,2,2,1,0,0,0,,,Match Report
+407,Luis Carlos Cabezas,La Equidad,2018-02-25,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,FW,71,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+408,Luis Carlos Cabezas,La Equidad,2018-03-03,Sat,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Huila,Y,FW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+409,Luis Carlos Cabezas,La Equidad,2018-03-13,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Independiente,Y,FW,55,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,,,Match Report
+410,Luis Carlos Cabezas,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,Y,FW,54,0,0,0,0,2,1,0,0,1,3,0,1,0,0,0,,,Match Report
+411,Luis Carlos Cabezas,La Equidad,2018-04-14,Sat,Primera A,Apertura Regular Season,Away,L 1–4,La Equidad,Tolima,N,,13,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,Match Report
+412,Luis Carlos Cabezas,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,FW,55,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,Match Report
+413,Luis Carlos Cabezas,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,N,,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+414,Luis Carlos Cabezas,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,Y,FW,85,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,,,Match Report
+415,Luis Carlos Cabezas,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,FW,90,0,0,0,0,6,1,0,0,1,1,0,0,0,0,0,,,Match Report
+416,Luis Carlos Cabezas,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,Y,FW,61,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+417,Luis Carlos Cabezas,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,N,,10,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,,Match Report
+418,David Camacho,La Equidad,2018-02-05,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Alianza,Y,DM,65,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,,,Match Report
+419,David Camacho,La Equidad,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Jaguares,N,,8,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,Match Report
+420,David Camacho,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,Y,RM,45,0,0,0,0,0,0,1,0,1,2,0,1,1,0,0,,,Match Report
+421,David Camacho,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,N,,13,0,0,0,0,0,0,1,0,1,3,0,1,1,0,0,,,Match Report
+422,David Camacho,La Equidad,2018-09-30,Sun,Primera A,Regular season,Home,D 1–1,La Equidad,Once Caldas,Y,AM,90,0,0,0,0,1,0,0,0,4,3,0,1,2,0,0,,,Match Report
+423,David Camacho,La Equidad,2018-10-08,Mon,Primera A,Regular season,Away,W 3–2,La Equidad,Millonarios,Y,AM,45,1,0,0,0,2,1,0,0,1,0,0,1,0,1,0,,,Match Report
+424,David Camacho,La Equidad,2018-10-14,Sun,Primera A,Regular season,Away,W 1–0,La Equidad,Leones FC,Y,AM,90,0,1,0,0,2,0,0,0,1,0,1,2,3,0,0,,,Match Report
+425,David Camacho,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,AM,59,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,,Match Report
+426,David Camacho,La Equidad,2018-10-28,Sun,Primera A,Regular season,Home,W 4–0,La Equidad,Boyacá Patriot,Y,AM,67,1,0,0,0,3,2,0,0,1,1,0,6,0,0,0,,,Match Report
+427,David Camacho,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,N,,23,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+428,David Camacho,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,Y,RM,90,0,0,0,0,2,1,0,0,3,4,1,3,3,0,0,,,Match Report
+429,David Camacho,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,N,,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+430,Arbey Mosquera,La Equidad,2018-02-05,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Alianza,Y,FW,90,0,0,0,0,6,2,1,0,1,0,1,0,2,0,0,,,Match Report
+431,Arbey Mosquera,La Equidad,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Jaguares,Y,FW,90,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,,,Match Report
+432,Arbey Mosquera,La Equidad,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,FW,58,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,,,Match Report
+433,Arbey Mosquera,La Equidad,2018-03-03,Sat,Primera A,Apertura Regular Season,Away,L 1–3,La Equidad,Huila,N,,45,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,,,Match Report
+434,Arbey Mosquera,La Equidad,2018-03-06,Tue,Primera A,Apertura Regular Season,Home,W 4–0,La Equidad,Boyacá Chicó,Y,FW,90,2,0,0,0,3,2,0,0,3,3,0,0,0,0,0,,,Match Report
+435,Arbey Mosquera,La Equidad,2018-03-13,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Independiente,N,,35,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,,,Match Report
+436,Arbey Mosquera,La Equidad,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,AD Cali,N,,18,0,0,0,0,2,1,0,0,1,1,0,0,1,0,0,,,Match Report
+437,Arbey Mosquera,La Equidad,2018-03-24,Sat,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Rionegro,N,,29,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,,,Match Report
+438,Arbey Mosquera,La Equidad,2018-03-28,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Junior,Y,FW,77,0,0,0,0,0,0,0,0,1,3,2,0,0,1,0,,,Match Report
+439,Arbey Mosquera,La Equidad,2018-04-01,Sun,Primera A,Apertura Regular Season,Away,L 2–3,La Equidad,Once Caldas,N,,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+440,Arbey Mosquera,La Equidad,2018-04-26,Thu,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Santa Fe,Y,FW,90,0,0,0,0,1,0,0,0,2,1,1,0,0,0,0,,,Match Report
+441,Arbey Mosquera,La Equidad,2018-04-29,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Nacional,N,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+442,Arbey Mosquera,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,FW,61,0,0,0,0,2,1,0,0,3,0,0,0,0,0,0,,,Match Report
+443,Arbey Mosquera,La Equidad,2018-09-01,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Boyacá Chicó,N,,7,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+444,Arbey Mosquera,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,N,,31,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,Match Report
+445,Arbey Mosquera,La Equidad,2018-10-17,Wed,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,N,,20,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,,,Match Report
+446,Mariano Vázquez,La Equidad,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,CA Bucaramanga,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+447,Mariano Vázquez,La Equidad,2018-02-20,Tue,Primera A,Apertura Regular Season,Away,D 0–0,La Equidad,Pasto,Y,AM,58,0,0,0,0,0,0,0,0,3,2,0,2,0,1,0,,,Match Report
+448,Mariano Vázquez,La Equidad,2018-02-25,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,AM,57,0,0,0,0,3,0,0,0,2,2,0,3,0,1,0,,,Match Report
+449,Mariano Vázquez,La Equidad,2018-03-06,Tue,Primera A,Apertura Regular Season,Home,W 4–0,La Equidad,Boyacá Chicó,Y,LW,90,1,0,0,0,1,1,0,0,3,3,0,0,0,2,0,,,Match Report
+450,Mariano Vázquez,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,N,,26,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,,,Match Report
+451,Mariano Vázquez,La Equidad,2018-07-27,Fri,Primera A,Regular season,Home,W 2–0,La Equidad,Jaguares,N,,15,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,,,Match Report
+452,Mariano Vázquez,La Equidad,2018-08-04,Sat,Primera A,Regular season,Away,W 2–0,La Equidad,CA Bucaramanga,N,,21,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,,,Match Report
+453,Mariano Vázquez,La Equidad,2018-08-12,Sun,Primera A,Regular season,Home,W 1–0,La Equidad,Pasto,N,,22,0,0,0,0,0,0,0,0,2,2,0,1,1,0,0,,,Match Report
+454,Mariano Vázquez,La Equidad,2018-08-20,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Envigado,Y,AM,76,0,0,0,0,2,0,0,0,0,3,0,0,1,0,0,,,Match Report
+455,Mariano Vázquez,La Equidad,2018-09-01,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Boyacá Chicó,Y,AM,68,0,0,0,0,1,0,0,0,1,4,0,3,0,0,0,,,Match Report
+456,Mariano Vázquez,La Equidad,2018-09-06,Thu,Primera A,Regular season,Home,D 1–1,La Equidad,Independiente,N,,14,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,,,Match Report
+457,Mariano Vázquez,La Equidad,2018-09-16,Sun,Primera A,Regular season,Home,L 0–2,La Equidad,Rionegro,N,,31,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,Match Report
+458,Mariano Vázquez,La Equidad,2018-09-22,Sat,Primera A,Regular season,Away,L 1–3,La Equidad,Junior,N,,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+459,Mariano Vázquez,La Equidad,2018-10-20,Sat,Primera A,Regular season,Away,W 1–0,La Equidad,Santa Fe,Y,AM,90,0,0,0,0,0,0,0,0,1,4,0,0,1,0,0,,,Match Report
+460,Mariano Vázquez,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,N,,31,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,,,Match Report
+461,Mariano Vázquez,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,Y,LM,90,0,0,0,0,1,0,1,0,0,3,0,5,0,0,0,,,Match Report
+462,Mariano Vázquez,La Equidad,2018-11-18,Sun,Primera A,Quarter-finals,Home,D 0–0,La Equidad,Junior,N,,25,0,0,0,0,1,1,0,0,1,2,0,0,0,0,0,,,Match Report
+463,Daniel Enrique Padilla,La Equidad,2018-02-05,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Alianza,Y,DM,90,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,,,Match Report
+464,Daniel Enrique Padilla,La Equidad,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Jaguares,N,,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,,Match Report
+465,Daniel Enrique Padilla,La Equidad,2018-03-24,Sat,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Rionegro,N,,25,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,,,Match Report
+466,Daniel Enrique Padilla,La Equidad,2018-03-28,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Junior,Y,DM,90,0,0,0,0,0,0,0,0,0,2,0,0,4,2,0,,,Match Report
+467,Daniel Enrique Padilla,La Equidad,2018-04-01,Sun,Primera A,Apertura Regular Season,Away,L 2–3,La Equidad,Once Caldas,Y,DM,90,0,0,0,0,1,1,1,0,1,4,0,0,2,2,0,,,Match Report
+468,Daniel Enrique Padilla,La Equidad,2018-04-07,Sat,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Millonarios,Y,DM,90,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,,,Match Report
+469,Daniel Enrique Padilla,La Equidad,2018-04-10,Tue,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Leones FC,Y,CM,75,0,0,0,0,1,0,0,0,4,2,0,0,0,1,0,,,Match Report
+470,Daniel Enrique Padilla,La Equidad,2018-04-26,Thu,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Santa Fe,N,,13,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,,Match Report
+471,Daniel Enrique Padilla,La Equidad,2018-07-20,Fri,Primera A,Regular season,Away,W 2–0,La Equidad,Alianza,N,,33,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,Match Report
+472,Daniel Enrique Padilla,La Equidad,2018-11-05,Mon,Primera A,Regular season,Away,D 0–0,La Equidad,Nacional,N,,12,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+473,Daniel Enrique Padilla,La Equidad,2018-11-10,Sat,Primera A,Regular season,Home,L 1–2,La Equidad,CD América,Y,CM,90,0,0,0,0,1,1,0,0,2,0,0,1,1,4,0,,,Match Report
+474,Daniel Enrique Padilla,La Equidad,2018-11-15,Thu,Primera A,Quarter-finals,Away,L 0–1,La Equidad,Junior,N,,45,0,0,0,0,1,0,1,0,1,0,0,0,4,2,0,,,Match Report
+475,Andrés Correa,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,Y,LB,90,0,0,0,0,1,0,0,0,0,1,0,2,0,4,0,,,Match Report
+476,Andrés Correa,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,Y,LB,90,0,0,0,0,0,0,1,0,4,2,0,0,2,1,0,,,Match Report
+477,Andrés Correa,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,Y,LB,90,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,,,Match Report
+478,Andrés Correa,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,Y,LB,90,0,0,0,0,0,0,0,0,2,1,0,2,7,1,0,,,Match Report
+479,Andrés Correa,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,Y,LB,90,0,0,0,0,0,0,0,0,1,2,0,3,3,4,0,,,Match Report
+480,Andrés Correa,La Equidad,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,L 0–2,La Equidad,Nacional,Y,LB,90,0,0,0,0,0,0,1,0,0,1,0,1,3,3,0,,,Match Report
+481,Andrés Correa,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,Y,LB,90,0,0,0,0,0,0,1,0,2,1,0,1,2,2,0,,,Match Report
+482,Andrés Correa,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,LB,59,0,0,0,0,2,0,0,0,0,2,0,2,1,1,0,,,Match Report
+483,Andrés Correa,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0,0,1,4,0,,,Match Report
+484,Andrés Correa,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,LB,90,0,0,0,0,0,0,0,0,1,2,0,2,3,2,0,,,Match Report
+485,Andrés Correa,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,Y,LB,90,0,0,0,0,0,0,0,0,3,0,0,2,2,0,0,,,Match Report
+486,Andrés Correa,La Equidad,2017-04-09,Sun,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Cortuluá,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,3,2,0,,,Match Report
+487,Andrés Correa,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,Y,LB,90,0,0,0,0,0,0,0,0,3,0,0,4,2,2,0,,,Match Report
+488,Andrés Correa,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+489,Andrés Correa,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,Y,LB,90,0,0,0,0,0,0,1,0,5,0,0,0,0,3,0,,,Match Report
+490,Andrés Correa,La Equidad,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,LB,90,0,0,0,0,1,0,1,0,1,1,0,1,1,7,0,,,Match Report
+491,Andrés Correa,La Equidad,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,Y,LB,90,0,0,0,0,0,0,0,0,1,1,1,3,0,1,0,,,Match Report
+492,Andrés Correa,La Equidad,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,2,1,3,0,,,Match Report
+493,Andrés Correa,La Equidad,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,Y,LB,90,0,0,0,0,1,0,0,0,1,0,0,3,0,5,0,,,Match Report
+494,Andrés Correa,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,3,2,2,0,,,Match Report
+495,Andrés Correa,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,LB,90,0,0,0,0,1,0,1,0,1,0,0,6,2,2,0,,,Match Report
+496,Andrés Correa,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,LB,90,0,0,0,0,1,0,0,0,1,0,0,2,4,2,0,,,Match Report
+497,Andrés Correa,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,2,1,4,0,,,Match Report
+498,Andrés Correa,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,,,Match Report
+499,Andrés Correa,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report
+500,Andrés Correa,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,LB,90,0,0,0,0,1,1,0,0,4,3,0,2,5,3,0,,,Match Report
+501,Andrés Correa,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,LB,90,0,0,0,0,0,0,1,0,1,4,0,2,1,0,0,,,Match Report
+502,Andrés Correa,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,LB,90,0,0,0,0,0,0,1,0,2,2,0,2,3,4,0,,,Match Report
+503,Andrés Correa,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,LB,90,0,0,0,0,0,0,1,0,3,0,0,0,2,3,0,,,Match Report
+504,Andrés Correa,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,LB,90,0,0,0,0,0,0,0,0,2,0,0,4,1,2,0,,,Match Report
+505,Andrés Correa,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,LB,90,0,1,0,0,0,0,0,0,3,1,0,2,0,1,0,,,Match Report
+506,Andrés Correa,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,,,Match Report
+507,Andrés Correa,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,LB,90,0,0,0,0,1,0,0,0,1,1,0,0,3,2,0,,,Match Report
+508,Andrés Correa,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,LB,89,0,0,0,0,0,0,2,1,1,0,0,1,1,4,0,,,Match Report
+509,Andrés Correa,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,,,Match Report
+510,Andrés Correa,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,LB,90,0,0,0,0,1,0,0,0,3,1,0,2,1,1,0,,,Match Report
+511,Andrés Correa,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,5,0,,,Match Report
+512,Andrés Correa,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,LB,90,0,0,0,0,1,1,0,0,2,0,0,2,2,0,0,,,Match Report
+513,Andrés Correa,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,LB,90,0,0,0,0,1,0,0,0,2,3,0,0,2,3,0,,,Match Report
+514,Andrés Correa,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,LB,90,0,0,0,0,1,0,0,0,1,1,0,2,4,3,0,,,Match Report
+515,Dairín González,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,,Match Report
+516,Dairín González,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,,,Match Report
+517,Dairín González,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,Y,CB,90,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,,,Match Report
+518,Dairín González,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,Y,CB,90,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,,,Match Report
+519,Dairín González,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+520,Dairín González,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0,,,Match Report
+521,Dairín González,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,CB,90,0,0,0,0,1,0,1,0,0,1,0,0,2,3,0,,,Match Report
+522,Dairín González,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,Match Report
+523,Dairín González,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,1,2,0,,,Match Report
+524,Dairín González,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,,,Match Report
+525,Dairín González,La Equidad,2017-04-09,Sun,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Cortuluá,Y,CB,90,0,0,0,0,0,0,0,0,2,2,1,0,3,2,0,,,Match Report
+526,Dairín González,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,Y,CB,90,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,,,Match Report
+527,Dairín González,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+528,Dairín González,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,3,3,0,,,Match Report
+529,Dairín González,La Equidad,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,CB,90,0,0,0,0,1,0,0,0,1,2,0,0,0,3,0,,,Match Report
+530,Dairín González,La Equidad,2017-05-10,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,3,1,1,0,0,5,0,,,Match Report
+531,Dairín González,La Equidad,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,Y,CB,70,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,,,Match Report
+532,Dairín González,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,3,5,0,,,Match Report
+533,Dairín González,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,3,0,,,Match Report
+534,Dairín González,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,,,Match Report
+535,Dairín González,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,,,Match Report
+536,Dairín González,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0,,,Match Report
+537,Dairín González,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,Match Report
+538,Dairín González,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,,,Match Report
+539,Dairín González,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,0,0,5,0,,,Match Report
+540,Dairín González,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+541,Dairín González,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,N,,19,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+542,Dairín González,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,N,,11,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+543,Dairín González,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,Match Report
+544,Carmelo Valencia,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,N,,45,0,0,0,0,2,1,0,0,0,1,0,2,0,0,0,,,Match Report
+545,Carmelo Valencia,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,N,,31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+546,Carmelo Valencia,La Equidad,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,L 0–2,La Equidad,Nacional,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+547,Carmelo Valencia,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,N,,28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+548,Carmelo Valencia,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+549,Carmelo Valencia,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,N,,18,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,,,Match Report
+550,Carmelo Valencia,La Equidad,2017-04-09,Sun,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Cortuluá,N,,25,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,,,Match Report
+551,Carmelo Valencia,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,N,,34,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+552,Carmelo Valencia,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,LW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+553,Carmelo Valencia,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,Y,FW,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+554,Carmelo Valencia,La Equidad,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,FW,90,1,0,0,0,4,3,0,0,0,2,1,0,0,0,0,,,Match Report
+555,Carmelo Valencia,La Equidad,2017-05-10,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Santa Fe,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+556,Carmelo Valencia,La Equidad,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+557,Carmelo Valencia,La Equidad,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,FW,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+558,Carmelo Valencia,La Equidad,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,Y,FW,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+559,Carmelo Valencia,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,FW,72,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,Match Report
+560,Carmelo Valencia,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,FW,90,2,0,0,0,4,2,0,0,0,3,0,1,1,0,0,,,Match Report
+561,Carmelo Valencia,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,FW,90,0,0,0,0,0,0,0,0,3,2,4,1,0,0,0,,,Match Report
+562,Carmelo Valencia,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,FW,90,0,0,0,0,2,1,0,0,1,2,0,0,1,0,0,,,Match Report
+563,Carmelo Valencia,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,FW,90,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,,,Match Report
+564,Carmelo Valencia,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,FW,89,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,,,Match Report
+565,Carmelo Valencia,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,FW,90,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,,,Match Report
+566,Carmelo Valencia,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,N,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+567,Carmelo Valencia,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,FW,90,1,0,0,0,2,1,0,0,1,2,0,0,0,0,0,,,Match Report
+568,Carmelo Valencia,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,FW,90,0,0,0,0,2,1,0,0,0,2,2,0,1,0,0,,,Match Report
+569,Carmelo Valencia,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,FW,90,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,,,Match Report
+570,Carmelo Valencia,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,FW,85,2,0,0,0,2,2,1,0,4,1,2,1,0,0,0,,,Match Report
+571,Carmelo Valencia,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,FW,90,3,0,0,0,4,4,0,0,3,2,0,1,0,0,0,,,Match Report
+572,Carmelo Valencia,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,FW,79,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,Match Report
+573,Carmelo Valencia,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,FW,90,0,0,0,0,1,1,0,0,2,0,3,0,0,0,0,,,Match Report
+574,Carmelo Valencia,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y,FW,90,1,0,0,0,4,3,0,0,3,1,0,2,0,1,0,,,Match Report
+575,Carmelo Valencia,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,FW,70,0,0,0,0,1,0,0,0,1,2,2,0,0,0,0,,,Match Report
+576,Carmelo Valencia,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,N,,35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+577,Carmelo Valencia,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,FW,90,0,0,0,0,2,1,0,0,4,2,1,1,0,0,0,,,Match Report
+578,Carmelo Valencia,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,N,,27,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,Match Report
+579,Carmelo Valencia,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,FW,90,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,,,Match Report
+580,Carmelo Valencia,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,FW,90,1,0,0,0,2,1,0,0,1,0,0,1,0,1,0,,,Match Report
+581,Juan Alejandro Mahecha,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,N,,25,0,0,0,0,0,0,1,0,3,1,0,0,1,0,0,,,Match Report
+582,Juan Alejandro Mahecha,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,N,,22,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+583,Juan Alejandro Mahecha,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,N,,27,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+584,Juan Alejandro Mahecha,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,N,,25,0,0,0,0,1,1,0,0,1,2,0,2,1,1,0,,,Match Report
+585,Juan Alejandro Mahecha,La Equidad,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,L 0–2,La Equidad,Nacional,Y,DM,90,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,,,Match Report
+586,Juan Alejandro Mahecha,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,Y,AM,62,0,0,0,0,0,0,0,0,1,2,0,0,1,2,0,,,Match Report
+587,Juan Alejandro Mahecha,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,N,,23,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,,,Match Report
+588,Juan Alejandro Mahecha,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,N,,27,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+589,Juan Alejandro Mahecha,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,N,,8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+590,Juan Alejandro Mahecha,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,AM,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+591,Juan Alejandro Mahecha,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,N,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+592,Juan Alejandro Mahecha,La Equidad,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,AM,73,0,0,0,0,2,0,0,0,5,2,0,10,0,1,0,,,Match Report
+593,Juan Alejandro Mahecha,La Equidad,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,N,,45,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,,,Match Report
+594,Juan Alejandro Mahecha,La Equidad,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,N,,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+595,Juan Alejandro Mahecha,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,DM,58,0,0,0,0,1,0,0,0,0,1,0,1,0,3,0,,,Match Report
+596,Juan Alejandro Mahecha,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,DM,90,0,0,0,0,0,0,1,0,6,2,0,0,0,2,0,,,Match Report
+597,Juan Alejandro Mahecha,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,DM,90,0,1,0,0,0,0,0,0,3,3,0,1,2,1,0,,,Match Report
+598,Juan Alejandro Mahecha,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,CM,90,0,0,0,0,1,0,0,0,6,0,0,3,2,2,0,,,Match Report
+599,Juan Alejandro Mahecha,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,DM,90,0,0,0,0,1,0,0,0,3,1,0,1,6,0,0,,,Match Report
+600,Juan Alejandro Mahecha,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,DM,90,0,0,0,0,0,0,1,0,5,2,0,0,1,2,0,,,Match Report
+601,Juan Alejandro Mahecha,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,DM,45,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,,,Match Report
+602,Juan Alejandro Mahecha,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y*,CM,53,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+603,Juan Alejandro Mahecha,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,DM,90,0,0,0,0,0,0,0,0,3,0,0,0,3,1,0,,,Match Report
+604,Juan Alejandro Mahecha,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,DM,90,0,0,0,0,1,0,1,0,3,0,0,0,2,4,0,,,Match Report
+605,Juan Alejandro Mahecha,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,DM,90,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,Match Report
+606,Juan Alejandro Mahecha,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,DM,90,0,0,0,0,0,0,1,0,3,1,0,0,1,1,0,,,Match Report
+607,Juan Alejandro Mahecha,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,DM,88,0,0,0,0,0,0,1,0,4,0,0,0,1,4,0,,,Match Report
+608,Juan Alejandro Mahecha,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,DM,90,0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,,,Match Report
+609,Juan Alejandro Mahecha,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y*,DM,68,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,,,Match Report
+610,Juan Alejandro Mahecha,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,DM,90,0,0,0,0,0,0,0,0,2,1,0,0,3,0,0,,,Match Report
+611,Juan Alejandro Mahecha,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,DM,90,0,0,0,0,2,1,1,0,3,1,0,1,2,1,0,,,Match Report
+612,Juan Alejandro Mahecha,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,DM,90,0,0,0,0,0,0,0,0,4,2,0,0,0,3,0,,,Match Report
+613,Juan Alejandro Mahecha,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,DM,90,0,0,0,0,0,0,1,0,4,2,0,0,6,3,0,,,Match Report
+614,Juan Alejandro Mahecha,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,DM,90,0,0,0,0,1,1,1,0,1,3,0,0,2,2,0,,,Match Report
+615,Jhon Alex Cano,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+616,Jhon Alex Cano,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+617,Jhon Alex Cano,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,N,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+618,Jhon Alex Cano,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,Y,RB,90,0,0,0,0,0,0,0,0,0,1,0,3,2,0,0,,,Match Report
+619,Jhon Alex Cano,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,N,,11,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,Match Report
+620,Jhon Alex Cano,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0,6,0,1,0,,,Match Report
+621,Jhon Alex Cano,La Equidad,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,RB,74,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,,,Match Report
+622,Jhon Alex Cano,La Equidad,2017-05-10,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Santa Fe,Y,LB,90,0,0,0,0,1,0,1,0,1,1,0,2,2,4,0,,,Match Report
+623,Jhon Alex Cano,La Equidad,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,Y,RB,45,0,0,0,0,0,0,0,0,0,1,0,4,1,1,0,,,Match Report
+624,Jhon Alex Cano,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,RB,90,0,0,0,0,1,1,0,0,1,1,0,5,1,2,0,,,Match Report
+625,Jhon Alex Cano,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,RB,90,0,1,0,0,0,0,0,0,0,0,0,7,1,1,0,,,Match Report
+626,Jhon Alex Cano,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,RB,90,0,1,0,0,0,0,0,0,0,1,1,9,0,0,0,,,Match Report
+627,Jhon Alex Cano,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,RB,90,0,0,0,0,1,0,0,0,1,0,0,2,2,3,0,,,Match Report
+628,Jhon Alex Cano,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,,,Match Report
+629,Jhon Alex Cano,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,RB,78,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+630,Jhon Alex Cano,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0,1,1,2,0,,,Match Report
+631,Jhon Alex Cano,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,RB,90,0,0,0,0,1,0,0,0,4,0,0,7,1,1,0,,,Match Report
+632,Jhon Alex Cano,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,RB,90,0,0,0,0,0,0,0,0,2,1,0,0,2,2,0,,,Match Report
+633,Jhon Alex Cano,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,RB,90,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,,,Match Report
+634,Jhon Alex Cano,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,RB,90,0,0,0,0,0,0,1,0,2,1,0,4,2,0,0,,,Match Report
+635,Jhon Alex Cano,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0,2,1,3,0,,,Match Report
+636,Jhon Alex Cano,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,RB,90,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,,,Match Report
+637,Jhon Alex Cano,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0,1,2,2,0,,,Match Report
+638,Jhon Alex Cano,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,,,Match Report
+639,Jhon Alex Cano,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,N,,30,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,Match Report
+640,Jhon Alex Cano,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,RB,55,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,Match Report
+641,Jhon Alex Cano,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,RB,90,0,0,0,0,1,1,1,0,4,0,0,0,3,2,0,,,Match Report
+642,Jhon Alex Cano,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,RB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,,,Match Report
+643,Jhon Alex Cano,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,RB,31,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,Match Report
+644,Francisco Nájera,La Equidad,2017-03-02,Thu,Primera A,Apertura Regular Season,Home,W 2–0,Nacional,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,2,3,0,,,Match Report
+645,Francisco Nájera,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Nacional,CD América,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+646,Francisco Nájera,La Equidad,2017-03-14,Tue,Libertadores,Group stage,Away,L 1–2,co Nacional,ec Barcelona SC,Y,CB,45,0,0,0,0,0,0,1,0,1,0,0,0,2,2,0,0,0,Match Report
+647,Francisco Nájera,La Equidad,2017-03-31,Fri,Primera A,Apertura Regular Season,Home,W 2–1,Nacional,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report
+648,Francisco Nájera,La Equidad,2017-04-07,Fri,Primera A,Apertura Regular Season,Away,W 1–0,Nacional,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,3,0,0,0,3,4,0,,,Match Report
+649,Francisco Nájera,La Equidad,2017-04-13,Thu,Libertadores,Group stage,Home,L 0–2,co Nacional,br Botafogo (RJ),Y,CB,70,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,Match Report
+650,Francisco Nájera,La Equidad,2017-04-19,Wed,Libertadores,Group stage,Away,L 0–1,co Nacional,ar Estudiantes,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+651,Francisco Nájera,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Nacional,Once Caldas,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,2,4,0,,,Match Report
+652,Francisco Nájera,La Equidad,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Nacional,Cortuluá,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+653,Francisco Nájera,La Equidad,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Nacional,AD Cali,Y,LB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,Match Report
+654,Francisco Nájera,La Equidad,2017-05-25,Thu,Libertadores,Group stage,Home,W 3–1,co Nacional,ec Barcelona SC,Y,CB,90,0,0,0,0,0,0,1,0,3,0,0,0,3,0,0,0,0,Match Report
+655,Francisco Nájera,La Equidad,2017-05-31,Wed,Primera A,Quarter-finals,Away,W 3–1,Nacional,Jaguares,Y,CB,90,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,,,Match Report
+656,Francisco Nájera,La Equidad,2017-06-03,Sat,Primera A,Quarter-finals,Home,W 3–2,Nacional,Jaguares,Y,CB,90,0,0,0,0,2,0,0,0,2,0,0,0,1,3,0,,,Match Report
+657,Francisco Nájera,La Equidad,2017-06-18,Sun,Primera A,Finals,Home,W 5–1,Nacional,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,,,Match Report
+658,Francisco Nájera,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,2,0,,,Match Report
+659,Francisco Nájera,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,CB,90,0,0,0,0,1,0,0,0,3,1,0,0,1,2,0,,,Match Report
+660,Francisco Nájera,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,CB,90,1,0,0,0,4,3,0,0,4,0,0,0,1,3,0,,,Match Report
+661,Francisco Nájera,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,,,Match Report
+662,Francisco Nájera,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,3,1,0,2,2,6,0,,,Match Report
+663,Francisco Nájera,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report
+664,Francisco Nájera,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,CB,48,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,,,Match Report
+665,Francisco Nájera,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,,,Match Report
+666,Francisco Nájera,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,CB,90,1,0,0,0,1,1,0,0,2,0,0,0,0,1,0,,,Match Report
+667,Francisco Nájera,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,Match Report
+668,Francisco Nájera,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,CB,87,0,0,0,0,1,1,0,0,3,1,0,1,0,0,0,,,Match Report
+669,Francisco Nájera,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,Match Report
+670,Francisco Nájera,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report
+671,Francisco Nájera,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,1,5,0,,,Match Report
+672,Francisco Nájera,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y,CB,90,0,0,0,0,1,0,0,0,3,0,0,0,1,1,0,,,Match Report
+673,Francisco Nájera,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,,,Match Report
+674,Francisco Nájera,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,CB,90,0,0,0,0,0,0,1,0,4,1,0,1,4,2,0,,,Match Report
+675,Francisco Nájera,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,2,1,0,,,Match Report
+676,Francisco Nájera,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,Match Report
+677,Francisco Nájera,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,Match Report
+678,Diego Álvarez,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,Y,FW,90,0,1,0,0,2,1,1,0,3,0,0,1,0,0,0,,,Match Report
+679,Diego Álvarez,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,Y,FW,90,0,0,0,0,3,0,0,0,1,2,0,0,1,0,0,,,Match Report
+680,Diego Álvarez,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,Y,FW,90,2,0,0,0,3,2,0,0,1,0,1,0,0,0,0,,,Match Report
+681,Diego Álvarez,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,Y,FW,90,0,0,0,0,1,0,0,0,1,2,0,2,0,0,0,,,Match Report
+682,Diego Álvarez,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,Y,FW,74,0,0,0,0,2,1,0,0,0,0,3,0,0,1,0,,,Match Report
+683,Diego Álvarez,La Equidad,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,L 0–2,La Equidad,Nacional,Y,FW,64,0,0,0,0,1,0,0,0,3,1,2,0,0,0,0,,,Match Report
+684,Diego Álvarez,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,Y,FW,85,0,0,0,0,2,1,0,0,0,3,0,1,0,2,0,,,Match Report
+685,Diego Álvarez,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,FW,90,0,0,0,0,1,1,0,0,1,4,2,1,0,0,0,,,Match Report
+686,Diego Álvarez,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,Y,FW,90,0,0,0,0,2,0,0,0,4,2,0,0,0,0,0,,,Match Report
+687,Diego Álvarez,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,FW,72,0,0,0,0,1,0,1,0,4,1,0,0,0,0,0,,,Match Report
+688,Diego Álvarez,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,Y,FW,72,0,0,0,0,2,0,0,0,3,2,0,0,0,0,0,,,Match Report
+689,Diego Álvarez,La Equidad,2017-04-09,Sun,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Cortuluá,Y,FW,65,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,,,Match Report
+690,Diego Álvarez,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,Y,FW,56,0,0,0,0,2,0,0,0,0,1,0,2,0,1,0,,,Match Report
+691,Diego Álvarez,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,FW,76,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+692,Diego Álvarez,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,Y,FW,64,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,,Match Report
+693,Diego Álvarez,La Equidad,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,N,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+694,Diego Álvarez,La Equidad,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,N,,25,1,0,1,1,2,2,0,0,0,0,0,0,0,0,0,,,Match Report
+695,Diego Álvarez,La Equidad,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,N,,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+696,Diego Álvarez,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,N,,32,0,0,0,1,3,1,0,0,0,1,0,1,0,0,0,,,Match Report
+697,Diego Álvarez,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,N,,26,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+698,Diego Álvarez,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,N,,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+699,Diego Álvarez,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,N,,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+700,Diego Álvarez,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,N,,32,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,,,Match Report
+701,Diego Álvarez,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,FW,79,0,0,0,0,1,0,0,0,3,1,2,0,1,0,0,,,Match Report
+702,Diego Álvarez,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,N,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+703,Jáider Riquett,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,CB,90,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,,,Match Report
+704,Jáider Riquett,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,3,1,1,0,0,2,0,,,Match Report
+705,Jáider Riquett,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,,,Match Report
+706,Jáider Riquett,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,Match Report
+707,Jáider Riquett,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,CB,71,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,,Match Report
+708,Jáider Riquett,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,3,1,0,0,2,3,0,,,Match Report
+709,Jáider Riquett,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,,,Match Report
+710,Jáider Riquett,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,,,Match Report
+711,Jáider Riquett,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,,,Match Report
+712,Jáider Riquett,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,,,Match Report
+713,Jáider Riquett,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,Y,CB,73,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,Match Report
+714,Jáider Riquett,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,2,2,0,0,1,1,0,,,Match Report
+715,Jáider Riquett,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,4,0,0,0,1,0,,,Match Report
+716,Brayner de Alba,La Equidad,2017-02-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Junior,N,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+717,Brayner de Alba,La Equidad,2017-02-09,Thu,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Pasto,N,,15,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,Match Report
+718,Brayner de Alba,La Equidad,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,L 0–3,La Equidad,CD América,N,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+719,Brayner de Alba,La Equidad,2017-02-22,Wed,Primera A,Apertura Regular Season,Away,L 0–2,La Equidad,Alianza,N,,16,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,Match Report
+720,Brayner de Alba,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,N,,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+721,Brayner de Alba,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,N,,34,0,0,0,0,2,1,0,0,1,2,0,2,1,0,0,,,Match Report
+722,Brayner de Alba,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,FW,69,0,0,0,0,1,0,0,0,1,1,0,3,0,0,0,,,Match Report
+723,Brayner de Alba,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,N,,22,0,1,0,0,1,0,0,0,0,2,0,1,0,0,0,,,Match Report
+724,Brayner de Alba,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,N,,20,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,,,Match Report
+725,Brayner de Alba,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,N,,18,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,,,Match Report
+726,Brayner de Alba,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,AM,90,0,0,0,0,1,0,1,0,2,6,0,1,1,2,0,,,Match Report
+727,Brayner de Alba,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,AM,90,0,1,0,0,2,1,0,0,2,1,0,1,1,1,0,,,Match Report
+728,Brayner de Alba,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,Y,AM,90,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,,,Match Report
+729,Brayner de Alba,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,Y,AM,64,0,0,0,0,1,0,0,0,1,3,0,2,0,1,0,,,Match Report
+730,Brayner de Alba,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,Y,AM,79,0,1,0,0,0,0,1,0,1,1,0,4,1,0,0,,,Match Report
+731,Brayner de Alba,La Equidad,2017-10-29,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Santa Fe,Y,AM,90,0,0,0,0,1,1,0,0,0,3,0,4,1,1,0,,,Match Report
+732,Brayner de Alba,La Equidad,2017-11-02,Thu,Primera A,Regular season,Home,D 0–0,La Equidad,CA Bucaramanga,Y,AM,72,0,0,0,0,3,1,0,0,2,2,0,2,0,0,0,,,Match Report
+733,Brayner de Alba,La Equidad,2017-11-06,Mon,Primera A,Regular season,Away,W 1–0,La Equidad,Rionegro,N,,53,0,0,0,0,1,0,0,0,1,3,0,3,0,0,0,,,Match Report
+734,Brayner de Alba,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,AM,90,0,0,0,0,2,1,0,0,4,2,0,3,1,0,0,,,Match Report
+735,Brayner de Alba,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,AM,80,0,0,0,0,1,0,0,0,0,2,0,6,1,0,0,,,Match Report
+736,Brayner de Alba,La Equidad,2017-11-29,Wed,Primera A,Quarter-finals,Away,L 1–2,La Equidad,Millonarios,Y,AM,58,0,0,0,0,1,0,1,0,1,3,0,0,1,1,0,,,Match Report
+737,Joaquín Aguirre,La Equidad,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Jaguares,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+738,Joaquín Aguirre,La Equidad,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,L 0–2,La Equidad,Nacional,Y,CB,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+739,Joaquín Aguirre,La Equidad,2017-02-28,Tue,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,Millonarios,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+740,Joaquín Aguirre,La Equidad,2017-03-05,Sun,Primera A,Apertura Regular Season,Home,W 1–0,La Equidad,Envigado,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+741,Joaquín Aguirre,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+742,Joaquín Aguirre,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+743,Joaquín Aguirre,La Equidad,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–0,La Equidad,Once Caldas,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+744,Joaquín Aguirre,La Equidad,2017-04-09,Sun,Primera A,Apertura Regular Season,Away,L 1–2,La Equidad,Cortuluá,Y,DM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+745,Joaquín Aguirre,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,Y,CM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+746,Joaquín Aguirre,La Equidad,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+747,William Parra Sinisterra,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,N,,32,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,Match Report
+748,William Parra Sinisterra,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,CM,82,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,,,Match Report
+749,William Parra Sinisterra,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,Y,DM,90,0,0,0,0,1,0,1,0,4,0,0,0,2,4,0,,,Match Report
+750,William Parra Sinisterra,La Equidad,2017-08-12,Sat,Primera A,Regular season,Home,L 0–1,La Equidad,Millonarios,Y,DM,58,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report
+751,William Parra Sinisterra,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0,1,2,1,0,,,Match Report
+752,William Parra Sinisterra,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,Y,DM,68,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,,,Match Report
+753,William Parra Sinisterra,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,Y,DM,63,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,,,Match Report
+754,William Parra Sinisterra,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,Y,DM,84,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,Match Report
+755,William Parra Sinisterra,La Equidad,2017-10-01,Sun,Primera A,Regular season,Home,W 4–1,La Equidad,Boyacá Patriot,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+756,William Parra Sinisterra,La Equidad,2017-10-15,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,AD Cali,N,,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+757,William Parra Sinisterra,La Equidad,2017-10-21,Sat,Primera A,Regular season,Home,D 2–2,La Equidad,Independiente,N,,22,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,,,Match Report
+758,Neider Barona,La Equidad,2017-03-11,Sat,Primera A,Apertura Regular Season,Away,W 2–0,La Equidad,Huila,Y,LM,83,0,0,0,0,2,1,0,0,1,0,1,2,1,3,0,,,Match Report
+759,Neider Barona,La Equidad,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Boyacá Patriot,Y,FW,66,0,0,0,0,1,0,0,0,1,2,0,5,1,1,0,,,Match Report
+760,Neider Barona,La Equidad,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+761,Neider Barona,La Equidad,2017-05-10,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Santa Fe,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+762,Neider Barona,La Equidad,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,Y,LW,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+763,Neider Barona,La Equidad,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,FW,65,0,1,0,0,3,1,0,0,1,1,1,1,1,0,0,,,Match Report
+764,Neider Barona,La Equidad,2017-09-03,Sun,Primera A,Regular season,Away,D 0–0,La Equidad,Once Caldas,N,,32,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,,,Match Report
+765,Neider Barona,La Equidad,2017-09-15,Fri,Primera A,Regular season,Home,W 3–0,La Equidad,Cortuluá,Y,AM,90,1,0,0,0,1,1,0,0,3,1,0,1,0,2,0,,,Match Report
+766,Neider Barona,La Equidad,2017-09-23,Sat,Primera A,Regular season,Away,W 3–0,La Equidad,Expreso Rojo,Y,AM,45,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,,,Match Report
+767,Neider Barona,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,Y,AM,63,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,,,Match Report
+768,Neider Barona,La Equidad,2017-11-25,Sat,Primera A,Quarter-finals,Home,D 1–1,La Equidad,Millonarios,Y,AM,45,0,0,0,0,0,0,1,0,3,1,0,2,1,0,0,,,Match Report
+769,Mauricio Armero,La Equidad,2017-02-11,Sat,Primera A,Apertura Regular Season,Away,L 1–2,Independiente,Huila,N,,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+770,Mauricio Armero,La Equidad,2017-02-21,Tue,Primera A,Apertura Regular Season,Away,D 2–2,Independiente,Cortuluá,N,,23,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+771,Mauricio Armero,La Equidad,2017-04-08,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Independiente,CA Bucaramanga,N,,23,0,0,0,0,3,1,0,0,0,0,0,0,1,0,0,,,Match Report
+772,Mauricio Armero,La Equidad,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,W 1–0,Independiente,Rionegro,N,,45,0,0,0,0,2,0,0,0,0,1,0,2,1,0,0,,,Match Report
+773,Mauricio Armero,La Equidad,2017-04-23,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Independiente,Tolima,N,,22,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,Match Report
+774,Mauricio Armero,La Equidad,2017-04-30,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Independiente,Junior,N,,28,0,0,0,0,0,0,1,0,2,2,0,1,0,0,0,,,Match Report
+775,Mauricio Armero,La Equidad,2017-07-09,Sun,Primera A,Regular season,Away,L 0–3,La Equidad,Junior,Y,AM,90,0,0,0,0,2,0,0,0,4,2,0,3,1,0,0,,,Match Report
+776,Mauricio Armero,La Equidad,2017-07-15,Sat,Primera A,Regular season,Home,W 3–2,La Equidad,Pasto,Y,AM,76,0,0,0,0,5,2,0,0,0,1,0,6,1,0,0,,,Match Report
+777,Mauricio Armero,La Equidad,2017-07-19,Wed,Primera A,Regular season,Home,W 2–1,La Equidad,Jaguares,Y,AM,77,0,0,0,0,1,1,0,0,2,0,1,5,0,1,0,,,Match Report
+778,Mauricio Armero,La Equidad,2017-07-23,Sun,Primera A,Regular season,Away,D 1–1,La Equidad,CD América,Y,FW,64,0,0,0,0,2,1,1,0,2,1,0,1,1,0,0,,,Match Report
+779,Mauricio Armero,La Equidad,2017-07-31,Mon,Primera A,Regular season,Home,D 1–1,La Equidad,Alianza,Y,AM,56,0,0,0,0,5,0,0,0,0,0,1,1,0,0,0,,,Match Report
+780,Mauricio Armero,La Equidad,2017-08-09,Wed,Primera A,Regular season,Away,D 1–1,La Equidad,Nacional,N,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+781,Mauricio Armero,La Equidad,2017-08-15,Tue,Primera A,Regular season,Away,L 1–2,La Equidad,Envigado,Y,LM,90,0,0,0,0,3,1,0,0,5,0,4,7,1,0,0,,,Match Report
+782,Mauricio Armero,La Equidad,2017-08-21,Mon,Primera A,Regular season,Home,W 1–0,La Equidad,Huila,N,,18,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,,,Match Report
+783,Mauricio Armero,La Equidad,2017-08-26,Sat,Primera A,Regular season,Away,D 1–1,La Equidad,Boyacá Patriot,N,,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+784,Mauricio Armero,La Equidad,2017-11-19,Sun,Primera A,Regular season,Home,L 0–1,La Equidad,Tolima,N,,10,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,,,Match Report
