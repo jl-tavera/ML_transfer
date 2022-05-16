@@ -6,6 +6,9 @@ WEB SCRAPING FUNCTIONS FOR FBREF
 LIBRARIES
 '''
 
+from random import randint
+from time import sleep
+
 from cgitb import html
 from tabnanny import check
 # from typing import final
@@ -367,6 +370,7 @@ def getSeasonURL(soup, year):
                 if 'Domestic Leagues' in caption.get_text():
                     table_players = caption.find_parent('table')
                     break
+
     rows = table_players.tbody.find_all('tr')   
     for i, row in enumerate(table_players.tbody.find_all('th')):
         columns = rows[i].find_all('td', {'data-stat':'matches'})
@@ -406,6 +410,7 @@ def getAllSquadSigningStats(df, col):
             signing_stats = getSigningStats(url, year, col, stats_df,stats_df_gk )
             stats_df = signing_stats[0]
             stats_df_gk = signing_stats[1]
+            sleep(randint(10,20))
 
     stats_df = pd.DataFrame(stats_df)
     stats_df_gk = pd.DataFrame(stats_df_gk)
