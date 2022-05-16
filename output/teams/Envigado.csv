@@ -1,0 +1,773 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+0,Name,Team,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+1,Jorge Aguirre,Envigado,2020-01-25,Sat,Primera A,First stage,Home,W 1–0,Envigado,Boyacá Chicó,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+2,Jorge Aguirre,Envigado,2020-01-30,Thu,Primera A,First stage,Away,D 1–1,Envigado,Santa Fe,Y,AM,54,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,,,Match Report
+3,Jorge Aguirre,Envigado,2020-02-04,Tue,Primera A,First stage,Home,L 0–1,Envigado,Once Caldas,N,,28,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,,,Match Report
+4,Jorge Aguirre,Envigado,2020-02-16,Sun,Primera A,First stage,Home,W 4–0,Envigado,CA Bucaramanga,Y,FW,82,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,,,Match Report
+5,Jorge Aguirre,Envigado,2020-02-21,Fri,Primera A,First stage,Away,L 0–1,Envigado,Pasto,Y,FW,65,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,Match Report
+6,Jorge Aguirre,Envigado,2020-03-01,Sun,Primera A,First stage,Away,D 1–1,Envigado,Rionegro,N,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+7,Jorge Aguirre,Envigado,2020-03-08,Sun,Primera A,First stage,Home,D 2–2,Envigado,Rionegro,Y,FW,74,0,0,0,0,0,0,1,0,2,1,2,1,0,0,0,,,Match Report
+8,Jorge Aguirre,Envigado,2020-09-19,Sat,Primera A,First stage,Away,W 1–0,Envigado,Boyacá Patriot,Y,AM,57,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+9,Jorge Aguirre,Envigado,2020-09-26,Sat,Primera A,First stage,Home,W 1–0,Envigado,Junior,Y,FW,85,0,0,0,0,0,0,0,0,0,6,1,0,1,2,0,,,Match Report
+10,Jorge Aguirre,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,Y,FW,74,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,,,Match Report
+11,Jorge Aguirre,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,Y,FW,61,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,,,Match Report
+12,Jorge Aguirre,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y*,AM,31,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,,,Match Report
+13,Jorge Aguirre,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,N,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+14,Jorge Aguirre,Envigado,2020-11-06,Fri,Primera A,First stage,Home,D 1–1,Envigado,La Equidad,Y,AM,66,0,0,0,0,1,1,0,0,2,3,0,1,0,1,0,,,Match Report
+15,Jorge Aguirre,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,Y,AM,57,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,,,Match Report
+16,Jorge Aguirre,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,Y,AM,75,0,0,0,0,1,0,1,0,1,1,0,0,2,0,0,,,Match Report
+17,Jorge Aguirre,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,Y,AM,57,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,,,Match Report
+18,Jorge Aguirre,Envigado,2020-12-02,Wed,Primera A,Liguilla,Home,L 0–3,Envigado,Independiente,N,,11,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+19,Juan Zapata,Envigado,2020-09-19,Sat,Primera A,First stage,Away,W 1–0,Envigado,Boyacá Patriot,N,,33,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,,,Match Report
+20,Juan Zapata,Envigado,2020-09-26,Sat,Primera A,First stage,Home,W 1–0,Envigado,Junior,Y,CM,90,0,0,0,0,0,0,0,0,4,3,0,1,1,1,0,,,Match Report
+21,Juan Zapata,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,Y,CM,82,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,,,Match Report
+22,Juan Zapata,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,Y,CM,90,0,0,0,0,2,0,1,0,1,1,0,1,1,0,0,,,Match Report
+23,Juan Zapata,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y,DM,90,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,,,Match Report
+24,Juan Zapata,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,Y,DM,90,0,1,0,0,1,0,1,0,0,2,0,0,1,4,0,,,Match Report
+25,Juan Zapata,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,Y,DM,90,0,0,0,0,0,0,1,0,3,3,0,1,3,1,0,,,Match Report
+26,Juan Zapata,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,Y,DM,90,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,,,Match Report
+27,Juan Zapata,Envigado,2020-10-31,Sat,Primera A,First stage,Away,D 0–0,Envigado,Jaguares,Y,DM,89,0,0,0,0,0,0,1,0,2,0,0,0,3,0,0,,,Match Report
+28,Juan Zapata,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,Y,DM,90,0,0,0,0,1,0,1,0,2,0,0,0,4,2,0,,,Match Report
+29,Juan Zapata,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,Y,DM,89,0,0,0,0,0,0,2,1,5,2,0,0,3,2,0,,,Match Report
+30,Juan Zapata,Envigado,2020-12-02,Wed,Primera A,Liguilla,Home,L 0–3,Envigado,Independiente,Y,DM,90,0,0,0,0,1,1,0,0,2,2,0,0,3,0,0,,,Match Report
+31,Juan Zapata,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,Y,AM,87,0,0,0,0,1,0,1,0,1,2,0,0,0,1,0,,,Match Report
+32,Jean Lucas Rivera,Envigado,2020-01-25,Sat,Primera A,First stage,Home,W 1–0,Envigado,Boyacá Chicó,Y,AM,90,0,0,0,0,2,1,0,0,0,1,0,1,1,0,0,,,Match Report
+33,Jean Lucas Rivera,Envigado,2020-01-30,Thu,Primera A,First stage,Away,D 1–1,Envigado,Santa Fe,Y,AM,90,0,0,0,0,2,0,0,0,0,3,0,0,1,0,0,,,Match Report
+34,Jean Lucas Rivera,Envigado,2020-02-04,Tue,Primera A,First stage,Home,L 0–1,Envigado,Once Caldas,Y,AM,70,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,,,Match Report
+35,Jean Lucas Rivera,Envigado,2020-02-07,Fri,Primera A,First stage,Away,L 0–3,Envigado,Tolima,N,,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+36,Jean Lucas Rivera,Envigado,2020-02-16,Sun,Primera A,First stage,Home,W 4–0,Envigado,CA Bucaramanga,N,,15,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,Match Report
+37,Jean Lucas Rivera,Envigado,2020-02-21,Fri,Primera A,First stage,Away,L 0–1,Envigado,Pasto,N,,20,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,,,Match Report
+38,Jean Lucas Rivera,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,N,,30,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,,,Match Report
+39,Jean Lucas Rivera,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y,AM,90,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0,,,Match Report
+40,Jean Lucas Rivera,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,Y,AM,90,1,0,0,0,1,1,0,0,0,3,0,7,0,0,0,,,Match Report
+41,Jean Lucas Rivera,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,Y,AM,90,0,0,0,0,2,0,0,0,2,1,0,3,0,0,0,,,Match Report
+42,Jean Lucas Rivera,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,N,,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+43,Jean Lucas Rivera,Envigado,2020-10-31,Sat,Primera A,First stage,Away,D 0–0,Envigado,Jaguares,Y,AM,89,0,0,0,0,0,0,0,0,1,5,0,2,1,2,0,,,Match Report
+44,Jean Lucas Rivera,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,Y,AM,65,0,0,0,0,3,1,0,0,0,0,0,1,1,0,0,,,Match Report
+45,Jean Lucas Rivera,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,Y,AM,67,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,,,Match Report
+46,Jean Lucas Rivera,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,Y,LW,62,0,0,0,0,2,0,0,0,1,2,0,2,0,0,0,,,Match Report
+47,Jean Lucas Rivera,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,N,,35,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,,,Match Report
+48,Edison López,Envigado,2020-02-04,Tue,Primera A,First stage,Home,L 0–1,Envigado,Once Caldas,N,,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+49,Edison López,Envigado,2020-02-07,Fri,Primera A,First stage,Away,L 0–3,Envigado,Tolima,N,,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+50,Edison López,Envigado,2020-09-26,Sat,Primera A,First stage,Home,W 1–0,Envigado,Junior,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+51,Edison López,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,N,,45,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,Match Report
+52,Edison López,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,N,,29,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,,,Match Report
+53,Edison López,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y,DM,90,0,0,0,0,0,0,0,0,6,1,0,1,2,3,0,,,Match Report
+54,Edison López,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,Y,DM,82,0,0,0,0,0,0,0,0,1,1,0,0,1,2,0,,,Match Report
+55,Edison López,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,Y,AM,69,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,,,Match Report
+56,Edison López,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+57,Edison López,Envigado,2020-10-31,Sat,Primera A,First stage,Away,D 0–0,Envigado,Jaguares,Y,AM,90,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,,,Match Report
+58,Edison López,Envigado,2020-11-06,Fri,Primera A,First stage,Home,D 1–1,Envigado,La Equidad,Y,DM,90,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,,,Match Report
+59,Edison López,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,Y,DM,90,0,0,0,0,0,0,0,0,2,2,0,0,3,1,0,,,Match Report
+60,Edison López,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,Y,DM,90,0,0,0,0,2,1,1,0,2,0,0,0,3,0,0,,,Match Report
+61,Edison López,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,N,,33,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,,,Match Report
+62,Edison López,Envigado,2020-12-02,Wed,Primera A,Liguilla,Home,L 0–3,Envigado,Independiente,Y,AM,71,0,0,0,0,0,0,0,0,1,3,0,0,1,2,0,,,Match Report
+63,Edison López,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,Y,AM,90,0,0,0,0,1,0,0,0,2,0,0,1,7,2,0,,,Match Report
+64,Tomás Maya,Envigado,2020-01-30,Thu,Primera A,First stage,Home,D 1–1,Cúcuta,Millonarios,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,,,Match Report
+65,Tomás Maya,Envigado,2020-02-02,Sun,Primera A,First stage,Away,L 0–2,Cúcuta,Pereira,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,,,Match Report
+66,Tomás Maya,Envigado,2020-02-08,Sat,Primera A,First stage,Home,L 0–2,Cúcuta,Alianza,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,5,2,1,0,,,Match Report
+67,Tomás Maya,Envigado,2020-02-16,Sun,Primera A,First stage,Home,D 0–0,Cúcuta,Pasto,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,2,0,3,0,,,Match Report
+68,Tomás Maya,Envigado,2020-02-23,Sun,Primera A,First stage,Away,L 1–4,Cúcuta,La Equidad,Y,LB,51,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,,Match Report
+69,Tomás Maya,Envigado,2020-09-26,Sat,Primera A,First stage,Home,W 1–0,Envigado,Junior,Y,LB,90,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,,,Match Report
+70,Tomás Maya,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,Y,LB,90,0,1,0,0,0,0,0,0,0,0,0,3,2,4,0,,,Match Report
+71,Tomás Maya,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+72,Tomás Maya,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,Match Report
+73,Tomás Maya,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,,,Match Report
+74,Tomás Maya,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,Y,LB,69,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,,,Match Report
+75,Tomás Maya,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,Y,LB,90,1,0,0,0,1,1,0,0,2,0,0,3,2,3,0,,,Match Report
+76,Tomás Maya,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,N,,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+77,Tomás Maya,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,Y,LB,87,0,0,0,0,0,0,0,0,0,0,0,4,0,3,0,,,Match Report
+78,Yadir Meneses,Envigado,2020-02-04,Tue,Primera A,First stage,Home,L 0–1,Envigado,Once Caldas,N,,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+79,Yadir Meneses,Envigado,2020-02-16,Sun,Primera A,First stage,Home,W 4–0,Envigado,CA Bucaramanga,Y,AM,75,1,0,0,0,1,1,0,0,0,1,0,2,0,0,0,,,Match Report
+80,Yadir Meneses,Envigado,2020-02-21,Fri,Primera A,First stage,Away,L 0–1,Envigado,Pasto,Y,AM,65,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,Match Report
+81,Yadir Meneses,Envigado,2020-03-01,Sun,Primera A,First stage,Away,D 1–1,Envigado,Rionegro,Y,AM,61,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,,,Match Report
+82,Yadir Meneses,Envigado,2020-09-19,Sat,Primera A,First stage,Away,W 1–0,Envigado,Boyacá Patriot,N,,16,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,,,Match Report
+83,Yadir Meneses,Envigado,2020-09-26,Sat,Primera A,First stage,Home,W 1–0,Envigado,Junior,N,,17,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,,,Match Report
+84,Yadir Meneses,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,N,,8,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,,,Match Report
+85,Yadir Meneses,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,Y,CM,60,0,0,0,0,1,0,0,0,1,1,0,0,0,2,0,,,Match Report
+86,Yadir Meneses,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,N,,58,0,0,0,0,1,1,0,0,0,0,0,0,0,4,0,,,Match Report
+87,Yadir Meneses,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,N,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report
+88,Yadir Meneses,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,Y,AM,45,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+89,Yadir Meneses,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,N,,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+90,Yadir Meneses,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,N,,28,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,,,Match Report
+91,Yadir Meneses,Envigado,2020-12-02,Wed,Primera A,Liguilla,Home,L 0–3,Envigado,Independiente,Y,LW,45,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,,Match Report
+92,Yadir Meneses,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,N,,35,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,,,Match Report
+93,Oswal Álvarez,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,N,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+94,Oswal Álvarez,Envigado,2020-10-07,Wed,Primera A,First stage,Home,D 1–1,Envigado,CD América,Y,FW,72,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,,,Match Report
+95,Oswal Álvarez,Envigado,2020-10-10,Sat,Primera A,First stage,Away,D 1–1,Envigado,Pereira,Y,FW,64,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,,,Match Report
+96,Oswal Álvarez,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,Y,FW,72,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,,,Match Report
+97,Oswal Álvarez,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,N,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+98,Oswal Álvarez,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,Y,FW,90,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,,,Match Report
+99,Oswal Álvarez,Envigado,2020-10-31,Sat,Primera A,First stage,Away,D 0–0,Envigado,Jaguares,Y,FW,26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,Match Report
+100,Jhoaho Hinestroza,Envigado,2020-01-25,Sat,Primera A,First stage,Home,W 1–0,Envigado,Boyacá Chicó,Y,AM,61,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,,,Match Report
+101,Jhoaho Hinestroza,Envigado,2020-01-30,Thu,Primera A,First stage,Away,D 1–1,Envigado,Santa Fe,N,,36,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,,,Match Report
+102,Jhoaho Hinestroza,Envigado,2020-02-04,Tue,Primera A,First stage,Home,L 0–1,Envigado,Once Caldas,Y,AM,90,0,0,0,0,2,2,0,0,3,1,1,0,2,2,0,,,Match Report
+103,Jhoaho Hinestroza,Envigado,2020-02-07,Fri,Primera A,First stage,Away,L 0–3,Envigado,Tolima,Y,FW,45,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,,,Match Report
+104,Jhoaho Hinestroza,Envigado,2020-03-01,Sun,Primera A,First stage,Away,D 1–1,Envigado,Rionegro,N,,29,0,0,0,0,1,0,0,0,1,2,0,1,1,0,0,,,Match Report
+105,Jhoaho Hinestroza,Envigado,2020-03-08,Sun,Primera A,First stage,Home,D 2–2,Envigado,Rionegro,N,,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+106,Santiago Múñoz,Envigado,2020-09-19,Sat,Primera A,First stage,Away,W 1–0,Envigado,Boyacá Patriot,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+107,Santiago Múñoz,Envigado,2020-10-03,Sat,Primera A,First stage,Away,L 2–3,Envigado,Nacional,N,,16,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,,,Match Report
+108,Santiago Múñoz,Envigado,2020-10-14,Wed,Primera A,First stage,Home,L 1–2,Envigado,Millonarios,N,,34,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,,,Match Report
+109,Santiago Múñoz,Envigado,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Envigado,Cúcuta,N,,7,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,,,Match Report
+110,Santiago Múñoz,Envigado,2020-10-25,Sun,Primera A,First stage,Home,D 3–3,Envigado,Alianza,Y,AM,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+111,Santiago Múñoz,Envigado,2020-10-31,Sat,Primera A,First stage,Away,D 0–0,Envigado,Jaguares,N,,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+112,Santiago Múñoz,Envigado,2020-11-06,Fri,Primera A,First stage,Home,D 1–1,Envigado,La Equidad,Y,AM,78,0,0,0,0,4,1,0,0,1,1,1,2,0,0,0,,,Match Report
+113,Santiago Múñoz,Envigado,2020-11-11,Wed,Primera A,First stage,Away,L 0–3,Envigado,AD Cali,N,,33,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+114,Santiago Múñoz,Envigado,2020-11-14,Sat,Primera A,First stage,Home,W 2–1,Envigado,Independiente,N,,23,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,,,Match Report
+115,Santiago Múñoz,Envigado,2020-11-26,Thu,Primera A,Liguilla,Away,D 1–1,Envigado,Rionegro,N,,33,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,,,Match Report
+116,Santiago Múñoz,Envigado,2020-12-02,Wed,Primera A,Liguilla,Home,L 0–3,Envigado,Independiente,N,,31,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,,,Match Report
+117,Santiago Múñoz,Envigado,2020-12-09,Wed,Primera A,Liguilla,Home,L 0–1,Envigado,Pereira,N,,45,0,0,0,0,3,0,0,0,1,0,0,2,0,1,0,,,Match Report
+118,Jairo Palomino,Envigado,2019-01-27,Sun,Primera A,Apertura Regular Season,Home,L 0–1,Envigado,Millonarios,Y*,CB,90,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,,,Match Report
+119,Jairo Palomino,Envigado,2019-01-30,Wed,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,Pasto,Y*,CM,90,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,,,Match Report
+120,Jairo Palomino,Envigado,2019-02-03,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,Cúcuta,Y*,DM,90,1,0,0,0,3,1,0,0,2,1,1,0,2,3,0,,,Match Report
+121,Jairo Palomino,Envigado,2019-02-09,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Alianza,Y*,DM,90,0,0,0,0,0,0,1,0,1,1,0,0,0,2,0,,,Match Report
+122,Jairo Palomino,Envigado,2019-02-17,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Tolima,Y*,CM,90,0,0,0,0,3,1,0,0,2,0,0,0,1,3,0,,,Match Report
+123,Jairo Palomino,Envigado,2019-02-23,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Boyacá Patriot,Y*,DM,90,0,0,0,0,4,0,0,0,1,0,0,0,3,0,0,,,Match Report
+124,Jairo Palomino,Envigado,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,Junior,Y*,CM,90,0,0,0,0,4,0,1,0,4,1,0,0,2,1,0,,,Match Report
+125,Jairo Palomino,Envigado,2019-03-03,Sun,Primera A,Apertura Regular Season,Home,W 4–1,Envigado,CD América,Y*,DM,90,0,0,0,0,1,0,1,0,1,2,1,0,1,1,0,,,Match Report
+126,Jairo Palomino,Envigado,2019-03-10,Sun,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Rionegro,Y*,DM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+127,Jairo Palomino,Envigado,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y*,DM,90,1,0,0,0,2,1,1,0,1,0,0,0,0,3,0,,,Match Report
+128,Jairo Palomino,Envigado,2019-03-31,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Santa Fe,Y*,DM,90,0,0,0,0,2,0,0,0,0,2,0,0,1,1,0,,,Match Report
+129,Jairo Palomino,Envigado,2019-04-03,Wed,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,CA Bucaramanga,Y*,CB,90,1,0,0,0,2,1,1,0,0,0,1,0,1,0,0,,,Match Report
+130,Jairo Palomino,Envigado,2019-04-08,Mon,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Once Caldas,Y*,CM,90,0,0,0,0,2,0,0,0,1,1,0,0,0,2,0,,,Match Report
+131,Jairo Palomino,Envigado,2019-04-14,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Huila,Y*,DM,90,0,0,0,0,1,1,0,0,2,1,0,0,0,1,0,,,Match Report
+132,Jairo Palomino,Envigado,2019-04-21,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,ADU Magdalena,Y*,CB,90,0,0,0,0,1,0,1,0,1,0,1,0,0,3,0,,,Match Report
+133,Jairo Palomino,Envigado,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,La Equidad,Y*,DM,90,0,0,0,0,0,0,0,0,0,2,0,0,2,2,0,,,Match Report
+134,Jairo Palomino,Envigado,2019-04-30,Tue,Primera A,Apertura Regular Season,Home,W 4–0,Envigado,Nacional,Y*,DM,90,0,0,0,0,3,1,0,0,3,0,0,0,5,7,0,,,Match Report
+135,Jairo Palomino,Envigado,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,AD Cali,Y*,DM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+136,Jairo Palomino,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,Y*,DM,90,0,0,0,0,0,0,0,0,1,2,0,1,2,4,0,,,Match Report
+137,Jairo Palomino,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y*,DM,90,0,0,0,0,0,0,1,0,3,1,0,0,2,2,0,,,Match Report
+138,Jairo Palomino,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y*,DM,90,0,0,0,0,2,1,0,0,0,1,1,0,1,1,0,,,Match Report
+139,Jairo Palomino,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y*,DM,90,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,,,Match Report
+140,Jairo Palomino,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y*,DM,90,0,0,0,0,0,0,0,0,2,1,0,0,0,4,0,,,Match Report
+141,Jairo Palomino,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y*,DM,86,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,,,Match Report
+142,Jairo Palomino,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y*,DM,78,0,0,0,0,3,0,0,0,0,0,0,1,1,2,0,,,Match Report
+143,Jairo Palomino,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y*,DM,75,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,,,Match Report
+144,Jairo Palomino,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y*,DM,90,1,1,0,0,3,2,0,0,2,0,0,0,2,1,0,,,Match Report
+145,Jairo Palomino,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y*,DM,90,0,0,0,0,2,0,0,0,0,2,0,0,2,2,0,,,Match Report
+146,Jairo Palomino,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y*,DM,90,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,,,Match Report
+147,Jairo Palomino,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y*,DM,90,0,0,0,0,1,1,1,0,3,0,0,0,0,1,0,,,Match Report
+148,Jairo Palomino,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y*,DM,90,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,,Match Report
+149,Jairo Palomino,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y*,DM,90,1,0,0,0,4,2,0,0,0,1,0,0,1,0,0,,,Match Report
+150,Jairo Palomino,Envigado,2019-10-05,Sat,Primera A,Regular season,Away,D 0–0,Envigado,Huila,Y*,DM,90,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,,,Match Report
+151,Jairo Palomino,Envigado,2019-10-08,Tue,Primera A,Regular season,Home,W 2–0,Envigado,Jaguares,Y*,DM,90,1,0,0,0,2,1,1,0,1,0,0,0,0,0,0,,,Match Report
+152,Jairo Palomino,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,Y*,DM,90,0,0,0,0,2,2,0,0,1,1,0,0,0,2,0,,,Match Report
+153,Jairo Palomino,Envigado,2019-10-18,Fri,Primera A,Regular season,Home,D 0–0,Envigado,La Equidad,Y*,DM,90,0,0,0,0,3,1,0,0,1,1,0,0,0,0,0,,,Match Report
+154,Jairo Palomino,Envigado,2019-10-23,Wed,Primera A,Regular season,Away,D 1–1,Envigado,Nacional,Y*,DM,90,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,,,Match Report
+155,Jairo Palomino,Envigado,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y*,DM,76,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,,,Match Report
+156,Francisco Báez,Envigado,2019-02-09,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Alianza,Y,CB,90,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,,,Match Report
+157,Francisco Báez,Envigado,2019-02-17,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Tolima,Y,CB,90,0,0,0,0,1,1,1,0,0,2,0,0,0,0,0,,,Match Report
+158,Francisco Báez,Envigado,2019-02-23,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,1,0,4,0,0,0,2,2,0,,,Match Report
+159,Francisco Báez,Envigado,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,Junior,Y,CB,90,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,,,Match Report
+160,Francisco Báez,Envigado,2019-03-03,Sun,Primera A,Apertura Regular Season,Home,W 4–1,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,1,0,2,3,0,0,0,0,0,,,Match Report
+161,Francisco Báez,Envigado,2019-03-10,Sun,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Rionegro,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+162,Francisco Báez,Envigado,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y,CB,55,0,0,0,0,1,0,0,0,2,1,0,0,0,1,0,,,Match Report
+163,Francisco Báez,Envigado,2019-03-31,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Santa Fe,Y,CB,90,0,0,0,0,1,0,0,0,3,1,0,0,0,1,0,,,Match Report
+164,Francisco Báez,Envigado,2019-04-03,Wed,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,CA Bucaramanga,Y,CB,90,0,0,0,0,1,0,0,0,3,0,1,0,1,1,0,,,Match Report
+165,Francisco Báez,Envigado,2019-04-08,Mon,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+166,Francisco Báez,Envigado,2019-04-14,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Huila,Y,CB,90,0,0,0,0,1,0,0,0,0,3,0,0,1,1,0,,,Match Report
+167,Francisco Báez,Envigado,2019-04-17,Wed,Primera A,Apertura Regular Season,Away,D 2–2,Envigado,Jaguares,Y,CB,90,0,0,0,0,1,1,1,0,0,2,0,0,0,3,0,,,Match Report
+168,Francisco Báez,Envigado,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,La Equidad,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,1,3,0,,,Match Report
+169,Francisco Báez,Envigado,2019-04-30,Tue,Primera A,Apertura Regular Season,Home,W 4–0,Envigado,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0,0,1,3,0,,,Match Report
+170,Francisco Báez,Envigado,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+171,Francisco Báez,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,,,Match Report
+172,Francisco Báez,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y,CB,90,1,0,0,0,2,2,0,0,0,0,0,0,0,2,0,,,Match Report
+173,Francisco Báez,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y,CB,90,1,0,0,0,2,1,1,0,2,1,0,0,1,2,0,,,Match Report
+174,Francisco Báez,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y,CB,90,0,0,0,0,0,0,1,0,2,2,0,0,2,1,0,,,Match Report
+175,Francisco Báez,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,,,Match Report
+176,Francisco Báez,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,1,1,1,0,0,2,0,,,Match Report
+177,Francisco Báez,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,CB,90,0,0,0,0,0,0,1,0,1,3,0,0,0,1,0,,,Match Report
+178,Francisco Báez,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,0,0,2,4,0,0,1,2,0,,,Match Report
+179,Francisco Báez,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,,,Match Report
+180,Francisco Báez,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,CB,84,0,0,0,0,0,0,0,0,0,3,0,0,2,2,0,,,Match Report
+181,Francisco Báez,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y,CB,90,1,0,0,0,1,1,0,0,0,4,0,0,0,2,0,,,Match Report
+182,Francisco Báez,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,1,3,0,0,2,2,0,,,Match Report
+183,Francisco Báez,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y,CB,90,0,0,0,0,1,0,1,0,2,1,0,0,0,0,0,,,Match Report
+184,Francisco Báez,Envigado,2019-10-05,Sat,Primera A,Regular season,Away,D 0–0,Envigado,Huila,Y,CB,90,0,0,0,0,0,0,0,0,2,2,1,0,2,3,0,,,Match Report
+185,Francisco Báez,Envigado,2019-10-08,Tue,Primera A,Regular season,Home,W 2–0,Envigado,Jaguares,Y,CB,90,0,0,0,0,1,0,1,0,3,2,1,0,0,0,0,,,Match Report
+186,Francisco Báez,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+187,Francisco Báez,Envigado,2019-10-18,Fri,Primera A,Regular season,Home,D 0–0,Envigado,La Equidad,Y,CB,90,0,0,0,0,1,0,0,0,2,1,0,0,0,1,0,,,Match Report
+188,Francisco Báez,Envigado,2019-10-23,Wed,Primera A,Regular season,Away,D 1–1,Envigado,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,,,Match Report
+189,Francisco Báez,Envigado,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y,CB,90,0,0,0,0,0,0,1,0,1,3,1,0,1,0,0,,,Match Report
+190,Santiago Jiménez,Envigado,2019-02-23,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Boyacá Patriot,Y,RB,90,0,0,0,0,3,1,0,0,3,1,0,6,2,0,0,,,Match Report
+191,Santiago Jiménez,Envigado,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,Junior,Y,LB,45,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,,,Match Report
+192,Santiago Jiménez,Envigado,2019-03-10,Sun,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Rionegro,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+193,Santiago Jiménez,Envigado,2019-04-21,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,ADU Magdalena,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,1,1,3,0,,,Match Report
+194,Santiago Jiménez,Envigado,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,AD Cali,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+195,Santiago Jiménez,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,N,,21,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,,,Match Report
+196,Santiago Jiménez,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,N,,41,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,,,Match Report
+197,Santiago Jiménez,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,Match Report
+198,Santiago Jiménez,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,RB,90,0,0,0,0,0,0,1,0,3,2,0,0,3,1,0,,,Match Report
+199,Santiago Jiménez,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,RB,90,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,,,Match Report
+200,Santiago Jiménez,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,N,,6,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,,,Match Report
+201,Santiago Jiménez,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,N,,6,0,0,0,0,0,0,0,0,2,0,0,0,1,2,0,,,Match Report
+202,Santiago Jiménez,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,RB,90,0,0,0,0,1,0,1,0,1,2,0,0,2,9,0,,,Match Report
+203,Santiago Jiménez,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y,RB,90,0,1,0,0,0,0,0,0,0,3,0,0,2,2,0,,,Match Report
+204,Santiago Jiménez,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,RB,90,0,0,0,0,0,0,0,0,1,5,0,1,0,4,0,,,Match Report
+205,Santiago Jiménez,Envigado,2019-10-05,Sat,Primera A,Regular season,Away,D 0–0,Envigado,Huila,Y,RB,90,0,0,0,0,1,0,0,0,2,1,0,1,3,4,0,,,Match Report
+206,Santiago Jiménez,Envigado,2019-10-08,Tue,Primera A,Regular season,Home,W 2–0,Envigado,Jaguares,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0,2,0,3,0,,,Match Report
+207,Santiago Jiménez,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,Y,RB,90,0,0,0,0,0,0,1,0,2,3,0,1,1,4,0,,,Match Report
+208,Santiago Jiménez,Envigado,2019-10-18,Fri,Primera A,Regular season,Home,D 0–0,Envigado,La Equidad,Y,RB,89,0,0,0,0,0,0,2,1,3,1,0,1,3,4,0,,,Match Report
+209,Luis Tipton,Envigado,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,L 2–3,Independiente,Junior,Y,LB,45,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,,,Match Report
+210,Luis Tipton,Envigado,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 2–2,Independiente,Nacional,Y,LB,45,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,,,Match Report
+211,Luis Tipton,Envigado,2019-03-24,Sun,Primera A,Apertura Regular Season,Home,W 4–1,Independiente,Envigado,Y,LB,90,0,0,0,0,0,0,1,0,2,0,0,4,1,1,0,,,Match Report
+212,Luis Tipton,Envigado,2019-03-28,Thu,Primera A,Apertura Regular Season,Away,D 2–2,Independiente,Cúcuta,Y,LB,90,0,0,0,0,1,0,1,0,1,0,0,1,1,4,0,,,Match Report
+213,Luis Tipton,Envigado,2019-03-31,Sun,Primera A,Apertura Regular Season,Away,L 2–3,Independiente,Millonarios,Y,LB,90,0,0,0,0,1,0,1,0,0,1,0,4,0,2,0,,,Match Report
+214,Luis Tipton,Envigado,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,D 1–1,Independiente,Alianza,Y,LB,66,0,0,0,0,1,1,0,0,1,0,0,3,0,5,0,,,Match Report
+215,Luis Tipton,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,1,3,0,,,Match Report
+216,Luis Tipton,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y,LB,90,0,1,0,0,1,1,1,0,0,1,0,9,0,3,0,,,Match Report
+217,Luis Tipton,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y,LB,90,0,2,0,0,3,3,0,0,3,1,0,11,2,2,0,,,Match Report
+218,Luis Tipton,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y,LB,90,0,0,0,0,0,0,1,0,4,3,0,6,0,1,0,,,Match Report
+219,Luis Tipton,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y,LB,90,0,0,0,0,0,0,0,0,3,1,0,9,1,2,0,,,Match Report
+220,Luis Tipton,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,,,Match Report
+221,Luis Tipton,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,LB,90,0,0,0,0,1,0,0,0,2,1,0,3,0,2,0,,,Match Report
+222,Luis Tipton,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,12,1,5,0,,,Match Report
+223,Luis Tipton,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,2,2,0,9,2,2,0,,,Match Report
+224,Luis Tipton,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,1,0,1,1,0,3,0,3,0,,,Match Report
+225,Luis Tipton,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,,,Match Report
+226,Luis Tipton,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,LB,90,0,0,0,0,1,1,1,0,1,2,0,4,0,1,0,,,Match Report
+227,Luis Tipton,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y,LB,90,0,0,0,0,1,0,0,0,1,1,0,3,1,1,0,,,Match Report
+228,Luis Tipton,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,LB,54,0,0,0,0,0,0,0,0,2,0,0,4,0,1,0,,,Match Report
+229,Luis Tipton,Envigado,2019-10-23,Wed,Primera A,Regular season,Away,D 1–1,Envigado,Nacional,N,,55,0,0,0,0,1,1,0,0,1,0,0,3,0,0,0,,,Match Report
+230,Luis Tipton,Envigado,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y,LB,90,0,0,0,0,0,0,0,0,1,4,0,2,1,0,0,,,Match Report
+231,Arley Rodríguez,Envigado,2019-01-30,Wed,Primera A,Apertura Regular Season,Home,L 1–2,Santa Fe,Cúcuta,Y,AM,66,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,Match Report
+232,Arley Rodríguez,Envigado,2019-02-05,Tue,Primera A,Apertura Regular Season,Away,D 0–0,Santa Fe,Alianza,N,,28,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+233,Arley Rodríguez,Envigado,2019-02-09,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Santa Fe,Tolima,Y,AM,82,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,,,Match Report
+234,Arley Rodríguez,Envigado,2019-02-24,Sun,Primera A,Apertura Regular Season,Home,D 3–3,Santa Fe,Junior,N,,28,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,,,Match Report
+235,Arley Rodríguez,Envigado,2019-02-28,Thu,Primera A,Apertura Regular Season,Away,D 0–0,Santa Fe,CD América,N,,15,0,0,0,0,1,0,0,0,0,0,2,0,2,0,0,,,Match Report
+236,Arley Rodríguez,Envigado,2019-03-03,Sun,Primera A,Apertura Regular Season,Home,D 2–2,Santa Fe,Rionegro,Y,FW,51,0,0,0,0,0,0,2,1,2,2,1,0,0,0,0,,,Match Report
+237,Arley Rodríguez,Envigado,2019-03-31,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Santa Fe,Envigado,N,,18,0,0,0,0,2,1,0,0,1,0,0,2,0,0,0,,,Match Report
+238,Arley Rodríguez,Envigado,2019-04-04,Thu,Primera A,Apertura Regular Season,Home,D 0–0,Santa Fe,Jaguares,N,,45,0,0,0,0,1,0,0,0,2,3,0,1,0,0,0,,,Match Report
+239,Arley Rodríguez,Envigado,2019-04-07,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Santa Fe,CA Bucaramanga,Y,FW,90,0,0,0,0,0,0,0,0,4,6,1,0,0,0,0,,,Match Report
+240,Arley Rodríguez,Envigado,2019-04-13,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Santa Fe,La Equidad,Y,FW,90,0,1,0,0,0,0,0,0,2,3,3,1,1,0,0,,,Match Report
+241,Arley Rodríguez,Envigado,2019-04-17,Wed,Primera A,Apertura Regular Season,Away,W 3–0,Santa Fe,Huila,N,,19,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,,,Match Report
+242,Arley Rodríguez,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y,AM,90,0,0,0,0,1,0,0,0,3,9,0,0,0,2,0,,,Match Report
+243,Arley Rodríguez,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y,AM,90,0,1,0,0,2,0,0,0,3,6,0,0,2,2,0,,,Match Report
+244,Arley Rodríguez,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y,RW,90,0,0,0,0,1,0,0,0,5,4,0,0,0,1,0,,,Match Report
+245,Arley Rodríguez,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y,AM,87,1,0,0,0,2,1,1,0,0,4,0,1,0,0,0,,,Match Report
+246,Arley Rodríguez,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,AM,90,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,,,Match Report
+247,Arley Rodríguez,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,AM,90,0,0,0,0,1,0,0,0,3,6,0,0,1,1,0,,,Match Report
+248,Arley Rodríguez,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,AM,90,0,0,0,0,1,1,0,0,1,4,0,1,2,1,0,,,Match Report
+249,Arley Rodríguez,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,AM,90,0,0,0,0,0,0,0,0,1,4,0,1,0,1,0,,,Match Report
+250,Arley Rodríguez,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,AM,88,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,,,Match Report
+251,Arley Rodríguez,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y,AM,49,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,Match Report
+252,Arley Rodríguez,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,AM,58,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,,,Match Report
+253,Arley Rodríguez,Envigado,2019-10-08,Tue,Primera A,Regular season,Home,W 2–0,Envigado,Jaguares,N,,34,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+254,Arley Rodríguez,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,Y,AM,90,0,0,0,0,0,0,1,0,3,3,1,2,1,0,0,,,Match Report
+255,Arley Rodríguez,Envigado,2019-10-18,Fri,Primera A,Regular season,Home,D 0–0,Envigado,La Equidad,Y,FW,90,0,0,0,0,2,0,0,0,1,3,0,1,0,0,0,,,Match Report
+256,Arley Rodríguez,Envigado,2019-10-23,Wed,Primera A,Regular season,Away,D 1–1,Envigado,Nacional,Y,FW,70,0,0,0,0,0,0,1,0,4,3,2,0,1,0,0,,,Match Report
+257,Humberto Mendoza,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,Y,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,1,2,0,,,Match Report
+258,Humberto Mendoza,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,,,Match Report
+259,Humberto Mendoza,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y,CB,90,1,0,0,0,1,1,1,0,1,0,0,0,0,2,0,,,Match Report
+260,Humberto Mendoza,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,4,0,0,0,1,2,0,,,Match Report
+261,Humberto Mendoza,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,Match Report
+262,Humberto Mendoza,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+263,Humberto Mendoza,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,CB,90,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,,,Match Report
+264,Humberto Mendoza,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+265,Humberto Mendoza,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,,,Match Report
+266,Humberto Mendoza,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,CB,90,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,,,Match Report
+267,Humberto Mendoza,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y,CB,90,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,,,Match Report
+268,Humberto Mendoza,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,CB,90,0,0,0,0,3,2,0,0,0,0,0,0,0,1,0,,,Match Report
+269,Carlos Terán,Envigado,2019-01-30,Wed,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,Pasto,Y,CB,90,0,0,0,0,1,0,1,0,2,0,0,0,2,0,0,,,Match Report
+270,Carlos Terán,Envigado,2019-02-03,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,Cúcuta,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,,,Match Report
+271,Carlos Terán,Envigado,2019-02-09,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,,,Match Report
+272,Carlos Terán,Envigado,2019-02-17,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,2,2,1,0,0,1,0,,,Match Report
+273,Carlos Terán,Envigado,2019-02-27,Wed,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,Junior,Y,CB,90,0,0,0,0,1,0,1,0,3,1,0,0,2,0,0,,,Match Report
+274,Carlos Terán,Envigado,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,N,,35,0,0,0,0,0,0,0,0,1,1,0,0,0,5,0,,,Match Report
+275,Carlos Terán,Envigado,2019-03-24,Sun,Primera A,Apertura Regular Season,Away,L 1–4,Envigado,Independiente,Y,CB,90,0,0,0,0,2,1,1,0,1,0,0,0,0,1,0,,,Match Report
+276,Carlos Terán,Envigado,2019-04-17,Wed,Primera A,Apertura Regular Season,Away,D 2–2,Envigado,Jaguares,Y,CB,90,0,1,0,0,2,0,1,0,1,0,0,0,1,3,0,,,Match Report
+277,Carlos Terán,Envigado,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,La Equidad,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,,,Match Report
+278,Carlos Terán,Envigado,2019-04-30,Tue,Primera A,Apertura Regular Season,Home,W 4–0,Envigado,Nacional,Y,CB,36,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,,,Match Report
+279,Carlos Terán,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,RB,84,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,,,Match Report
+280,Carlos Terán,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,RB,90,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,,,Match Report
+281,Carlos Terán,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,,,Match Report
+282,Wilmar Jordán,Envigado,2019-01-26,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Huila,La Equidad,N,,25,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,Match Report
+283,Wilmar Jordán,Envigado,2019-03-24,Sun,Primera A,Apertura Regular Season,Away,L 0–3,Huila,Junior,Y,FW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+284,Wilmar Jordán,Envigado,2019-03-29,Fri,Primera A,Apertura Regular Season,Home,D 1–1,Huila,Boyacá Patriot,Y,FW,90,1,0,0,0,5,4,0,0,1,0,0,0,0,0,0,,,Match Report
+285,Wilmar Jordán,Envigado,2019-04-02,Tue,Primera A,Apertura Regular Season,Away,D 0–0,Huila,Rionegro,Y,FW,90,0,0,0,0,3,2,0,0,3,2,1,0,0,0,0,,,Match Report
+286,Wilmar Jordán,Envigado,2019-04-06,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Huila,CD América,Y,FW,90,0,1,0,0,1,0,1,0,1,1,1,1,0,0,0,,,Match Report
+287,Wilmar Jordán,Envigado,2019-04-14,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Huila,Envigado,Y,FW,80,0,0,0,0,4,1,1,0,2,3,1,0,1,0,0,,,Match Report
+288,Wilmar Jordán,Envigado,2019-04-17,Wed,Primera A,Apertura Regular Season,Home,L 0–3,Huila,Santa Fe,Y,FW,71,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,,,Match Report
+289,Wilmar Jordán,Envigado,2019-04-22,Mon,Primera A,Apertura Regular Season,Away,W 4–2,Huila,CA Bucaramanga,Y,FW,86,2,0,1,1,3,2,0,0,1,1,0,0,0,0,0,,,Match Report
+290,Wilmar Jordán,Envigado,2019-04-28,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Huila,Once Caldas,Y,FW,71,0,1,0,0,2,0,0,0,3,0,0,0,0,1,0,,,Match Report
+291,Wilmar Jordán,Envigado,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Huila,Independiente,Y,FW,76,1,0,1,1,4,3,0,0,1,6,1,0,0,0,0,,,Match Report
+292,Wilmar Jordán,Envigado,2019-05-04,Sat,Primera A,Apertura Regular Season,Home,L 0–2,Huila,Jaguares,Y,FW,90,0,0,0,0,3,1,0,0,3,1,0,0,0,0,0,,,Match Report
+293,Wilmar Jordán,Envigado,2019-07-14,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Millonarios,Y,FW,79,1,0,0,0,2,1,0,0,4,3,2,0,0,0,0,,,Match Report
+294,Wilmar Jordán,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,Y,FW,80,0,0,0,0,0,0,0,0,3,3,1,0,0,0,0,,,Match Report
+295,Wilmar Jordán,Envigado,2019-07-27,Sat,Primera A,Regular season,Home,W 4–1,Envigado,Cúcuta,Y,FW,64,1,0,0,0,2,1,0,0,3,1,0,0,0,0,0,,,Match Report
+296,Wilmar Jordán,Envigado,2019-08-04,Sun,Primera A,Regular season,Away,L 0–1,Envigado,Alianza,Y,FW,72,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,,,Match Report
+297,Wilmar Jordán,Envigado,2019-08-10,Sat,Primera A,Regular season,Home,W 2–1,Envigado,Tolima,Y,FW,90,1,0,1,1,3,1,0,0,3,2,0,0,0,0,0,,,Match Report
+298,Wilmar Jordán,Envigado,2019-08-16,Fri,Primera A,Regular season,Away,L 0–3,Envigado,Boyacá Patriot,Y,FW,77,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,,,Match Report
+299,Wilmar Jordán,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,Y,FW,84,0,0,0,0,2,1,0,0,3,3,0,0,0,0,0,,,Match Report
+300,Wilmar Jordán,Envigado,2019-08-25,Sun,Primera A,Regular season,Away,L 0–1,Envigado,CD América,Y,FW,90,0,0,0,0,2,0,0,0,4,0,1,0,0,0,0,,,Match Report
+301,Wilmar Jordán,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,N,,11,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,Match Report
+302,Wilmar Jordán,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+303,Wilmar Jordán,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,N,,45,0,0,0,0,2,2,0,0,0,1,1,0,0,0,0,,,Match Report
+304,Wilmar Jordán,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,FW,60,0,0,0,0,1,0,0,0,1,2,1,0,0,1,0,,,Match Report
+305,Wilmar Jordán,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y,FW,63,0,0,0,0,3,2,0,0,0,2,0,0,1,0,0,,,Match Report
+306,Wilmar Jordán,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,N,,32,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,,,Match Report
+307,Wilmar Jordán,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+308,Bruno,Envigado,2019-03-24,Sun,Primera A,Apertura Regular Season,Away,L 1–4,Envigado,Independiente,N,,19,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,,Match Report
+309,Bruno,Envigado,2019-03-31,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Santa Fe,N,,26,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,,,Match Report
+310,Bruno,Envigado,2019-04-03,Wed,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,CA Bucaramanga,N,,45,0,0,0,0,0,0,0,0,1,5,1,1,1,0,0,,,Match Report
+311,Bruno,Envigado,2019-04-08,Mon,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Once Caldas,Y,LM,90,0,0,0,0,0,0,0,0,0,4,0,0,1,1,0,,,Match Report
+312,Bruno,Envigado,2019-04-14,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Huila,Y,DM,45,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,,,Match Report
+313,Bruno,Envigado,2019-04-17,Wed,Primera A,Apertura Regular Season,Away,D 2–2,Envigado,Jaguares,N,,13,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+314,Bruno,Envigado,2019-04-21,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,ADU Magdalena,N,,26,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+315,Bruno,Envigado,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,La Equidad,N,,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+316,Bruno,Envigado,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,AD Cali,N,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+317,Bruno,Envigado,2019-07-19,Fri,Primera A,Regular season,Home,D 1–1,Envigado,Pasto,N,,10,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,,Match Report
+318,Bruno,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,N,,18,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,,,Match Report
+319,Bruno,Envigado,2019-09-22,Sun,Primera A,Regular season,Away,L 0–3,Envigado,Santa Fe,Y,AM,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+320,Bruno,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,Y,AM,90,0,1,0,0,1,0,0,0,0,2,0,0,1,0,0,,,Match Report
+321,Bruno,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,AM,90,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,,,Match Report
+322,Bruno,Envigado,2019-10-05,Sat,Primera A,Regular season,Away,D 0–0,Envigado,Huila,N,,36,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,,,Match Report
+323,Bruno,Envigado,2019-10-08,Tue,Primera A,Regular season,Home,W 2–0,Envigado,Jaguares,Y,AM,90,1,0,0,0,5,2,0,0,3,5,0,0,0,0,0,,,Match Report
+324,Bruno,Envigado,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Envigado,ADU Magdalena,Y,AM,90,0,0,0,0,1,0,0,0,3,1,1,0,0,0,0,,,Match Report
+325,Bruno,Envigado,2019-10-18,Fri,Primera A,Regular season,Home,D 0–0,Envigado,La Equidad,Y,AM,90,0,0,0,0,1,0,0,0,1,4,0,1,0,1,0,,,Match Report
+326,Bruno,Envigado,2019-10-23,Wed,Primera A,Regular season,Away,D 1–1,Envigado,Nacional,Y,AM,55,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,,,Match Report
+327,Bruno,Envigado,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,N,,26,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+328,Jhon Durán,Envigado,2019-02-09,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Alianza,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+329,Jhon Durán,Envigado,2019-08-21,Wed,Primera A,Regular season,Home,D 0–0,Envigado,Junior,N,,6,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,,,Match Report
+330,Jhon Durán,Envigado,2019-08-31,Sat,Primera A,Regular season,Home,D 3–3,Envigado,Rionegro,Y,FW,79,1,0,0,0,4,1,0,0,3,5,0,0,0,0,0,,,Match Report
+331,Jhon Durán,Envigado,2019-09-07,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,FW,90,0,0,0,0,3,2,1,0,3,1,0,0,1,1,0,,,Match Report
+332,Jhon Durán,Envigado,2019-09-15,Sun,Primera A,Regular season,Home,L 2–4,Envigado,Independiente,Y,FW,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,Match Report
+333,Jhon Durán,Envigado,2019-09-28,Sat,Primera A,Regular season,Away,W 3–2,Envigado,CA Bucaramanga,N,,27,0,1,0,0,1,0,0,0,4,2,0,0,2,2,0,,,Match Report
+334,Jhon Durán,Envigado,2019-10-01,Tue,Primera A,Regular season,Home,L 1–3,Envigado,Once Caldas,Y,FW,71,0,0,0,0,2,1,0,0,2,0,1,0,0,0,0,,,Match Report
+335,Jhon Durán,Envigado,2019-10-05,Sat,Primera A,Regular season,Away,D 0–0,Envigado,Huila,N,,17,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+336,Jhon Durán,Envigado,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,N,,35,0,0,0,0,1,0,2,1,3,1,0,0,0,0,0,,,Match Report
+337,Jesús Daniel Martínez,Envigado,2019-02-03,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,Cúcuta,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+338,Jesús Daniel Martínez,Envigado,2019-03-10,Sun,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Rionegro,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+339,Jesús Daniel Martínez,Envigado,2019-03-16,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,,,Match Report
+340,Jesús Daniel Martínez,Envigado,2019-04-30,Tue,Primera A,Apertura Regular Season,Home,W 4–0,Envigado,Nacional,N,,54,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+341,Jesús Daniel Martínez,Envigado,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,AD Cali,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+342,Camilo Mancilla,Envigado,2018-02-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,AD Cali,Y,CB,90,0,0,0,0,1,1,1,0,1,0,1,0,2,5,0,,,Match Report
+343,Camilo Mancilla,Envigado,2018-02-09,Fri,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Rionegro,Y,CB,90,0,0,0,0,1,1,1,0,1,0,1,1,1,2,0,,,Match Report
+344,Camilo Mancilla,Envigado,2018-02-18,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Match Report
+345,Camilo Mancilla,Envigado,2018-02-25,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,La Equidad,Y,CB,90,0,0,0,0,0,0,1,0,3,0,1,0,5,4,0,,,Match Report
+346,Camilo Mancilla,Envigado,2018-03-03,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Leones FC,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,1,0,3,0,,,Match Report
+347,Camilo Mancilla,Envigado,2018-03-08,Thu,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,CB,90,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+348,Camilo Mancilla,Envigado,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Santa Fe,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,3,0,,,Match Report
+349,Camilo Mancilla,Envigado,2018-03-21,Wed,Primera A,Apertura Regular Season,Away,W 3–0,Envigado,Junior,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,5,0,,,Match Report
+350,Camilo Mancilla,Envigado,2018-03-25,Sun,Primera A,Apertura Regular Season,Home,D 2–2,Envigado,Nacional,Y,CB,90,0,1,0,0,0,0,0,0,1,0,0,0,0,4,0,,,Match Report
+351,Camilo Mancilla,Envigado,2018-03-28,Wed,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,,,Match Report
+352,Camilo Mancilla,Envigado,2018-04-02,Mon,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,,,Match Report
+353,Camilo Mancilla,Envigado,2018-04-06,Fri,Primera A,Apertura Regular Season,Away,W 4–2,Envigado,Jaguares,Y*,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,1,3,0,,,Match Report
+354,Camilo Mancilla,Envigado,2018-04-11,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,CA Bucaramanga,Y*,CB,90,0,0,0,0,2,1,1,0,2,0,0,0,1,4,0,,,Match Report
+355,Camilo Mancilla,Envigado,2018-04-15,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,,,Match Report
+356,Camilo Mancilla,Envigado,2018-04-22,Sun,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Huila,Y,CB,90,0,0,0,0,3,0,0,0,0,0,0,1,0,1,0,,,Match Report
+357,Camilo Mancilla,Envigado,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,Boyacá Chicó,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+358,Camilo Mancilla,Envigado,2018-05-02,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,Match Report
+359,Camilo Mancilla,Envigado,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Independiente,Y*,CB,30,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,,,Match Report
+360,Camilo Mancilla,Envigado,2018-07-21,Sat,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y*,CB,90,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,,,Match Report
+361,Camilo Mancilla,Envigado,2018-07-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y*,CB,90,0,0,0,0,1,0,1,0,2,0,0,0,1,2,0,,,Match Report
+362,Camilo Mancilla,Envigado,2018-08-04,Sat,Primera A,Regular season,Home,L 0–1,Envigado,Junior,Y*,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,,,Match Report
+363,Camilo Mancilla,Envigado,2018-08-12,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Once Caldas,Y*,CB,90,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,,,Match Report
+364,Camilo Mancilla,Envigado,2018-08-20,Mon,Primera A,Regular season,Home,L 0–1,Envigado,La Equidad,Y*,CB,90,0,0,0,0,0,0,1,0,2,1,0,0,2,1,0,,,Match Report
+365,Camilo Mancilla,Envigado,2018-09-01,Sat,Primera A,Regular season,Home,L 1–3,Envigado,Tolima,Y,CB,90,0,0,0,0,1,0,0,0,0,2,0,0,2,1,0,,,Match Report
+366,Camilo Mancilla,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,Y,CB,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+367,Camilo Mancilla,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+368,Camilo Mancilla,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,CB,90,0,0,0,0,3,2,0,0,1,0,0,0,0,4,0,,,Match Report
+369,Camilo Mancilla,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,,,Match Report
+370,Camilo Mancilla,Envigado,2018-10-14,Sun,Primera A,Regular season,Away,L 1–2,Envigado,CA Bucaramanga,Y,CB,90,1,0,0,0,1,1,0,0,0,2,0,0,0,0,0,,,Match Report
+371,Camilo Mancilla,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,CB,90,0,0,0,0,0,0,1,0,1,1,0,0,1,2,0,,,Match Report
+372,Camilo Mancilla,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,,Match Report
+373,Camilo Mancilla,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,CB,90,1,0,0,0,3,1,0,0,1,2,0,1,1,1,0,,,Match Report
+374,Camilo Mancilla,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+375,Wilfrido de la Rosa Mendoza,Envigado,2018-03-08,Thu,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,N,,28,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+376,Wilfrido de la Rosa Mendoza,Envigado,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Santa Fe,Y,FW,90,0,0,0,0,3,1,0,0,2,5,3,0,0,0,0,,,Match Report
+377,Wilfrido de la Rosa Mendoza,Envigado,2018-03-18,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Boyacá Patriot,Y,FW,70,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,,,Match Report
+378,Wilfrido de la Rosa Mendoza,Envigado,2018-03-21,Wed,Primera A,Apertura Regular Season,Away,W 3–0,Envigado,Junior,Y,FW,88,1,1,0,0,6,2,0,0,1,5,1,0,0,0,0,,,Match Report
+379,Wilfrido de la Rosa Mendoza,Envigado,2018-03-25,Sun,Primera A,Apertura Regular Season,Home,D 2–2,Envigado,Nacional,Y,FW,90,1,0,0,0,3,2,0,0,0,1,2,0,0,1,0,,,Match Report
+380,Wilfrido de la Rosa Mendoza,Envigado,2018-03-28,Wed,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,CD América,Y,FW,90,1,0,0,0,1,1,0,0,3,3,1,0,0,0,0,,,Match Report
+381,Wilfrido de la Rosa Mendoza,Envigado,2018-04-02,Mon,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,Y,FW,32,0,0,0,0,1,0,0,0,2,1,1,2,0,0,0,,,Match Report
+382,Wilfrido de la Rosa Mendoza,Envigado,2018-04-15,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Pasto,Y,FW,90,0,0,0,0,4,0,0,0,1,2,1,0,0,0,0,,,Match Report
+383,Wilfrido de la Rosa Mendoza,Envigado,2018-04-22,Sun,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Huila,Y,FW,72,0,0,0,0,0,0,0,0,2,0,1,1,1,1,0,,,Match Report
+384,Wilfrido de la Rosa Mendoza,Envigado,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,Boyacá Chicó,Y,FW,90,0,1,0,0,2,1,1,0,3,5,1,1,1,0,0,,,Match Report
+385,Wilfrido de la Rosa Mendoza,Envigado,2018-05-02,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Millonarios,Y,FW,81,0,0,0,0,1,0,0,0,2,6,3,1,0,0,0,,,Match Report
+386,Wilfrido de la Rosa Mendoza,Envigado,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Independiente,Y,FW,90,1,0,0,0,3,2,0,0,1,3,1,0,0,1,0,,,Match Report
+387,Wilfrido de la Rosa Mendoza,Envigado,2018-07-21,Sat,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y,FW,90,0,0,0,0,2,0,0,0,1,5,2,1,1,0,0,,,Match Report
+388,Wilfrido de la Rosa Mendoza,Envigado,2018-07-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,FW,80,0,0,0,0,0,0,0,0,0,4,2,1,2,0,0,,,Match Report
+389,Wilfrido de la Rosa Mendoza,Envigado,2018-08-04,Sat,Primera A,Regular season,Home,L 0–1,Envigado,Junior,Y,FW,77,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,,,Match Report
+390,Wilfrido de la Rosa Mendoza,Envigado,2018-08-12,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Once Caldas,Y,FW,69,0,0,0,0,2,1,0,0,1,3,2,0,0,0,0,,,Match Report
+391,Wilfrido de la Rosa Mendoza,Envigado,2018-08-20,Mon,Primera A,Regular season,Home,L 0–1,Envigado,La Equidad,Y,FW,90,0,0,0,0,1,0,0,0,2,3,4,1,0,0,0,,,Match Report
+392,Wilfrido de la Rosa Mendoza,Envigado,2018-08-25,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Leones FC,Y,FW,66,0,0,0,0,2,2,0,0,1,2,0,0,0,0,0,,,Match Report
+393,Wilfrido de la Rosa Mendoza,Envigado,2018-09-01,Sat,Primera A,Regular season,Home,L 1–3,Envigado,Tolima,Y,FW,65,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,,,Match Report
+394,Wilfrido de la Rosa Mendoza,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,N,,24,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,,,Match Report
+395,Wilfrido de la Rosa Mendoza,Envigado,2018-09-09,Sun,Primera A,Regular season,Home,W 2–1,Envigado,Boyacá Patriot,Y,FW,81,0,0,0,1,2,1,0,0,7,6,0,0,1,0,0,,,Match Report
+396,Wilfrido de la Rosa Mendoza,Envigado,2018-09-16,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Nacional,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+397,Wilfrido de la Rosa Mendoza,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,Y,FW,90,1,0,0,0,4,1,0,0,4,4,0,0,0,1,0,,,Match Report
+398,Wilfrido de la Rosa Mendoza,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,FW,87,2,0,0,0,4,3,0,0,0,3,0,1,0,0,0,,,Match Report
+399,Wilfrido de la Rosa Mendoza,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,Y,FW,87,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,,,Match Report
+400,Wilfrido de la Rosa Mendoza,Envigado,2018-10-14,Sun,Primera A,Regular season,Away,L 1–2,Envigado,CA Bucaramanga,Y,FW,84,0,0,0,0,1,1,0,0,1,6,0,0,1,2,0,,,Match Report
+401,Wilfrido de la Rosa Mendoza,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,FW,81,1,0,0,0,3,1,0,0,4,1,0,1,2,2,0,,,Match Report
+402,Wilfrido de la Rosa Mendoza,Envigado,2018-10-21,Sun,Primera A,Regular season,Home,L 1–2,Envigado,Millonarios,Y,FW,84,0,0,0,0,2,1,0,0,1,5,0,0,0,0,0,,,Match Report
+403,Wilfrido de la Rosa Mendoza,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y,FW,90,0,0,0,0,3,1,0,0,1,2,3,0,0,0,0,,,Match Report
+404,Wilfrido de la Rosa Mendoza,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,FW,80,0,0,0,1,5,2,1,0,3,2,1,0,1,0,0,,,Match Report
+405,Wilfrido de la Rosa Mendoza,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,Y,FW,78,1,1,0,0,1,1,0,0,2,2,3,1,0,0,0,,,Match Report
+406,Nicolás Giraldo,Envigado,2018-02-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Envigado,AD Cali,Y,DM,90,0,0,0,0,4,1,0,0,1,2,0,2,1,0,0,,,Match Report
+407,Nicolás Giraldo,Envigado,2018-02-09,Fri,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Rionegro,Y,AM,68,0,0,0,0,1,0,0,0,1,0,0,6,2,1,0,,,Match Report
+408,Nicolás Giraldo,Envigado,2018-02-18,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Envigado,Once Caldas,Y,AM,90,0,0,0,0,1,0,0,0,0,1,0,5,0,2,0,,,Match Report
+409,Nicolás Giraldo,Envigado,2018-02-25,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,La Equidad,Y,AM,90,0,0,0,0,2,1,0,0,3,1,0,4,0,0,0,,,Match Report
+410,Nicolás Giraldo,Envigado,2018-03-03,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Leones FC,Y,AM,90,0,0,0,0,2,0,0,0,0,2,0,8,1,0,0,,,Match Report
+411,Nicolás Giraldo,Envigado,2018-03-08,Thu,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,AM,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+412,Nicolás Giraldo,Envigado,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Santa Fe,N,,24,0,0,0,0,1,0,1,0,1,2,0,1,0,1,0,,,Match Report
+413,Nicolás Giraldo,Envigado,2018-03-18,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Boyacá Patriot,Y,DM,90,0,0,0,0,2,1,1,0,2,2,0,2,2,1,0,,,Match Report
+414,Nicolás Giraldo,Envigado,2018-03-21,Wed,Primera A,Apertura Regular Season,Away,W 3–0,Envigado,Junior,N,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+415,Nicolás Giraldo,Envigado,2018-03-25,Sun,Primera A,Apertura Regular Season,Home,D 2–2,Envigado,Nacional,Y,LB,90,0,0,0,0,2,1,0,0,2,1,0,2,3,4,0,,,Match Report
+416,Nicolás Giraldo,Envigado,2018-03-28,Wed,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,CD América,N,,23,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,,,Match Report
+417,Nicolás Giraldo,Envigado,2018-04-02,Mon,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,N,,29,0,0,0,0,1,0,1,0,1,3,0,5,0,0,0,,,Match Report
+418,Nicolás Giraldo,Envigado,2018-04-06,Fri,Primera A,Apertura Regular Season,Away,W 4–2,Envigado,Jaguares,Y,LM,86,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,,,Match Report
+419,Nicolás Giraldo,Envigado,2018-04-11,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,CA Bucaramanga,Y,AM,75,0,0,0,0,3,0,0,0,0,2,1,6,1,0,0,,,Match Report
+420,Nicolás Giraldo,Envigado,2018-04-15,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Pasto,Y,LB,90,0,0,0,0,1,1,1,0,3,0,0,1,1,0,0,,,Match Report
+421,Nicolás Giraldo,Envigado,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,Boyacá Chicó,Y,LM,90,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,,,Match Report
+422,Nicolás Giraldo,Envigado,2018-05-02,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Millonarios,Y,LW,53,0,0,0,0,0,0,0,0,2,2,0,4,0,1,0,,,Match Report
+423,Nicolás Giraldo,Envigado,2018-07-21,Sat,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,Y,LB,90,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,,,Match Report
+424,Nicolás Giraldo,Envigado,2018-09-09,Sun,Primera A,Regular season,Home,W 2–1,Envigado,Boyacá Patriot,Y,LB,90,0,0,0,0,1,0,0,0,1,2,0,1,1,0,0,,,Match Report
+425,Nicolás Giraldo,Envigado,2018-09-16,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Nacional,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+426,Nicolás Giraldo,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,Y,LB,90,0,0,0,0,1,0,0,0,1,2,0,0,2,3,0,,,Match Report
+427,Nicolás Giraldo,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,LB,90,0,0,0,0,1,0,0,0,1,4,0,3,0,1,0,,,Match Report
+428,Nicolás Giraldo,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,Y,LB,90,0,0,0,0,2,0,0,0,3,2,0,3,1,2,0,,,Match Report
+429,Nicolás Giraldo,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,LB,90,0,0,0,0,1,0,0,0,1,4,0,1,1,1,0,,,Match Report
+430,Nicolás Giraldo,Envigado,2018-10-21,Sun,Primera A,Regular season,Home,L 1–2,Envigado,Millonarios,Y,LB,90,0,0,0,0,1,0,1,0,4,1,0,2,4,1,0,,,Match Report
+431,Nicolás Giraldo,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y,LB,90,0,0,0,0,1,0,0,0,1,4,0,3,2,2,0,,,Match Report
+432,Nicolás Giraldo,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,LB,90,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,,,Match Report
+433,Nicolás Giraldo,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,Y,LB,90,0,0,0,0,1,0,0,0,0,1,0,1,2,1,0,,,Match Report
+434,Santiago Ruiz,Envigado,2018-07-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,2,3,0,,,Match Report
+435,Santiago Ruiz,Envigado,2018-08-04,Sat,Primera A,Regular season,Home,L 0–1,Envigado,Junior,Y,LB,90,0,0,0,0,0,0,1,0,3,0,0,4,1,4,0,,,Match Report
+436,Santiago Ruiz,Envigado,2018-08-12,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Once Caldas,Y,LB,90,0,1,0,0,1,0,1,0,3,0,2,2,0,0,0,,,Match Report
+437,Santiago Ruiz,Envigado,2018-08-20,Mon,Primera A,Regular season,Home,L 0–1,Envigado,La Equidad,Y,LB,90,0,0,0,0,1,1,0,0,3,1,0,2,1,2,0,,,Match Report
+438,Santiago Ruiz,Envigado,2018-08-25,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Leones FC,Y,LB,90,0,0,0,0,0,0,0,0,2,2,0,1,2,4,0,,,Match Report
+439,Santiago Ruiz,Envigado,2018-09-01,Sat,Primera A,Regular season,Home,L 1–3,Envigado,Tolima,Y,LB,90,0,0,0,0,1,0,0,0,4,0,0,3,1,0,0,,,Match Report
+440,Santiago Ruiz,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,0,5,0,,,Match Report
+441,Santiago Ruiz,Envigado,2018-09-09,Sun,Primera A,Regular season,Home,W 2–1,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,2,7,0,,,Match Report
+442,Santiago Ruiz,Envigado,2018-09-16,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Nacional,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+443,Santiago Ruiz,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,,,Match Report
+444,Santiago Ruiz,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,N,,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+445,Santiago Ruiz,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,N,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+446,Santiago Ruiz,Envigado,2018-10-21,Sun,Primera A,Regular season,Home,L 1–2,Envigado,Millonarios,Y,CB,90,0,0,0,0,1,0,0,0,2,0,0,0,0,2,0,,,Match Report
+447,Santiago Ruiz,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,,,Match Report
+448,Santiago Ruiz,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,0,2,0,,,Match Report
+449,Santiago Ruiz,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,,,Match Report
+450,Iván Angulo,Envigado,2018-04-06,Fri,Primera A,Apertura Regular Season,Away,W 4–2,Envigado,Jaguares,N,,32,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,,,Match Report
+451,Iván Angulo,Envigado,2018-04-22,Sun,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Huila,N,,34,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,,,Match Report
+452,Iván Angulo,Envigado,2018-05-02,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Millonarios,N,,37,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,Match Report
+453,Iván Angulo,Envigado,2018-07-21,Sat,Primera A,Regular season,Home,D 1–1,Envigado,AD Cali,N,,21,0,1,0,0,0,0,0,0,0,0,1,2,1,0,0,,,Match Report
+454,Iván Angulo,Envigado,2018-07-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Rionegro,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+455,Iván Angulo,Envigado,2018-08-04,Sat,Primera A,Regular season,Home,L 0–1,Envigado,Junior,N,,13,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,,Match Report
+456,Iván Angulo,Envigado,2018-08-12,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Once Caldas,N,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report
+457,Iván Angulo,Envigado,2018-08-20,Mon,Primera A,Regular season,Home,L 0–1,Envigado,La Equidad,N,,13,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+458,Iván Angulo,Envigado,2018-08-25,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Leones FC,Y,CM,82,0,1,0,0,2,1,1,0,1,3,0,1,1,1,0,,,Match Report
+459,Iván Angulo,Envigado,2018-09-01,Sat,Primera A,Regular season,Home,L 1–3,Envigado,Tolima,Y,AM,90,1,0,0,0,2,1,0,0,0,4,2,2,1,2,0,,,Match Report
+460,Iván Angulo,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,Y,LW,90,0,0,0,0,0,0,0,0,2,2,0,2,0,4,0,,,Match Report
+461,Iván Angulo,Envigado,2018-09-16,Sun,Primera A,Regular season,Away,L 1–3,Envigado,Nacional,N,,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+462,Iván Angulo,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,N,,12,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,Match Report
+463,Iván Angulo,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,AM,90,0,0,0,0,3,2,0,0,1,0,0,0,2,0,0,,,Match Report
+464,Iván Angulo,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,Y,AM,90,1,0,0,0,2,1,0,0,0,1,0,2,2,0,0,,,Match Report
+465,Iván Angulo,Envigado,2018-10-14,Sun,Primera A,Regular season,Away,L 1–2,Envigado,CA Bucaramanga,Y,AM,89,0,0,0,0,1,0,0,0,0,1,0,1,2,0,0,,,Match Report
+466,Iván Angulo,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,AM,90,0,0,0,0,1,0,0,0,1,1,0,0,0,3,0,,,Match Report
+467,Iván Angulo,Envigado,2018-10-21,Sun,Primera A,Regular season,Home,L 1–2,Envigado,Millonarios,Y,AM,90,0,1,0,0,3,1,0,0,1,3,0,6,0,0,0,,,Match Report
+468,Iván Angulo,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y,FW,73,0,0,0,0,3,1,0,0,0,1,0,1,0,0,0,,,Match Report
+469,Iván Angulo,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,FW,90,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,,,Match Report
+470,Iván Angulo,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,N,,12,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,,,Match Report
+471,Santiago Noreña,Envigado,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,L 0–3,Envigado,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,3,1,0,0,2,2,0,,,Match Report
+472,Santiago Noreña,Envigado,2018-03-18,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,2,2,0,,,Match Report
+473,Santiago Noreña,Envigado,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Envigado,Boyacá Chicó,Y,CB,90,0,0,0,0,0,0,1,0,3,1,0,0,0,2,0,,,Match Report
+474,Santiago Noreña,Envigado,2018-05-02,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,Millonarios,Y,CB,90,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,,,Match Report
+475,Santiago Noreña,Envigado,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,,,Match Report
+476,Santiago Noreña,Envigado,2018-08-20,Mon,Primera A,Regular season,Home,L 0–1,Envigado,La Equidad,Y,CB,90,0,0,0,0,2,0,0,0,0,2,0,0,1,2,0,,,Match Report
+477,Santiago Noreña,Envigado,2018-08-25,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Leones FC,Y,CB,90,0,0,0,0,1,0,1,0,2,0,0,0,0,1,0,,,Match Report
+478,Santiago Noreña,Envigado,2018-09-01,Sat,Primera A,Regular season,Home,L 1–3,Envigado,Tolima,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,Match Report
+479,Santiago Noreña,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,N,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+480,Santiago Noreña,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,3,0,1,0,0,4,0,,,Match Report
+481,Alexis Zapata,Envigado,2018-09-24,Mon,Primera A,Regular season,Home,D 1–1,Envigado,CD América,N,,27,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,,,Match Report
+482,Alexis Zapata,Envigado,2018-09-29,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,AM,65,0,0,0,0,3,1,0,0,2,0,0,1,0,0,0,,,Match Report
+483,Alexis Zapata,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,Y,AM,71,0,0,0,0,0,0,0,0,2,1,0,3,0,1,0,,,Match Report
+484,Alexis Zapata,Envigado,2018-10-14,Sun,Primera A,Regular season,Away,L 1–2,Envigado,CA Bucaramanga,Y,AM,44,0,1,0,0,1,1,1,1,2,3,0,3,0,1,0,,,Match Report
+485,Alexis Zapata,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,Y*,DM,61,1,0,0,0,3,2,0,0,0,1,0,1,2,0,0,,,Match Report
+486,Alexis Zapata,Envigado,2018-11-03,Sat,Primera A,Regular season,Home,W 1–0,Envigado,Boyacá Chicó,Y,DM,68,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,,,Match Report
+487,Alexis Zapata,Envigado,2018-11-10,Sat,Primera A,Regular season,Away,D 2–2,Envigado,Independiente,Y,DM,76,0,0,0,0,3,1,0,0,1,1,0,1,1,0,0,,,Match Report
+488,Mateo Giraldo,Envigado,2018-02-09,Fri,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,Rionegro,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+489,Mateo Giraldo,Envigado,2018-09-05,Wed,Primera A,Regular season,Away,L 1–3,Envigado,Santa Fe,Y,DM,55,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,,,Match Report
+490,Mateo Giraldo,Envigado,2018-10-07,Sun,Primera A,Regular season,Home,W 1–0,Envigado,Jaguares,N,,19,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,Match Report
+491,Mateo Giraldo,Envigado,2018-10-14,Sun,Primera A,Regular season,Away,L 1–2,Envigado,CA Bucaramanga,Y,DM,90,0,0,0,0,0,0,0,0,3,1,0,0,1,2,0,,,Match Report
+492,Mateo Giraldo,Envigado,2018-10-18,Thu,Primera A,Regular season,Home,W 1–0,Envigado,Pasto,Y,DM,90,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,,,Match Report
+493,Mateo Giraldo,Envigado,2018-10-21,Sun,Primera A,Regular season,Home,L 1–2,Envigado,Millonarios,Y,DM,66,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,,,Match Report
+494,Mateo Giraldo,Envigado,2018-10-28,Sun,Primera A,Regular season,Away,L 1–2,Envigado,Huila,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+495,Elvis Mosquera,Envigado,2017-02-05,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,AD Cali,Y,LB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,3,0,,,Match Report
+496,Elvis Mosquera,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Independiente,Y,LB,57,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+497,Elvis Mosquera,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Envigado,Santa Fe,Y,LB,90,0,0,0,0,1,0,0,0,1,4,0,2,0,3,0,,,Match Report
+498,Elvis Mosquera,Envigado,2017-02-19,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,CA Bucaramanga,Y,LB,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+499,Elvis Mosquera,Envigado,2017-02-23,Thu,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,2,0,1,2,0,1,0,,,Match Report
+500,Elvis Mosquera,Envigado,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,,,Match Report
+501,Elvis Mosquera,Envigado,2017-03-02,Thu,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Junior,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,4,0,4,0,,,Match Report
+502,Elvis Mosquera,Envigado,2017-03-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,La Equidad,Y,LB,90,0,0,0,0,0,0,1,0,1,0,0,0,2,3,0,,,Match Report
+503,Elvis Mosquera,Envigado,2017-03-13,Mon,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Jaguares,Y,LB,90,0,0,0,0,1,0,0,0,2,2,0,5,0,2,0,,,Match Report
+504,Elvis Mosquera,Envigado,2017-03-20,Mon,Primera A,Apertura Regular Season,Away,W 2–1,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,4,1,1,2,0,4,0,,,Match Report
+505,Elvis Mosquera,Envigado,2017-04-01,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,CD América,Y,LB,90,0,0,0,0,1,0,1,0,0,1,0,2,0,2,0,,,Match Report
+506,Elvis Mosquera,Envigado,2017-04-08,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,,,Match Report
+507,Elvis Mosquera,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,,,Match Report
+508,Elvis Mosquera,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Millonarios,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+509,Elvis Mosquera,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Pasto,Y,LB,90,0,0,0,0,0,0,0,0,2,0,0,2,0,3,0,,,Match Report
+510,Elvis Mosquera,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Huila,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,,,Match Report
+511,Elvis Mosquera,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Once Caldas,Y,LB,90,0,0,0,0,1,0,0,0,0,0,0,4,0,1,0,,,Match Report
+512,Elvis Mosquera,Envigado,2017-05-13,Sat,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Cortuluá,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+513,Elvis Mosquera,Envigado,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Envigado,Expreso Rojo,Y,LB,90,1,0,0,0,4,2,0,0,1,0,0,3,2,3,0,,,Match Report
+514,Elvis Mosquera,Envigado,2017-05-25,Thu,Primera A,Apertura Regular Season,Away,L 1–3,Envigado,Boyacá Patriot,Y,LB,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+515,Elvis Mosquera,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,Y,LB,90,1,0,0,0,2,2,0,0,2,0,0,2,2,0,0,,,Match Report
+516,Elvis Mosquera,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,,,Match Report
+517,Elvis Mosquera,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,LB,90,0,0,0,0,1,1,0,0,1,0,0,2,0,1,0,,,Match Report
+518,Elvis Mosquera,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,Y,LB,90,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,,,Match Report
+519,Elvis Mosquera,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,,,Match Report
+520,Elvis Mosquera,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,Y,LB,70,0,0,0,0,0,0,1,0,1,0,0,2,1,7,0,,,Match Report
+521,Elvis Mosquera,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,LB,90,0,0,0,0,1,1,0,0,2,1,0,3,1,1,0,,,Match Report
+522,Elvis Mosquera,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,Y,LB,90,0,0,0,0,2,1,0,0,3,1,0,0,0,4,0,,,Match Report
+523,Elvis Mosquera,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,LB,90,0,0,0,0,2,1,0,0,1,1,1,6,1,2,0,,,Match Report
+524,Elvis Mosquera,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,1,3,0,,,Match Report
+525,Elvis Mosquera,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,,,Match Report
+526,Elvis Mosquera,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,LB,90,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,,,Match Report
+527,Elvis Mosquera,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y*,LB,90,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,,,Match Report
+528,Elvis Mosquera,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,LB,90,0,0,0,0,0,0,0,0,1,2,0,2,2,4,0,,,Match Report
+529,Elvis Mosquera,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,LB,90,0,0,0,0,1,0,0,0,1,1,0,3,0,1,0,,,Match Report
+530,Joseph Cox,Envigado,2017-02-05,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,AD Cali,Y,FW,90,2,0,0,0,3,3,0,0,5,4,0,1,2,1,0,,,Match Report
+531,Joseph Cox,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Independiente,Y,FW,90,0,1,0,0,2,1,0,0,2,1,0,1,0,0,0,,,Match Report
+532,Joseph Cox,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Envigado,Santa Fe,Y,FW,90,0,0,0,0,2,1,1,0,3,0,0,1,0,0,0,,,Match Report
+533,Joseph Cox,Envigado,2017-02-19,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,CA Bucaramanga,Y,FW,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+534,Joseph Cox,Envigado,2017-02-23,Thu,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y,FW,90,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,,,Match Report
+535,Joseph Cox,Envigado,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,FW,82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+536,Joseph Cox,Envigado,2017-03-02,Thu,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Junior,Y,FW,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+537,Joseph Cox,Envigado,2017-03-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,La Equidad,Y,FW,90,0,0,0,0,2,0,0,0,1,2,0,2,0,0,0,,,Match Report
+538,Joseph Cox,Envigado,2017-03-13,Mon,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Jaguares,N,,26,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,,,Match Report
+539,Joseph Cox,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,N,,33,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+540,Joseph Cox,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Millonarios,Y,FW,90,0,0,0,0,1,0,0,0,7,2,0,1,0,0,0,,,Match Report
+541,Joseph Cox,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Pasto,Y,FW,90,1,0,0,0,1,1,0,0,2,0,1,0,1,0,0,,,Match Report
+542,Joseph Cox,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Huila,Y,FW,90,0,0,0,0,1,0,0,0,0,2,1,0,0,2,0,,,Match Report
+543,Joseph Cox,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Once Caldas,Y,FW,90,0,0,0,0,3,1,1,0,5,0,1,0,0,0,0,,,Match Report
+544,Joseph Cox,Envigado,2017-05-13,Sat,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Cortuluá,Y,FW,80,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+545,Joseph Cox,Envigado,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Envigado,Expreso Rojo,Y,FW,79,0,0,0,0,3,1,0,0,0,0,1,0,1,0,0,,,Match Report
+546,Joseph Cox,Envigado,2017-05-25,Thu,Primera A,Apertura Regular Season,Away,L 1–3,Envigado,Boyacá Patriot,Y,FW,90,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+547,Joseph Cox,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,Y,FW,39,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,,,Match Report
+548,Joseph Cox,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,Y,FW,90,0,0,0,0,4,2,0,0,3,2,0,0,0,0,0,,,Match Report
+549,Joseph Cox,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,Y,FW,61,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+550,Joseph Cox,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,Y,FW,90,2,0,1,1,4,3,0,0,1,2,0,0,0,0,0,,,Match Report
+551,Joseph Cox,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,FW,79,0,0,0,0,0,0,0,0,5,3,0,0,0,2,0,,,Match Report
+552,Joseph Cox,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,Y,FW,90,1,0,1,1,3,2,0,0,4,1,0,0,0,0,0,,,Match Report
+553,Joseph Cox,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,FW,72,0,0,0,0,2,0,0,0,0,1,0,3,0,0,0,,,Match Report
+554,Joseph Cox,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,FW,70,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,,,Match Report
+555,Joseph Cox,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,FW,90,1,0,0,0,5,2,0,0,4,0,1,1,0,0,0,,,Match Report
+556,Joseph Cox,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,FW,71,0,1,0,0,3,0,0,0,4,2,0,0,0,0,0,,,Match Report
+557,Joseph Cox,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y,FW,74,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,,,Match Report
+558,Joseph Cox,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,N,,39,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+559,Joseph Cox,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,FW,69,1,0,1,1,1,1,0,0,3,0,3,1,0,0,0,,,Match Report
+560,Joseph Cox,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,N,,14,1,0,0,0,2,2,1,0,1,0,0,0,0,0,0,,,Match Report
+561,Joseph Cox,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,N,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+562,Joseph Cox,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,N,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+563,Joseph Cox,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,N,,31,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,,Match Report
+564,Oliver Fula,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Expreso Rojo,Y,CB,90,0,0,0,0,1,1,0,0,3,0,0,0,1,5,0,,,Match Report
+565,Oliver Fula,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Boyacá Patriot,N,,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+566,Oliver Fula,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 0–1,La Equidad,AD Cali,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,,,Match Report
+567,Oliver Fula,Envigado,2017-05-07,Sun,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,,,Match Report
+568,Oliver Fula,Envigado,2017-05-10,Wed,Primera A,Apertura Regular Season,Home,D 0–0,La Equidad,Santa Fe,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,,,Match Report
+569,Oliver Fula,Envigado,2017-05-14,Sun,Primera A,Apertura Regular Season,Away,L 0–1,La Equidad,CA Bucaramanga,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,3,4,0,,,Match Report
+570,Oliver Fula,Envigado,2017-05-22,Mon,Primera A,Apertura Regular Season,Home,D 2–2,La Equidad,Rionegro,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,,,Match Report
+571,Oliver Fula,Envigado,2017-05-26,Fri,Primera A,Apertura Regular Season,Away,D 1–1,La Equidad,Tolima,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,7,0,,,Match Report
+572,Oliver Fula,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,Y,CB,90,0,0,0,0,1,0,0,0,2,1,0,0,0,3,0,,,Match Report
+573,Oliver Fula,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,Y,CB,90,0,0,0,0,0,0,1,0,1,1,0,0,0,4,0,,,Match Report
+574,Oliver Fula,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,Y,CB,90,0,0,0,0,1,0,0,0,1,1,0,0,1,3,0,,,Match Report
+575,Oliver Fula,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,,,Match Report
+576,Oliver Fula,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,,,Match Report
+577,Oliver Fula,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,,Match Report
+578,Oliver Fula,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,,,Match Report
+579,Oliver Fula,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,CB,90,0,0,0,0,1,0,1,0,2,0,0,0,1,5,0,,,Match Report
+580,Oliver Fula,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+581,Oliver Fula,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,,,Match Report
+582,Oliver Fula,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,,,Match Report
+583,Oliver Fula,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,CB,90,0,0,0,0,1,1,1,0,3,1,0,0,1,6,0,,,Match Report
+584,Oliver Fula,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,Match Report
+585,Oliver Fula,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,CB,90,0,0,0,0,0,0,1,0,1,1,0,0,1,2,0,,,Match Report
+586,Oliver Fula,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+587,Gerardo Jiménez Reyes,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,N,,20,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,,,Match Report
+588,Gerardo Jiménez Reyes,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,N,,20,0,0,0,0,2,1,0,0,3,0,0,0,2,0,0,,,Match Report
+589,Gerardo Jiménez Reyes,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,FW,90,0,0,0,0,2,1,0,0,1,2,5,0,1,0,0,,,Match Report
+590,Gerardo Jiménez Reyes,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,Y,FW,69,0,0,0,0,0,0,0,0,4,0,2,0,1,0,0,,,Match Report
+591,Gerardo Jiménez Reyes,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,Y,FW,90,0,0,0,0,3,0,0,0,2,0,0,1,1,0,0,,,Match Report
+592,Gerardo Jiménez Reyes,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,Y,AM,79,0,0,0,0,2,0,0,0,2,3,1,0,1,1,0,,,Match Report
+593,Gerardo Jiménez Reyes,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,FW,59,0,0,0,0,2,0,0,0,0,1,1,0,1,0,0,,,Match Report
+594,Gerardo Jiménez Reyes,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,Y,FW,79,1,0,0,0,4,2,0,0,3,1,0,0,1,0,0,,,Match Report
+595,Gerardo Jiménez Reyes,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,FW,90,0,0,0,0,4,1,1,0,2,0,1,0,0,0,0,,,Match Report
+596,Gerardo Jiménez Reyes,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,FW,90,0,0,0,0,1,0,0,0,2,1,0,1,1,0,0,,,Match Report
+597,Gerardo Jiménez Reyes,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,FW,90,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,,,Match Report
+598,Gerardo Jiménez Reyes,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,FW,90,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,,,Match Report
+599,Gerardo Jiménez Reyes,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y,FW,90,0,0,0,0,4,1,0,0,1,1,1,0,0,0,0,,,Match Report
+600,Gerardo Jiménez Reyes,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,FW,68,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,,,Match Report
+601,Gerardo Jiménez Reyes,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,FW,90,0,0,0,0,0,0,0,0,3,2,1,1,0,3,0,,,Match Report
+602,Gerardo Jiménez Reyes,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,N,,15,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,,,Match Report
+603,Gerardo Jiménez Reyes,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,N,,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+604,Yuber Asprilla,Envigado,2017-02-05,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,AD Cali,Y,AM,74,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,,Match Report
+605,Yuber Asprilla,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Independiente,Y,LW,90,1,0,0,0,1,1,0,0,0,1,0,4,0,0,0,,,Match Report
+606,Yuber Asprilla,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Envigado,Santa Fe,Y,FW,90,0,0,0,0,1,0,0,0,0,1,0,4,0,0,0,,,Match Report
+607,Yuber Asprilla,Envigado,2017-02-19,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,CA Bucaramanga,Y,FW,90,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report
+608,Yuber Asprilla,Envigado,2017-02-23,Thu,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,Y,FW,90,0,1,0,0,1,0,0,0,1,1,1,5,0,0,0,,,Match Report
+609,Yuber Asprilla,Envigado,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,FW,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+610,Yuber Asprilla,Envigado,2017-03-13,Mon,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Jaguares,Y,FW,90,0,0,0,0,2,2,0,0,0,1,0,1,0,1,0,,,Match Report
+611,Yuber Asprilla,Envigado,2017-04-01,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,CD América,N,,45,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,,,Match Report
+612,Yuber Asprilla,Envigado,2017-04-08,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,Y,FW,66,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,,,Match Report
+613,Yuber Asprilla,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,Y,FW,57,0,0,0,0,2,1,0,0,1,0,0,1,1,0,0,,,Match Report
+614,Yuber Asprilla,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Millonarios,Y,RM,67,0,0,0,0,1,1,0,0,1,1,0,3,0,1,0,,,Match Report
+615,Yuber Asprilla,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Pasto,N,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+616,Yuber Asprilla,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Huila,N,,45,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,,,Match Report
+617,Yuber Asprilla,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Once Caldas,Y,DM,78,0,0,0,0,3,0,0,0,0,2,0,1,0,1,0,,,Match Report
+618,Yuber Asprilla,Envigado,2017-05-13,Sat,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Cortuluá,Y,DM,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+619,Yuber Asprilla,Envigado,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Envigado,Expreso Rojo,Y,CM,31,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report
+620,Yuber Asprilla,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,W 1–0,Alianza,Junior,Y,AM,67,0,0,0,0,1,1,0,0,0,1,0,2,0,1,0,,,Match Report
+621,Yuber Asprilla,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 1–1,Alianza,La Equidad,Y,AM,73,1,0,0,0,2,2,0,0,0,2,0,1,1,1,0,,,Match Report
+622,Yuber Asprilla,Envigado,2017-08-05,Sat,Primera A,Regular season,Home,D 1–1,Alianza,Jaguares,Y,AM,61,0,0,0,0,2,0,0,0,0,0,1,3,0,0,0,,,Match Report
+623,Yuber Asprilla,Envigado,2017-08-13,Sun,Primera A,Regular season,Away,L 1–2,Alianza,CD América,N,,21,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,,,Match Report
+624,Yuber Asprilla,Envigado,2017-09-16,Sat,Primera A,Regular season,Home,L 1–2,Alianza,Envigado,Y,AM,68,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,,,Match Report
+625,Yuber Asprilla,Envigado,2017-10-02,Mon,Primera A,Regular season,Home,L 0–1,Alianza,Once Caldas,Y,AM,90,0,0,0,0,3,1,0,0,0,2,0,2,1,0,0,,,Match Report
+626,Yuber Asprilla,Envigado,2017-10-22,Sun,Primera A,Regular season,Home,L 0–1,Alianza,Expreso Rojo,N,,24,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,,,Match Report
+627,Yuber Asprilla,Envigado,2017-10-27,Fri,Primera A,Regular season,Away,L 0–2,Alianza,Boyacá Patriot,Y,AM,90,0,0,0,0,4,1,0,0,0,2,1,5,2,0,0,,,Match Report
+628,Yuber Asprilla,Envigado,2017-10-31,Tue,Primera A,Regular season,Home,W 2–1,Alianza,AD Cali,Y,FW,45,0,0,0,0,1,1,0,0,1,0,1,2,0,0,0,,,Match Report
+629,Yuber Asprilla,Envigado,2017-11-04,Sat,Primera A,Regular season,Away,L 1–3,Alianza,Independiente,Y,FW,46,0,0,0,0,3,1,0,0,0,0,0,2,1,0,0,,,Match Report
+630,Luis Rodríguez,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,Y,CB,90,0,0,0,0,1,0,0,0,2,0,0,1,1,4,0,,,Match Report
+631,Luis Rodríguez,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+632,Luis Rodríguez,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,,,Match Report
+633,Luis Rodríguez,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,1,10,0,,,Match Report
+634,Luis Rodríguez,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,1,1,5,1,,,Match Report
+635,Luis Rodríguez,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,5,3,0,,,Match Report
+636,Luis Rodríguez,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,N,,19,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,Match Report
+637,Luis Rodríguez,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,CB,62,0,0,0,0,0,0,2,1,3,0,0,0,2,3,0,,,Match Report
+638,Luis Rodríguez,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,,,Match Report
+639,Luis Rodríguez,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y,CB,90,0,0,0,0,2,1,0,0,2,1,0,0,1,2,0,,,Match Report
+640,Luis Rodríguez,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,2,2,0,,,Match Report
+641,Luis Rodríguez,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,3,1,0,0,2,3,0,0,0,2,0,,,Match Report
+642,Yosimar Quiñónez,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Huila,Independiente,N,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+643,Yosimar Quiñónez,Envigado,2017-02-18,Sat,Primera A,Apertura Regular Season,Away,L 0–1,Huila,Santa Fe,Y,CB,90,0,0,0,0,1,0,0,0,3,1,0,0,1,1,0,,,Match Report
+644,Yosimar Quiñónez,Envigado,2017-02-22,Wed,Primera A,Apertura Regular Season,Home,L 0–1,Huila,CA Bucaramanga,Y,CB,57,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,,,Match Report
+645,Yosimar Quiñónez,Envigado,2017-03-25,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Huila,Tolima,Y,CB,74,0,0,0,0,0,0,1,0,3,0,0,0,0,2,0,,,Match Report
+646,Yosimar Quiñónez,Envigado,2017-04-02,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Huila,Jaguares,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+647,Yosimar Quiñónez,Envigado,2017-04-05,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Huila,Rionegro,Y,CB,90,0,0,0,0,0,0,0,0,1,0,1,0,1,3,0,,,Match Report
+648,Yosimar Quiñónez,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,L 0–1,Huila,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,Match Report
+649,Yosimar Quiñónez,Envigado,2017-05-12,Fri,Primera A,Apertura Regular Season,Away,L 1–2,Huila,Once Caldas,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+650,Yosimar Quiñónez,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,1,11,0,,,Match Report
+651,Yosimar Quiñónez,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,CB,90,0,0,0,0,1,0,1,0,2,0,1,0,2,2,0,,,Match Report
+652,Yosimar Quiñónez,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,Y,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,1,4,0,,,Match Report
+653,Yosimar Quiñónez,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,Y,CB,75,0,0,0,0,0,0,2,1,4,0,0,0,0,4,0,,,Match Report
+654,Yosimar Quiñónez,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,,,Match Report
+655,Yosimar Quiñónez,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,CB,90,0,0,0,0,0,0,1,0,3,0,0,0,4,0,0,,,Match Report
+656,Yosimar Quiñónez,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,CB,90,1,0,0,0,1,1,1,0,5,1,0,0,1,3,0,,,Match Report
+657,Yosimar Quiñónez,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,CB,90,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,,,Match Report
+658,Yosimar Quiñónez,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0,0,1,3,0,,,Match Report
+659,Yosimar Quiñónez,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,CB,89,0,0,0,0,1,0,2,1,2,1,0,0,1,3,0,,,Match Report
+660,Yosimar Quiñónez,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,CB,90,0,0,0,0,1,0,1,0,2,1,0,0,3,2,0,,,Match Report
+661,Neyder Moreno,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,CM,82,1,0,0,0,5,2,0,0,3,1,0,2,3,1,0,,,Match Report
+662,Neyder Moreno,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,CM,45,0,0,0,0,3,0,1,0,1,0,0,1,0,0,0,,,Match Report
+663,Neyder Moreno,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,N,,15,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,,,Match Report
+664,Neyder Moreno,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,N,,16,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+665,Neyder Moreno,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,DM,90,0,0,0,0,3,0,0,0,1,2,0,1,2,2,0,,,Match Report
+666,Neyder Moreno,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,DM,90,0,0,0,0,3,1,0,0,3,2,0,4,1,0,0,,,Match Report
+667,Neyder Moreno,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,LM,90,1,0,0,0,3,2,0,0,1,1,0,3,1,0,0,,,Match Report
+668,Neyder Moreno,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,AM,66,0,0,0,0,0,0,0,0,1,1,0,3,1,0,0,,,Match Report
+669,Neyder Moreno,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y,LM,75,0,0,0,0,4,1,0,0,0,1,0,1,1,1,0,,,Match Report
+670,Neyder Moreno,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,LM,89,0,0,0,0,5,2,1,0,2,0,0,1,2,0,0,,,Match Report
+671,Neyder Moreno,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,LM,59,0,0,0,0,2,0,0,0,0,0,1,1,0,1,0,,,Match Report
+672,Franco Velázquez,Envigado,2017-02-05,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Envigado,AD Cali,N,,16,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,Match Report
+673,Franco Velázquez,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Independiente,N,,33,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,,,Match Report
+674,Franco Velázquez,Envigado,2017-02-19,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Envigado,CA Bucaramanga,N,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+675,Franco Velázquez,Envigado,2017-02-23,Thu,Primera A,Apertura Regular Season,Home,D 1–1,Envigado,Rionegro,N,,49,1,0,0,0,2,1,0,0,1,0,1,3,0,1,0,,,Match Report
+676,Franco Velázquez,Envigado,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,Y,LM,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+677,Franco Velázquez,Envigado,2017-03-02,Thu,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Junior,Y,LM,73,0,0,0,0,3,1,0,0,2,0,0,1,0,0,0,,,Match Report
+678,Franco Velázquez,Envigado,2017-03-05,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Envigado,La Equidad,Y,AM,49,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,,,Match Report
+679,Franco Velázquez,Envigado,2017-03-20,Mon,Primera A,Apertura Regular Season,Away,W 2–1,Envigado,Rionegro,N,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+680,Franco Velázquez,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,Y,RM,90,0,0,0,0,3,1,0,0,0,1,0,8,2,1,0,,,Match Report
+681,Franco Velázquez,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Millonarios,Y,LM,90,1,0,0,0,3,2,0,0,0,0,0,8,1,1,0,,,Match Report
+682,Franco Velázquez,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Pasto,Y,LM,83,0,0,0,0,2,1,0,0,0,1,0,1,0,0,0,,,Match Report
+683,Franco Velázquez,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Huila,Y,AM,45,0,0,0,0,2,2,0,0,2,0,0,5,0,1,0,,,Match Report
+684,Franco Velázquez,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Once Caldas,N,,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+685,Franco Velázquez,Envigado,2017-05-13,Sat,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Cortuluá,N,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+686,Franco Velázquez,Envigado,2017-05-25,Thu,Primera A,Apertura Regular Season,Away,L 1–3,Envigado,Boyacá Patriot,N,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+687,Franco Velázquez,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,N,,27,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,,,Match Report
+688,Franco Velázquez,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,AM,57,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,,,Match Report
+689,Franco Velázquez,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,N,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+690,Franco Velázquez,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,N,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+691,Franco Velázquez,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,N,,23,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,,,Match Report
+692,Diego Moreno,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,Y,LM,90,0,0,0,0,1,0,0,0,2,4,0,0,0,1,0,,,Match Report
+693,Diego Moreno,Envigado,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Millonarios,Y,FW,70,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,,,Match Report
+694,Diego Moreno,Envigado,2017-04-29,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Envigado,Pasto,N,,11,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+695,Diego Moreno,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Huila,Y,AM,90,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,,,Match Report
+696,Diego Moreno,Envigado,2017-05-13,Sat,Primera A,Apertura Regular Season,Away,W 3–1,Envigado,Cortuluá,N,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+697,Diego Moreno,Envigado,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Envigado,Expreso Rojo,N,,22,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report
+698,Diego Moreno,Envigado,2017-05-25,Thu,Primera A,Apertura Regular Season,Away,L 1–3,Envigado,Boyacá Patriot,Y,DM,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+699,Diego Moreno,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,N,,18,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,,,Match Report
+700,Diego Moreno,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,Y,CM,60,0,0,0,0,2,1,0,0,2,1,0,0,2,1,0,,,Match Report
+701,Diego Moreno,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,CM,90,0,0,0,0,2,0,0,0,1,2,0,0,2,1,0,,,Match Report
+702,Diego Moreno,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,CM,90,0,0,0,0,1,1,1,0,2,4,0,0,2,1,0,,,Match Report
+703,Diego Moreno,Envigado,2017-09-16,Sat,Primera A,Regular season,Away,W 2–1,Envigado,Alianza,Y,CM,90,2,0,0,0,3,2,1,0,1,5,0,0,4,3,0,,,Match Report
+704,Yeison Guzmán,Envigado,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Tolima,N,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+705,Yeison Guzmán,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,N,,11,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,,,Match Report
+706,Yeison Guzmán,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,Y,FW,67,0,0,0,0,1,0,0,0,0,2,0,6,1,1,0,,,Match Report
+707,Yeison Guzmán,Envigado,2017-09-02,Sat,Primera A,Regular season,Home,W 2–1,Envigado,CD América,Y,FW,45,0,0,0,0,0,0,0,0,1,1,0,4,1,1,0,,,Match Report
+708,Yeison Guzmán,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,Y,AM,73,0,0,0,0,2,0,0,0,0,1,0,5,0,1,0,,,Match Report
+709,Yeison Guzmán,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,FW,84,0,0,0,0,5,3,0,0,0,2,0,5,1,0,0,,,Match Report
+710,Yeison Guzmán,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,AM,90,0,1,0,0,2,2,0,0,1,4,0,8,0,0,0,,,Match Report
+711,Yeison Guzmán,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y,FW,75,0,0,0,0,2,1,0,0,1,0,0,4,0,1,0,,,Match Report
+712,Yeison Guzmán,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,FW,77,0,0,0,0,0,0,0,0,1,0,0,8,0,0,0,,,Match Report
+713,Yeison Guzmán,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,FW,90,0,0,0,0,3,1,0,0,0,3,1,5,0,0,0,,,Match Report
+714,Nelson Lemus,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,N,,30,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,,,Match Report
+715,Nelson Lemus,Envigado,2017-08-15,Tue,Primera A,Regular season,Home,W 2–1,Envigado,La Equidad,N,,18,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report
+716,Nelson Lemus,Envigado,2017-08-20,Sun,Primera A,Regular season,Away,L 0–2,Envigado,Jaguares,N,,30,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,,,Match Report
+717,Nelson Lemus,Envigado,2017-08-27,Sun,Primera A,Regular season,Home,W 2–0,Envigado,Rionegro,N,,8,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+718,Nelson Lemus,Envigado,2017-09-24,Sun,Primera A,Regular season,Home,L 0–2,Envigado,Nacional,Y,RB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,,,Match Report
+719,Nelson Lemus,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,N,,57,0,0,0,0,0,0,0,0,1,1,0,1,2,2,0,,,Match Report
+720,Nelson Lemus,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,RM,90,0,0,0,0,2,0,0,0,1,0,0,1,2,1,0,,,Match Report
+721,Nelson Lemus,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,AM,90,0,0,0,0,2,2,0,0,3,0,1,0,3,1,0,,,Match Report
+722,Nelson Lemus,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y*,RM,90,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,,,Match Report
+723,Nelson Lemus,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,RM,90,0,0,0,0,1,0,0,0,2,0,0,0,4,2,0,,,Match Report
+724,Nelson Lemus,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,RM,90,0,0,0,0,5,0,0,0,0,2,0,0,0,1,0,,,Match Report
+725,Daniel Londoño,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,N,,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,Match Report
+726,Daniel Londoño,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,N,,20,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+727,Daniel Londoño,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,Y,LB,90,0,0,0,0,1,0,0,0,3,1,0,4,2,2,0,,,Match Report
+728,Daniel Londoño,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,LB,90,0,0,0,0,1,0,0,0,1,0,0,1,0,3,0,,,Match Report
+729,Daniel Londoño,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y,LB,90,0,0,0,0,1,1,0,0,5,0,0,2,1,0,0,,,Match Report
+730,Daniel Londoño,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,LB,90,0,0,0,0,1,0,0,0,5,3,0,3,2,1,0,,,Match Report
+731,Daniel Londoño,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,LB,90,0,0,0,0,1,0,1,0,1,3,0,6,0,0,0,,,Match Report
+732,Jorge Andrés Betancur,Envigado,2017-02-05,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Huila,Boyacá Patriot,N,,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,Match Report
+733,Jorge Andrés Betancur,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 0–4,Huila,AD Cali,N,,16,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,,,Match Report
+734,Jorge Andrés Betancur,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Huila,Independiente,N,,18,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,,,Match Report
+735,Jorge Andrés Betancur,Envigado,2017-02-18,Sat,Primera A,Apertura Regular Season,Away,L 0–1,Huila,Santa Fe,Y,DM,78,0,0,0,0,2,0,1,0,1,4,0,2,1,2,0,,,Match Report
+736,Jorge Andrés Betancur,Envigado,2017-02-22,Wed,Primera A,Apertura Regular Season,Home,L 0–1,Huila,CA Bucaramanga,Y,AM,68,0,0,0,0,2,0,0,0,3,2,0,1,0,0,0,,,Match Report
+737,Jorge Andrés Betancur,Envigado,2017-03-25,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Huila,Tolima,N,,22,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,,,Match Report
+738,Jorge Andrés Betancur,Envigado,2017-04-02,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Huila,Jaguares,N,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+739,Jorge Andrés Betancur,Envigado,2017-04-23,Sun,Primera A,Apertura Regular Season,Home,L 0–1,Huila,Nacional,N,,7,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,Match Report
+740,Jorge Andrés Betancur,Envigado,2017-04-30,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Huila,Millonarios,Y,LW,71,0,0,0,0,2,2,0,0,2,4,0,0,2,1,0,,,Match Report
+741,Jorge Andrés Betancur,Envigado,2017-05-06,Sat,Primera A,Apertura Regular Season,Home,W 2–0,Huila,Envigado,Y,LM,90,1,0,0,0,2,2,0,0,2,1,0,5,2,0,0,,,Match Report
+742,Jorge Andrés Betancur,Envigado,2017-05-09,Tue,Primera A,Apertura Regular Season,Home,L 0–1,Huila,Pasto,Y,LM,90,0,0,0,0,2,1,0,0,3,3,0,7,1,0,0,,,Match Report
+743,Jorge Andrés Betancur,Envigado,2017-05-12,Fri,Primera A,Apertura Regular Season,Away,L 1–2,Huila,Once Caldas,Y,LM,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+744,Jorge Andrés Betancur,Envigado,2017-05-20,Sat,Primera A,Apertura Regular Season,Home,L 2–3,Huila,Cortuluá,N,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+745,Jorge Andrés Betancur,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,Y,FW,90,0,0,0,0,0,0,0,0,1,3,0,2,0,1,0,,,Match Report
+746,Jorge Andrés Betancur,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,Y,AM,90,0,0,0,0,1,0,0,0,6,2,0,1,1,1,0,,,Match Report
+747,Jorge Andrés Betancur,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,Y,AM,56,0,0,0,0,1,0,1,0,3,0,0,2,2,1,0,,,Match Report
+748,Jorge Andrés Betancur,Envigado,2017-07-24,Mon,Primera A,Regular season,Home,D 0–0,Envigado,CA Bucaramanga,N,,21,0,0,0,0,1,1,0,0,2,1,0,0,1,0,0,,,Match Report
+749,Jorge Andrés Betancur,Envigado,2017-08-04,Fri,Primera A,Regular season,Home,W 3–1,Envigado,Tolima,N,,11,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,,,Match Report
+750,Jorge Andrés Betancur,Envigado,2017-08-12,Sat,Primera A,Regular season,Away,L 0–2,Envigado,Junior,Y,RM,60,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,,,Match Report
+751,Jorge Andrés Betancur,Envigado,2017-09-29,Fri,Primera A,Regular season,Away,L 0–1,Envigado,Millonarios,Y,FW,33,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,,,Match Report
+752,Juan Ochoa,Envigado,2017-10-21,Sat,Primera A,Regular season,Home,L 1–2,Envigado,Huila,N,,21,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,,Match Report
+753,Juan Ochoa,Envigado,2017-11-01,Wed,Primera A,Regular season,Home,W 2–0,Envigado,Cortuluá,Y,CB,90,0,0,0,0,1,0,0,0,4,2,0,0,0,1,0,,,Match Report
+754,Juan Ochoa,Envigado,2017-11-05,Sun,Primera A,Regular season,Away,D 0–0,Envigado,Expreso Rojo,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,1,2,2,0,,,Match Report
+755,Juan Ochoa,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,2,2,0,,,Match Report
+756,Juan Ochoa,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report
+757,Carlos Rojas,Envigado,2017-02-08,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Envigado,Independiente,N,,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report
+758,Carlos Rojas,Envigado,2017-02-11,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Envigado,Santa Fe,N,,29,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,,,Match Report
+759,Carlos Rojas,Envigado,2017-03-02,Thu,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Junior,N,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+760,Carlos Rojas,Envigado,2017-04-01,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,CD América,N,,45,0,0,0,0,3,0,0,0,2,1,0,0,0,0,0,,,Match Report
+761,Carlos Rojas,Envigado,2017-04-08,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Envigado,Alianza,N,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+762,Carlos Rojas,Envigado,2017-04-16,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Envigado,Nacional,N,,16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,Match Report
+763,Carlos Rojas,Envigado,2017-05-21,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Envigado,Expreso Rojo,N,,59,2,0,0,0,6,4,1,0,2,1,1,0,1,0,0,,,Match Report
+764,Carlos Rojas,Envigado,2017-05-25,Thu,Primera A,Apertura Regular Season,Away,L 1–3,Envigado,Boyacá Patriot,N,,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+765,Carlos Rojas,Envigado,2017-07-08,Sat,Primera A,Regular season,Away,L 2–4,Envigado,AD Cali,N,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report
+766,Carlos Rojas,Envigado,2017-07-15,Sat,Primera A,Regular season,Home,L 0–2,Envigado,Independiente,Y,FW,70,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0,,,Match Report
+767,Carlos Rojas,Envigado,2017-07-19,Wed,Primera A,Regular season,Away,L 0–2,Envigado,Santa Fe,N,,34,0,0,0,0,2,1,0,0,1,1,0,1,0,0,0,,,Match Report
+768,Carlos Rojas,Envigado,2017-07-31,Mon,Primera A,Regular season,Away,D 0–0,Envigado,Rionegro,N,,29,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,,,Match Report
+769,Carlos Rojas,Envigado,2017-10-28,Sat,Primera A,Regular season,Away,D 1–1,Envigado,Once Caldas,N,,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,,Match Report
+770,Carlos Rojas,Envigado,2017-11-12,Sun,Primera A,Regular season,Away,W 2–1,Envigado,Pasto,N,,28,1,0,0,0,1,1,1,0,3,1,2,0,0,0,0,,,Match Report
+771,Carlos Rojas,Envigado,2017-11-18,Sat,Primera A,Regular season,Home,D 0–0,Envigado,Boyacá Patriot,Y,FW,72,0,0,0,0,5,0,0,0,1,1,3,1,0,0,0,,,Match Report
