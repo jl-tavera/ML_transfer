@@ -84,7 +84,7 @@ def getATeams(squads_seasons):
             teams_A.append(team)
 
     for team in teams_A: 
-        if teams_A.count(team) == 5:
+        if teams_A.count(team) == 6:
             squads.append(team)
     squads =list(dict.fromkeys(squads))
 
@@ -109,7 +109,7 @@ def filterSignings(players):
         squad_signings = {}
         for year in players[squad]:
             squad_year_signings = ''
-            if int(year) > 2017: 
+            if int(year) > 2016: 
                 players_year = (players[squad][year]).keys()
                 players_year_p = (players[squad][str(int(year) - 1)]).keys()
                 for player in players_year:
@@ -363,7 +363,10 @@ def getPlayerStats(soup, stats_df,stats_df_gk,  col):
 
 
 def getSeasonURL(soup, year): 
-    table_players = soup.find('table')
+    for caption in soup.find_all('caption'):
+                if 'Domestic Leagues' in caption.get_text():
+                    table_players = caption.find_parent('table')
+                    break
     rows = table_players.tbody.find_all('tr')   
     for i, row in enumerate(table_players.tbody.find_all('th')):
         columns = rows[i].find_all('td', {'data-stat':'matches'})
