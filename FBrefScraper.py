@@ -13,12 +13,31 @@ import requests
 from bs4 import BeautifulSoup
 from soupsieve import match
 import numpy as np
+from tables import Col
 import config as cf
 import pandas as pd
+
+
+'''
+LOADING FUNCTIONS
+'''
+def loadCSV(name):
+
+    route = cf.export_dir.replace('/App', '') + name
+    csv = pd.read_csv(route)
+
+    return csv
+
 
 '''
 FORMAT FUNCTIONS
 '''
+
+def formatLinks(links):
+    links = links.split(',')
+    links = links[:-1]
+
+    return links
 
 def formatHREF(href):
     href = href[0]
@@ -268,13 +287,148 @@ def getPlayers(soup):
 
     return players_dicc
 
+def getColumnNames(soup, stats_df,col):
+    col_names = ['Name', 'Team']
+    table_players = soup.find('table')
+    rows = table_players.thead.find_all('tr')
+    row = rows[1]
+    for i, col_name in enumerate(row.find_all('th')):
+        col_name = col_name.text.strip()
+        col_names.append(col_name)
+
+    stats_df.append(col_names)
+    return stats_df
+
+def getColumnNamesGK(soup, stats_df_gk,col):
+    col_names = ['Name', 'Team']
+    table_players = soup.find('table')
+    rows = table_players.thead.find_all('tr')
+    row = rows[1]
+    for i, col_name in enumerate(row.find_all('th')):
+        col_name = col_name.text.strip()
+        col_names.append(col_name)
+
+    stats_df_gk.append(col_names)
+    return stats_df_gk
+
+def getPlayerStats(soup, stats_df,stats_df_gk,  col):
+    name = soup.find('h1')
+    name = name.find('span')
+    name = name.text.strip()
+    meta = soup.find_all('p')
+    for data in meta:
+        if 'Position' in data.text.strip(): 
+            pos = data.text.strip()
+
+    team = col
+    table_players = soup.find('table')
+    rows = table_players.tbody.find_all('th') 
+    
+    if 'GK' not in pos:
+        if len(stats_df) == 0:
+            stats_df = getColumnNames(soup, stats_df, col)
+
+        for i,row in enumerate(table_players.tbody.find_all('tr')):
+            match_stats = []
+            date = rows[i].text.strip()  
+            match_stats.append(name)  
+            match_stats.append(team)
+            match_stats.append(date)
+            columns = row.find_all('td')
+            for cell in columns:
+                cell = cell.text.strip()
+                match_stats.append(cell)
+            if len(match_stats) == 31:
+                stats_df.append(match_stats)
+
+    else: 
+        if len(stats_df_gk) == 0:
+            stats_df_gk = getColumnNamesGK(soup, stats_df_gk, col)
+
+        for i,row in enumerate(table_players.tbody.find_all('tr')):
+            match_stats = []
+            date = rows[i].text.strip()  
+            match_stats.append(name)  
+            match_stats.append(team)
+            match_stats.append(date)
+            columns = row.find_all('td')
+            for cell in columns:
+                cell = cell.text.strip()
+                match_stats.append(cell)
+            if len(match_stats) == 23:
+                stats_df_gk.append(match_stats)
+
+
+    return stats_df
+
+
+def getSeasonURL(soup, year): 
+    table_players = soup.find('table')
+    rows = table_players.tbody.find_all('tr')   
+    for i, row in enumerate(table_players.tbody.find_all('th')):
+        columns = rows[i].find_all('td', {'data-stat':'matches'})
+        player_year = row.text.strip()
+        if len(player_year) > 4:
+            player_year = player_year[:3]
+        if len(player_year) == 4:
+            player_year = int(player_year)
+        if year == player_year:
+            season_url = columns[0].find_all('a', href=True)
+            season_url = formatHREF(season_url)
+            print(season_url)
+    return season_url
+        
+
+def getSigningStats(url, year, col, stats_df, stats_df_gk): 
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+    season_url = getSeasonURL(soup, year)
+    r2 = requests.get(season_url)
+    soup2 = BeautifulSoup(r2.content, features='lxml')
+    stats_df = getPlayerStats(soup2, stats_df, stats_df_gk,  col)
+
+    return stats_df, stats_df_gk
+
+
+def getAllSquadSigningStats(df, col):
+    stats_df = []
+    stats_df_gk = []
+    
+    for i, row in df.iterrows():
+        year = row['Year']
+        list = row[col]
+        print(list)
+        
+        for i, url in enumerate(list):
+            signing_stats = getSigningStats(url, year, col, stats_df,stats_df_gk )
+            stats_df = signing_stats[0]
+            stats_df_gk = signing_stats[1]
+
+    stats_df = pd.DataFrame(stats_df)
+    stats_df_gk = pd.DataFrame(stats_df_gk)
+
+    return stats_df, stats_df_gk
+        
+
+'''
+DATAFRAME FUNCTIONS
+'''
+
+def iterLinks(df):
+    cols = df.columns.tolist()
+    for col in cols:
+        if col != 'Year':
+            for i, row in df.iterrows(): 
+                df.at[i, col] = formatLinks(row[col])
+    
+    return df
 
 '''
 EXPORT FUNCTIONS
 '''
 
-def exportFinalCSV(df, name):
-    route = cf.export_dir.replace('/App', '')
+def exportFinalCSV(df, path, name):
+    route = cf.export_dir.replace('/App', '') + path
     df.to_csv(route + str(name) + '.csv')
 
     return None
