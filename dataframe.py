@@ -17,7 +17,7 @@ signings = signings.drop([4])
 signings = FBref.iterLinks(signings)
 print(signings.head)
 
-signings_stats = FBref.getAllSquadSigningStats(signings, 'Once Caldas')
-FBref.exportFinalCSV(signings_stats[0],'/teams/', 'OnceCaldas')
-FBref.exportFinalCSV(signings_stats[1],'/teams/','OnceCaldas_GK')
+signings_stats = FBref.getAllSquadSigningStats(signings, 'Nacional')
+FBref.exportFinalCSV(signings_stats[0],'/teams/', 'Nacional')
+FBref.exportFinalCSV(signings_stats[1],'/teams/','Nacional_GK')
 
