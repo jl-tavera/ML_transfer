@@ -410,7 +410,7 @@ def getAllSquadSigningStats(df, col):
             signing_stats = getSigningStats(url, year, col, stats_df,stats_df_gk )
             stats_df = signing_stats[0]
             stats_df_gk = signing_stats[1]
-            sleep(randint(10,20))
+            sleep(randint(5,10))
 
     stats_df = pd.DataFrame(stats_df)
     stats_df_gk = pd.DataFrame(stats_df_gk)
