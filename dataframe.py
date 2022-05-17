@@ -13,7 +13,7 @@ def createDFSignings():
 
 signings = FBref.loadCSV('signings.csv')
 signings = signings.rename(columns={'Unnamed: 0': 'Year'})
-signings = signings.drop([0])
+signings = signings.drop([4])
 signings = FBref.iterLinks(signings)
 print(signings.head)
 

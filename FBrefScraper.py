@@ -291,7 +291,7 @@ def getPlayers(soup):
     return players_dicc
 
 def getColumnNames(soup, stats_df,col):
-    col_names = ['Name', 'Team']
+    col_names = ['Name', 'Team', 'Team_Href']
     table_players = soup.find('table')
     rows = table_players.thead.find_all('tr')
     row = rows[1]
@@ -303,7 +303,7 @@ def getColumnNames(soup, stats_df,col):
     return stats_df
 
 def getColumnNamesGK(soup, stats_df_gk,col):
-    col_names = ['Name', 'Team']
+    col_names = ['Name', 'Team', 'Team_Href']
     table_players = soup.find('table')
     rows = table_players.thead.find_all('tr')
     row = rows[1]
@@ -314,7 +314,7 @@ def getColumnNamesGK(soup, stats_df_gk,col):
     stats_df_gk.append(col_names)
     return stats_df_gk
 
-def getPlayerStats(soup, stats_df,stats_df_gk,  col):
+def getPlayerStats(soup, squad_url, stats_df,stats_df_gk,  col):
     name = soup.find('h1')
     name = name.find('span')
     name = name.text.strip()
@@ -336,12 +336,13 @@ def getPlayerStats(soup, stats_df,stats_df_gk,  col):
             date = rows[i].text.strip()  
             match_stats.append(name)  
             match_stats.append(team)
+            match_stats.append(squad_url)
             match_stats.append(date)
             columns = row.find_all('td')
             for cell in columns:
                 cell = cell.text.strip()
                 match_stats.append(cell)
-            if len(match_stats) == 31:
+            if len(match_stats) == 32:
                 stats_df.append(match_stats)
 
     else: 
@@ -353,12 +354,13 @@ def getPlayerStats(soup, stats_df,stats_df_gk,  col):
             date = rows[i].text.strip()  
             match_stats.append(name)  
             match_stats.append(team)
+            match_stats.append(squad_url)
             match_stats.append(date)
             columns = row.find_all('td')
             for cell in columns:
                 cell = cell.text.strip()
                 match_stats.append(cell)
-            if len(match_stats) == 23:
+            if len(match_stats) == 24:
                 stats_df_gk.append(match_stats)
 
 
@@ -371,9 +373,12 @@ def getSeasonURL(soup, year):
                     table_players = caption.find_parent('table')
                     break
 
-    rows = table_players.tbody.find_all('tr')   
+    rows = table_players.tbody.find_all('tr')
+    season_url2 = None
+    squad_url2 = None   
     for i, row in enumerate(table_players.tbody.find_all('th')):
         columns = rows[i].find_all('td', {'data-stat':'matches'})
+        columns2 = rows[i].find_all('td', {'data-stat':'squad'})
         player_year = row.text.strip()
         if len(player_year) > 4:
             player_year = player_year[:3]
@@ -383,16 +388,35 @@ def getSeasonURL(soup, year):
             season_url = columns[0].find_all('a', href=True)
             season_url = formatHREF(season_url)
             print(season_url)
-    return season_url
+
+            squad_url = columns2[0].find_all('a', href=True)
+            squad_url = formatHREF(squad_url)
+
+        if int(year - 1) == player_year:
+            season_url2 = columns[0].find_all('a', href=True)
+            season_url2 = formatHREF(season_url2)
+            print(season_url2)
+
+            squad_url2 = columns2[0].find_all('a', href=True)
+            squad_url2 = formatHREF(squad_url2)
+
+    return season_url, squad_url, season_url2, squad_url2
         
 
 def getSigningStats(url, year, col, stats_df, stats_df_gk): 
     r = requests.get(url)
     soup = BeautifulSoup(r.content, features='lxml')
     season_url = getSeasonURL(soup, year)
-    r2 = requests.get(season_url)
-    soup2 = BeautifulSoup(r2.content, features='lxml')
-    stats_df = getPlayerStats(soup2, stats_df, stats_df_gk,  col)
+    
+    if season_url[2] != None:
+
+        r2 = requests.get(season_url[0])
+        soup2 = BeautifulSoup(r2.content, features='lxml')
+        stats_df = getPlayerStats(soup2,season_url[1], stats_df, stats_df_gk,  col)
+
+        r3 = requests.get(season_url[2])
+        soup3 = BeautifulSoup(r3.content, features='lxml')
+        stats_df = getPlayerStats(soup3,season_url[3], stats_df, stats_df_gk,  col)
 
     return stats_df, stats_df_gk
 
