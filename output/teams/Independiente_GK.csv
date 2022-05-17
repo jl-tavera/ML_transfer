@@ -1,42 +1,32 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
-0,Name,Team,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
-1,Andrés Mosquera Marmolejo,Independiente,2020-01-23,Thu,Primera A,First stage,Away,D 2–2,Independiente,Tolima,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-2,Andrés Mosquera Marmolejo,Independiente,2020-01-28,Tue,Primera A,First stage,Home,W 2–1,Independiente,Rionegro,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-3,Andrés Mosquera Marmolejo,Independiente,2020-02-01,Sat,Primera A,First stage,Away,L 0–1,Independiente,Junior,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
-4,Andrés Mosquera Marmolejo,Independiente,2020-02-04,Tue,Libertadores,Second qualifying stage,Home,W 4–0,co Independiente,ve Dep Táchira,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-5,Andrés Mosquera Marmolejo,Independiente,2020-02-07,Fri,Primera A,First stage,Home,W 3–1,Independiente,Boyacá Patriot,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-6,Andrés Mosquera Marmolejo,Independiente,2020-02-11,Tue,Libertadores,Second qualifying stage,Away,L 0–2,co Independiente,ve Dep Táchira,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-7,Andrés Mosquera Marmolejo,Independiente,2020-02-18,Tue,Libertadores,Third qualifying stage,Home,W 1–0,co Independiente,ar Tucumán,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-8,Andrés Mosquera Marmolejo,Independiente,2020-02-22,Sat,Primera A,First stage,Home,L 1–3,Independiente,Nacional,Y,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report
-9,Andrés Mosquera Marmolejo,Independiente,2020-02-25,Tue,Libertadores,Third qualifying stage,Away,L 0 (4)–1 (2),co Independiente,ar Tucumán,Y,GK,120,1,1,0,0.0,0,0,0,0,0,Match Report
-10,Andrés Mosquera Marmolejo,Independiente,2020-02-29,Sat,Primera A,First stage,Away,D 1–1,Independiente,Nacional,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
-11,Andrés Mosquera Marmolejo,Independiente,2020-03-03,Tue,Libertadores,Group stage,Home,L 1–2,co Independiente,py Libertad,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-12,Andrés Mosquera Marmolejo,Independiente,2020-03-07,Sat,Primera A,First stage,Home,W 1–0,Independiente,Millonarios,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-13,Andrés Mosquera Marmolejo,Independiente,2020-03-10,Tue,Libertadores,Group stage,Away,L 0–3,co Independiente,ar Boca Juniors,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
-14,Andrés Mosquera Marmolejo,Independiente,2020-09-16,Wed,Libertadores,Group stage,Home,L 2–3,co Independiente,ve Caracas,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report
-15,Andrés Mosquera Marmolejo,Independiente,2020-09-19,Sat,Primera A,First stage,Away,L 0–1,Independiente,Alianza,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
-16,Andrés Mosquera Marmolejo,Independiente,2020-09-24,Thu,Libertadores,Group stage,Home,L 0–1,co Independiente,ar Boca Juniors,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-17,Andrés Mosquera Marmolejo,Independiente,2020-09-27,Sun,Primera A,First stage,Home,D 1–1,Independiente,Pereira,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-18,Andrés Mosquera Marmolejo,Independiente,2020-09-30,Wed,Libertadores,Group stage,Away,W 2–0,co Independiente,ve Caracas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-19,Andrés Mosquera Marmolejo,Independiente,2020-10-04,Sun,Primera A,First stage,Away,L 0–1,Independiente,La Equidad,Y,,90,1,1,0,0.0,0,0,0,0,0,Match Report
-20,Andrés Mosquera Marmolejo,Independiente,2020-10-08,Thu,Primera A,First stage,Home,W 4–1,Independiente,Cúcuta,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-21,Andrés Mosquera Marmolejo,Independiente,2020-10-11,Sun,Primera A,First stage,Away,L 0–1,Independiente,Boyacá Chicó,Y,GK,90,3,1,3,100.0,0,1,1,0,0,Match Report
-22,Andrés Mosquera Marmolejo,Independiente,2020-10-15,Thu,Primera A,First stage,Home,D 1–1,Independiente,Jaguares,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-23,Andrés Mosquera Marmolejo,Independiente,2020-10-18,Sun,Primera A,First stage,Away,L 1–2,Independiente,Pasto,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-24,Andrés Mosquera Marmolejo,Independiente,2020-10-22,Thu,Libertadores,Group stage,Away,W 4–2,co Independiente,py Libertad,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-25,Andrés Mosquera Marmolejo,Independiente,2020-10-25,Sun,Primera A,First stage,Home,L 2–3,Independiente,AD Cali,Y,GK,90,8,3,6,75.0,0,1,1,0,0,Match Report
-26,Andrés Mosquera Marmolejo,Independiente,2020-11-01,Sun,Primera A,First stage,Home,D 1–1,Independiente,Once Caldas,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-27,Andrés Mosquera Marmolejo,Independiente,2020-11-27,Fri,Primera A,Liguilla,Home,L 1–2,Independiente,Pereira,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
-28,Andrés Mosquera Marmolejo,Independiente,2020-12-02,Wed,Primera A,Liguilla,Away,W 3–0,Independiente,Envigado,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report
-29,Andrés Mosquera Marmolejo,Independiente,2020-12-09,Wed,Primera A,Liguilla,Away,L 1–2,Independiente,Rionegro,Y,GK,45,4,1,3,75.0,0,0,0,0,0,Match Report
-30,Luis Erney Vasquez,Independiente,2020-02-15,Sat,Primera A,First stage,Away,L 0–2,Independiente,CD América,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-31,Luis Erney Vasquez,Independiente,2020-10-04,Sun,Primera A,First stage,Away,L 0–1,Independiente,La Equidad,N,,,,,,,,,,,,Match Report
-32,Luis Erney Vasquez,Independiente,2020-11-05,Thu,Primera A,First stage,Away,L 0–3,Independiente,Santa Fe,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report
-33,Luis Erney Vasquez,Independiente,2020-11-10,Tue,Primera A,First stage,Home,W 1–0,Independiente,CA Bucaramanga,Y,GK,90,2,0,2,100.0,1,1,0,0,1,Match Report
-34,Luis Erney Vasquez,Independiente,2020-11-14,Sat,Primera A,First stage,Away,L 1–2,Independiente,Envigado,Y,GK,90,3,2,2,66.7,0,1,1,0,0,Match Report
-35,Luis Erney Vasquez,Independiente,2020-12-09,Wed,Primera A,Liguilla,Away,L 1–2,Independiente,Rionegro,N,,45,2,1,1,50.0,0,0,0,0,0,Match Report
-36,Nelson Fernando Ramos,Independiente,2017-04-23,Sun,Primera A,Apertura Regular Season,Home,W 3–2,Independiente,Tolima,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-37,Nelson Fernando Ramos,Independiente,2017-04-30,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Independiente,Junior,Y,GK,90,11,2,9,81.8,0,0,0,0,0,Match Report
-38,Nelson Fernando Ramos,Independiente,2017-05-20,Sat,Primera A,Apertura Regular Season,Away,W 2–1,Independiente,Alianza,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-39,Nelson Fernando Ramos,Independiente,2017-08-13,Sun,Primera A,Regular season,Home,W 3–2,Independiente,Boyacá Patriot,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-40,Nelson Fernando Ramos,Independiente,2017-08-19,Sat,Primera A,Regular season,Away,L 0–1,Independiente,Pasto,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+0,Name,Team,Team_Href,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
+1,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-01-23,Thu,Primera A,First stage,Away,D 2–2,Independiente,Tolima,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
+2,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-01-28,Tue,Primera A,First stage,Home,W 2–1,Independiente,Rionegro,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+3,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-01,Sat,Primera A,First stage,Away,L 0–1,Independiente,Junior,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
+4,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-04,Tue,Libertadores,Second qualifying stage,Home,W 4–0,co Independiente,ve Dep Táchira,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+5,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-07,Fri,Primera A,First stage,Home,W 3–1,Independiente,Boyacá Patriot,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+6,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-11,Tue,Libertadores,Second qualifying stage,Away,L 0–2,co Independiente,ve Dep Táchira,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+7,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-18,Tue,Libertadores,Third qualifying stage,Home,W 1–0,co Independiente,ar Tucumán,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+8,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-22,Sat,Primera A,First stage,Home,L 1–3,Independiente,Nacional,Y,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report
+9,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-25,Tue,Libertadores,Third qualifying stage,Away,L 0 (4)–1 (2),co Independiente,ar Tucumán,Y,GK,120,1,1,0,0.0,0,0,0,0,0,Match Report
+10,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-02-29,Sat,Primera A,First stage,Away,D 1–1,Independiente,Nacional,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
+11,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-03-03,Tue,Libertadores,Group stage,Home,L 1–2,co Independiente,py Libertad,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
+12,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-03-07,Sat,Primera A,First stage,Home,W 1–0,Independiente,Millonarios,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+13,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-03-10,Tue,Libertadores,Group stage,Away,L 0–3,co Independiente,ar Boca Juniors,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
+14,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-09-16,Wed,Libertadores,Group stage,Home,L 2–3,co Independiente,ve Caracas,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report
+15,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-09-19,Sat,Primera A,First stage,Away,L 0–1,Independiente,Alianza,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
+16,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-09-24,Thu,Libertadores,Group stage,Home,L 0–1,co Independiente,ar Boca Juniors,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+17,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-09-27,Sun,Primera A,First stage,Home,D 1–1,Independiente,Pereira,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+18,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-09-30,Wed,Libertadores,Group stage,Away,W 2–0,co Independiente,ve Caracas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+19,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-04,Sun,Primera A,First stage,Away,L 0–1,Independiente,La Equidad,Y,,90,1,1,0,0.0,0,0,0,0,0,Match Report
+20,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-08,Thu,Primera A,First stage,Home,W 4–1,Independiente,Cúcuta,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+21,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-11,Sun,Primera A,First stage,Away,L 0–1,Independiente,Boyacá Chicó,Y,GK,90,3,1,3,100.0,0,1,1,0,0,Match Report
+22,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-15,Thu,Primera A,First stage,Home,D 1–1,Independiente,Jaguares,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+23,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-18,Sun,Primera A,First stage,Away,L 1–2,Independiente,Pasto,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
+24,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-22,Thu,Libertadores,Group stage,Away,W 4–2,co Independiente,py Libertad,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+25,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-10-25,Sun,Primera A,First stage,Home,L 2–3,Independiente,AD Cali,Y,GK,90,8,3,6,75.0,0,1,1,0,0,Match Report
+26,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-11-01,Sun,Primera A,First stage,Home,D 1–1,Independiente,Once Caldas,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+27,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-11-27,Fri,Primera A,Liguilla,Home,L 1–2,Independiente,Pereira,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
+28,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-12-02,Wed,Primera A,Liguilla,Away,W 3–0,Independiente,Envigado,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report
+29,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2020/s10076/Independiente-Stats-Categoria-Primera-A,2020-12-09,Wed,Primera A,Liguilla,Away,L 1–2,Independiente,Rionegro,Y,GK,45,4,1,3,75.0,0,0,0,0,0,Match Report
+30,Andrés Mosquera Marmolejo,Independiente,https://www.fbref.com//en/squads/70068101/2019/s3927/Independiente-Stats-Categoria-Primera-A,2019-08-22,Thu,Primera A,Regular season,Home,L 1–2,Independiente,Rionegro,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
