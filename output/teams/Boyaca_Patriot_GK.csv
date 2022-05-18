@@ -1,136 +1,83 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
-0,Name,Team,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
-1,Carlos Mosquera,Boyacá Patriot,2020-09-26,Sat,Primera A,First stage,Away,D 1–1,Boyacá Patriot,CA Bucaramanga,Y,GK,90,5,1,5,100.0,0,1,1,0,0,Match Report
-2,Carlos Mosquera,Boyacá Patriot,2020-10-04,Sun,Primera A,First stage,Home,D 0–0,Boyacá Patriot,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-3,Carlos Mosquera,Boyacá Patriot,2020-10-08,Thu,Primera A,First stage,Away,L 0–3,Boyacá Patriot,Rionegro,Y,GK,90,7,3,5,71.4,0,1,1,0,0,Match Report
-4,Carlos Mosquera,Boyacá Patriot,2020-10-11,Sun,Primera A,First stage,Away,L 0–3,Boyacá Patriot,CD América,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-5,Carlos Mosquera,Boyacá Patriot,2020-10-14,Wed,Primera A,First stage,Home,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-6,Carlos Mosquera,Boyacá Patriot,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Boyacá Patriot,Millonarios,Y,GK,90,10,1,9,90.0,0,0,0,0,0,Match Report
-7,Carlos Mosquera,Boyacá Patriot,2020-10-25,Sun,Primera A,First stage,Home,W 2–1,Boyacá Patriot,Nacional,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-8,Carlos Mosquera,Boyacá Patriot,2020-11-03,Tue,Primera A,First stage,Away,D 0–0,Boyacá Patriot,Alianza,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-9,Carlos Mosquera,Boyacá Patriot,2020-11-07,Sat,Primera A,First stage,Home,W 1–0,Boyacá Patriot,Pereira,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-10,Carlos Mosquera,Boyacá Patriot,2020-11-10,Tue,Primera A,First stage,Away,L 0–1,Boyacá Patriot,La Equidad,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-11,Carlos Mosquera,Boyacá Patriot,2020-11-14,Sat,Primera A,First stage,Home,W 2–0,Boyacá Patriot,Jaguares,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-12,Carlos Mosquera,Boyacá Patriot,2020-11-30,Mon,Primera A,Liguilla,Away,W 3–1,Boyacá Patriot,Boyacá Chicó,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-13,Carlos Mosquera,Boyacá Patriot,2020-12-04,Fri,Primera A,Liguilla,Home,L 2–3,Boyacá Patriot,Millonarios,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-14,Eder Chaux,Boyacá Patriot,2019-01-25,Fri,Primera A,Apertura Regular Season,Home,W 2–1,Boyacá Patriot,Independiente,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-15,Eder Chaux,Boyacá Patriot,2019-01-30,Wed,Primera A,Apertura Regular Season,Away,L 1–3,Boyacá Patriot,Junior,Y,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report
-16,Eder Chaux,Boyacá Patriot,2019-02-03,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Boyacá Patriot,CD América,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-17,Eder Chaux,Boyacá Patriot,2019-02-10,Sun,Primera A,Apertura Regular Season,Away,L 1–2,Boyacá Patriot,Rionegro,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
-18,Eder Chaux,Boyacá Patriot,2019-02-17,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Boyacá Patriot,Santa Fe,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-19,Eder Chaux,Boyacá Patriot,2019-02-23,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Envigado,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-20,Eder Chaux,Boyacá Patriot,2019-02-27,Wed,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Once Caldas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-21,Eder Chaux,Boyacá Patriot,2019-03-02,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Boyacá Patriot,CA Bucaramanga,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-22,Eder Chaux,Boyacá Patriot,2019-03-07,Thu,Primera A,Apertura Regular Season,Home,L 0–3,Boyacá Patriot,AD Cali,Y,GK,90,4,3,2,50.0,0,1,1,0,0,Match Report
-23,Eder Chaux,Boyacá Patriot,2019-03-10,Sun,Primera A,Apertura Regular Season,Home,W 2–1,Boyacá Patriot,Jaguares,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-24,Eder Chaux,Boyacá Patriot,2019-03-16,Sat,Primera A,Apertura Regular Season,Away,D 2–2,Boyacá Patriot,La Equidad,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-25,Eder Chaux,Boyacá Patriot,2019-03-25,Mon,Primera A,Apertura Regular Season,Home,W 3–1,Boyacá Patriot,La Equidad,Y,GK,90,4,1,4,100.0,0,1,1,0,0,Match Report
-26,Eder Chaux,Boyacá Patriot,2019-03-29,Fri,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Huila,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-27,Eder Chaux,Boyacá Patriot,2019-04-06,Sat,Primera A,Apertura Regular Season,Away,L 0–4,Boyacá Patriot,ADU Magdalena,Y,GK,90,5,4,2,40.0,0,1,1,0,0,Match Report
-28,Eder Chaux,Boyacá Patriot,2019-04-14,Sun,Primera A,Apertura Regular Season,Home,L 1–3,Boyacá Patriot,Millonarios,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-29,Eder Chaux,Boyacá Patriot,2019-04-21,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Cúcuta,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-30,Eder Chaux,Boyacá Patriot,2019-04-28,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-31,Eder Chaux,Boyacá Patriot,2019-05-01,Wed,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Tolima,Y*,GK,90,0,0,0,,1,0,0,0,0,Match Report
-32,Eder Chaux,Boyacá Patriot,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,L 0–3,Boyacá Patriot,Alianza,Y,GK,90,1,3,0,-100.0,0,2,1,1,0,Match Report
-33,Eder Chaux,Boyacá Patriot,2019-07-14,Sun,Primera A,Regular season,Away,L 0–3,Boyacá Patriot,Independiente,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
-34,Eder Chaux,Boyacá Patriot,2019-07-21,Sun,Primera A,Regular season,Home,W 2–0,Boyacá Patriot,Junior,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-35,Eder Chaux,Boyacá Patriot,2019-07-25,Thu,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,CD América,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-36,Eder Chaux,Boyacá Patriot,2019-08-04,Sun,Primera A,Regular season,Home,W 2–0,Boyacá Patriot,Rionegro,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-37,Eder Chaux,Boyacá Patriot,2019-08-11,Sun,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Santa Fe,Y*,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
-38,Eder Chaux,Boyacá Patriot,2019-08-16,Fri,Primera A,Regular season,Home,W 3–0,Boyacá Patriot,Envigado,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-39,Eder Chaux,Boyacá Patriot,2019-08-21,Wed,Primera A,Regular season,Away,D 2–2,Boyacá Patriot,Once Caldas,Y*,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-40,Eder Chaux,Boyacá Patriot,2019-08-25,Sun,Primera A,Regular season,Home,L 0–1,Boyacá Patriot,CA Bucaramanga,Y*,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
-41,Eder Chaux,Boyacá Patriot,2019-08-31,Sat,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,Jaguares,N,,,,,,,,,,,,Match Report
-42,Eder Chaux,Boyacá Patriot,2019-09-14,Sat,Primera A,Regular season,Away,L 0–1,Boyacá Patriot,La Equidad,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-43,Eder Chaux,Boyacá Patriot,2019-09-21,Sat,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Huila,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-44,Eder Chaux,Boyacá Patriot,2019-09-28,Sat,Primera A,Regular season,Away,L 1–3,Boyacá Patriot,AD Cali,Y*,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report
-45,Eder Chaux,Boyacá Patriot,2019-10-03,Thu,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,ADU Magdalena,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-46,Eder Chaux,Boyacá Patriot,2019-10-06,Sun,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Millonarios,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-47,Eder Chaux,Boyacá Patriot,2019-10-19,Sat,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Pasto,Y*,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-48,Eder Chaux,Boyacá Patriot,2019-10-24,Thu,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Tolima,Y*,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-49,Eder Chaux,Boyacá Patriot,2019-10-29,Tue,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,Alianza,Y,,90,1,1,0,0.0,0,0,0,0,0,Match Report
-50,Álvaro Villete,Boyacá Patriot,2019-04-18,Thu,Primera A,Apertura Regular Season,Away,L 0–4,Boyacá Patriot,Nacional,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report
-51,Álvaro Villete,Boyacá Patriot,2019-08-31,Sat,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,Jaguares,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-52,Álvaro Villete,Boyacá Patriot,2019-09-09,Mon,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,La Equidad,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-53,Álvaro Villete,Boyacá Patriot,2019-10-10,Thu,Primera A,Regular season,Home,L 1–2,Boyacá Patriot,Nacional,Y,GK,90,7,2,6,85.7,0,1,1,0,0,Match Report
-54,Álvaro Villete,Boyacá Patriot,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Boyacá Patriot,Cúcuta,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-55,Diego Alejandro Martínez,Boyacá Patriot,2018-02-04,Sun,Primera A,Apertura Regular Season,Away,W 2–0,Boyacá Patriot,Santa Fe,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-56,Diego Alejandro Martínez,Boyacá Patriot,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Boyacá Patriot,Millonarios,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-57,Diego Alejandro Martínez,Boyacá Patriot,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,W 3–1,Boyacá Patriot,Nacional,Y,GK,90,0,1,0,,0,1,1,0,0,Match Report
-58,Diego Alejandro Martínez,Boyacá Patriot,2018-02-18,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,CD América,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
-59,Diego Alejandro Martínez,Boyacá Patriot,2018-02-24,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Boyacá Patriot,Alianza,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-60,Diego Alejandro Martínez,Boyacá Patriot,2018-03-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Jaguares,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-61,Diego Alejandro Martínez,Boyacá Patriot,2018-03-08,Thu,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,CA Bucaramanga,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-62,Diego Alejandro Martínez,Boyacá Patriot,2018-03-14,Wed,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-63,Diego Alejandro Martínez,Boyacá Patriot,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Envigado,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-64,Diego Alejandro Martínez,Boyacá Patriot,2018-03-25,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,Huila,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-65,Diego Alejandro Martínez,Boyacá Patriot,2018-03-29,Thu,Primera A,Apertura Regular Season,Home,W 2–0,Boyacá Patriot,Boyacá Chicó,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-66,Diego Alejandro Martínez,Boyacá Patriot,2018-04-06,Fri,Primera A,Apertura Regular Season,Home,L 1–3,Boyacá Patriot,AD Cali,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-67,Diego Alejandro Martínez,Boyacá Patriot,2018-04-12,Thu,Primera A,Apertura Regular Season,Away,W 1–0,Boyacá Patriot,Rionegro,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-68,Diego Alejandro Martínez,Boyacá Patriot,2018-04-15,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-69,Diego Alejandro Martínez,Boyacá Patriot,2018-04-18,Wed,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,Once Caldas,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
-70,Diego Alejandro Martínez,Boyacá Patriot,2018-04-21,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,La Equidad,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-71,Diego Alejandro Martínez,Boyacá Patriot,2018-04-29,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Leones FC,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
-72,Diego Alejandro Martínez,Boyacá Patriot,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,Tolima,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-73,Diego Alejandro Martínez,Boyacá Patriot,2018-05-12,Sat,Primera A,Quarter-finals,Home,D 1–1,Boyacá Patriot,Huila,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
-74,Diego Alejandro Martínez,Boyacá Patriot,2018-05-19,Sat,Primera A,Quarter-finals,Away,D 0 (1)–0 (3),Boyacá Patriot,Huila,Y,GK,120,1,0,1,100.0,1,0,0,0,0,Match Report
-75,Diego Alejandro Martínez,Boyacá Patriot,2018-07-22,Sun,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,Santa Fe,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-76,Diego Alejandro Martínez,Boyacá Patriot,2018-07-29,Sun,Primera A,Regular season,Home,L 0–2,Boyacá Patriot,Millonarios,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-77,Diego Alejandro Martínez,Boyacá Patriot,2018-08-01,Wed,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Nacional,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-78,Diego Alejandro Martínez,Boyacá Patriot,2018-08-11,Sat,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,CD América,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-79,Diego Alejandro Martínez,Boyacá Patriot,2018-08-18,Sat,Primera A,Regular season,Away,L 2–3,Boyacá Patriot,Alianza,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-80,Diego Alejandro Martínez,Boyacá Patriot,2018-08-27,Mon,Primera A,Regular season,Home,W 4–0,Boyacá Patriot,Jaguares,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-81,Diego Alejandro Martínez,Boyacá Patriot,2018-09-02,Sun,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,CA Bucaramanga,Y*,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
-82,Diego Alejandro Martínez,Boyacá Patriot,2018-09-05,Wed,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-83,Diego Alejandro Martínez,Boyacá Patriot,2018-09-09,Sun,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Envigado,Y,GK,90,3,2,3,66.7,0,2,1,1,0,Match Report
-84,Diego Alejandro Martínez,Boyacá Patriot,2018-09-14,Fri,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Huila,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-85,Diego Alejandro Martínez,Boyacá Patriot,2018-09-21,Fri,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,Boyacá Chicó,Y,GK,90,8,1,8,100.0,0,1,1,0,0,Match Report
-86,Diego Alejandro Martínez,Boyacá Patriot,2018-10-06,Sat,Primera A,Regular season,Away,W 2–0,Boyacá Patriot,AD Cali,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-87,Diego Alejandro Martínez,Boyacá Patriot,2018-10-12,Fri,Primera A,Regular season,Home,L 0–1,Boyacá Patriot,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-88,Diego Alejandro Martínez,Boyacá Patriot,2018-10-17,Wed,Primera A,Regular season,Away,L 0–4,Boyacá Patriot,Junior,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report
-89,Diego Alejandro Martínez,Boyacá Patriot,2018-10-20,Sat,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Once Caldas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-90,Diego Alejandro Martínez,Boyacá Patriot,2018-10-28,Sun,Primera A,Regular season,Away,L 0–4,Boyacá Patriot,La Equidad,Y,GK,90,12,4,9,75.0,0,1,1,0,0,Match Report
-91,Diego Alejandro Martínez,Boyacá Patriot,2018-11-04,Sun,Primera A,Regular season,Home,W 2–1,Boyacá Patriot,Leones FC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-92,Diego Alejandro Martínez,Boyacá Patriot,2018-11-10,Sat,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Tolima,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-93,Álvaro Villete,Boyacá Patriot,2017-02-05,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Huila,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-94,Álvaro Villete,Boyacá Patriot,2017-02-09,Thu,Primera A,Apertura Regular Season,Home,W 2–0,Boyacá Patriot,Once Caldas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-95,Álvaro Villete,Boyacá Patriot,2017-02-13,Mon,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Cortuluá,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-96,Álvaro Villete,Boyacá Patriot,2017-02-18,Sat,Primera A,Apertura Regular Season,Home,W 3–0,Boyacá Patriot,Expreso Rojo,Y,GK,90,5,0,4,100.0,1,0,0,0,0,Match Report
-97,Álvaro Villete,Boyacá Patriot,2017-02-21,Tue,Primera A,Apertura Regular Season,Away,L 0–5,Boyacá Patriot,Pasto,Y,GK,90,7,5,3,42.9,0,1,1,0,0,Match Report
-98,Álvaro Villete,Boyacá Patriot,2017-02-25,Sat,Primera A,Apertura Regular Season,Home,W 3–2,Boyacá Patriot,AD Cali,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-99,Álvaro Villete,Boyacá Patriot,2017-03-01,Wed,Primera A,Apertura Regular Season,Home,L 0–1,Boyacá Patriot,Independiente,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-100,Álvaro Villete,Boyacá Patriot,2017-03-04,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Santa Fe,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
-101,Álvaro Villete,Boyacá Patriot,2017-03-12,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,CA Bucaramanga,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-102,Álvaro Villete,Boyacá Patriot,2017-03-20,Mon,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,La Equidad,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-103,Álvaro Villete,Boyacá Patriot,2017-04-01,Sat,Primera A,Apertura Regular Season,Away,L 1–2,Boyacá Patriot,Rionegro,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-104,Álvaro Villete,Boyacá Patriot,2017-04-05,Wed,Sudamericana,First stage,Away,L 0–1,co Boyacá Patriot,cl CD Everton,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
-105,Álvaro Villete,Boyacá Patriot,2017-04-09,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Boyacá Patriot,Tolima,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-106,Álvaro Villete,Boyacá Patriot,2017-04-18,Tue,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Junior,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-107,Álvaro Villete,Boyacá Patriot,2017-04-22,Sat,Primera A,Apertura Regular Season,Home,D 1–1,Boyacá Patriot,La Equidad,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
-108,Álvaro Villete,Boyacá Patriot,2017-04-29,Sat,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Jaguares,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-109,Álvaro Villete,Boyacá Patriot,2017-05-06,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,CD América,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-110,Álvaro Villete,Boyacá Patriot,2017-05-10,Wed,Primera A,Apertura Regular Season,Away,L 0–1,Boyacá Patriot,Alianza,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-111,Álvaro Villete,Boyacá Patriot,2017-05-13,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Boyacá Patriot,Nacional,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
-112,Álvaro Villete,Boyacá Patriot,2017-05-20,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,Millonarios,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report
-113,Álvaro Villete,Boyacá Patriot,2017-05-25,Thu,Primera A,Apertura Regular Season,Home,W 3–1,Boyacá Patriot,Envigado,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-114,Álvaro Villete,Boyacá Patriot,2017-05-30,Tue,Sudamericana,First stage,Home,W 1 (4)–0 (3),co Boyacá Patriot,cl CD Everton,Y,GK,120,0,0,0,,1,0,0,0,0,Match Report
-115,Álvaro Villete,Boyacá Patriot,2017-06-28,Wed,Sudamericana,Second stage,Home,D 1–1,co Boyacá Patriot,br Corinthians,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-116,Álvaro Villete,Boyacá Patriot,2017-07-07,Fri,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,Huila,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-117,Álvaro Villete,Boyacá Patriot,2017-07-15,Sat,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Once Caldas,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-118,Álvaro Villete,Boyacá Patriot,2017-07-18,Tue,Primera A,Regular season,Home,D 2–2,Boyacá Patriot,Cortuluá,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-119,Álvaro Villete,Boyacá Patriot,2017-07-21,Fri,Primera A,Regular season,Away,W 2–0,Boyacá Patriot,Expreso Rojo,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-120,Álvaro Villete,Boyacá Patriot,2017-07-26,Wed,Sudamericana,Second stage,Away,L 0–2,co Boyacá Patriot,br Corinthians,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-121,Álvaro Villete,Boyacá Patriot,2017-07-30,Sun,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,Pasto,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-122,Álvaro Villete,Boyacá Patriot,2017-08-06,Sun,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,AD Cali,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-123,Álvaro Villete,Boyacá Patriot,2017-08-13,Sun,Primera A,Regular season,Away,L 2–3,Boyacá Patriot,Independiente,Y,GK,90,5,3,3,60.0,0,1,1,0,0,Match Report
-124,Álvaro Villete,Boyacá Patriot,2017-08-16,Wed,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,Santa Fe,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-125,Álvaro Villete,Boyacá Patriot,2017-08-19,Sat,Primera A,Regular season,Away,L 0–2,Boyacá Patriot,CA Bucaramanga,Y,GK,45,3,2,2,66.7,0,1,1,0,0,Match Report
-126,Álvaro Villete,Boyacá Patriot,2017-08-26,Sat,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,La Equidad,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-127,Álvaro Villete,Boyacá Patriot,2017-09-03,Sun,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Rionegro,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-128,Álvaro Villete,Boyacá Patriot,2017-09-15,Fri,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Tolima,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report
-129,Álvaro Villete,Boyacá Patriot,2017-10-01,Sun,Primera A,Regular season,Away,L 1–4,Boyacá Patriot,La Equidad,Y,GK,90,4,4,0,0.0,0,0,0,0,0,Match Report
-130,Álvaro Villete,Boyacá Patriot,2017-10-14,Sat,Primera A,Regular season,Home,D 2–2,Boyacá Patriot,Jaguares,Y,GK,90,1,2,0,0.0,0,1,1,0,0,Match Report
-131,Álvaro Villete,Boyacá Patriot,2017-10-24,Tue,Primera A,Regular season,Away,L 2–3,Boyacá Patriot,CD América,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report
-132,Álvaro Villete,Boyacá Patriot,2017-11-05,Sun,Primera A,Regular season,Home,L 1–2,Boyacá Patriot,Millonarios,N,,45,3,2,1,33.3,0,0,0,0,0,Match Report
-133,Álvaro Villete,Boyacá Patriot,2017-11-12,Sun,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Junior,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-134,Álvaro Villete,Boyacá Patriot,2017-11-18,Sat,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Envigado,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+0,Name,Team,Team_Href,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
+1,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-09-26,Sat,Primera A,First stage,Away,D 1–1,Boyacá Patriot,CA Bucaramanga,Y,GK,90,5,1,5,100.0,0,1,1,0,0,Match Report
+2,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-04,Sun,Primera A,First stage,Home,D 0–0,Boyacá Patriot,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+3,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-08,Thu,Primera A,First stage,Away,L 0–3,Boyacá Patriot,Rionegro,Y,GK,90,7,3,5,71.4,0,1,1,0,0,Match Report
+4,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-11,Sun,Primera A,First stage,Away,L 0–3,Boyacá Patriot,CD América,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+5,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-14,Wed,Primera A,First stage,Home,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+6,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-17,Sat,Primera A,First stage,Away,L 0–1,Boyacá Patriot,Millonarios,Y,GK,90,10,1,9,90.0,0,0,0,0,0,Match Report
+7,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-10-25,Sun,Primera A,First stage,Home,W 2–1,Boyacá Patriot,Nacional,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+8,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-11-03,Tue,Primera A,First stage,Away,D 0–0,Boyacá Patriot,Alianza,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+9,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-11-07,Sat,Primera A,First stage,Home,W 1–0,Boyacá Patriot,Pereira,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+10,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-11-10,Tue,Primera A,First stage,Away,L 0–1,Boyacá Patriot,La Equidad,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+11,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-11-14,Sat,Primera A,First stage,Home,W 2–0,Boyacá Patriot,Jaguares,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+12,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-11-30,Mon,Primera A,Liguilla,Away,W 3–1,Boyacá Patriot,Boyacá Chicó,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+13,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2020/s10076/Boyaca-Patriot-Stats-Categoria-Primera-A,2020-12-04,Fri,Primera A,Liguilla,Home,L 2–3,Boyacá Patriot,Millonarios,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+14,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,D 1–1,Huila,AD Cali,N,,,,,,,,,,,,Match Report
+15,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-22,Fri,Primera A,Apertura Regular Season,Home,W 2–0,Huila,Pasto,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+16,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-26,Tue,Primera A,Apertura Regular Season,Away,L 0–2,Huila,Cúcuta,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+17,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-04,Mon,Primera A,Apertura Regular Season,Home,L 1–2,Huila,Alianza,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
+18,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-08,Fri,Primera A,Apertura Regular Season,Away,D 0–0,Huila,Tolima,Y*,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+19,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-17,Sun,Primera A,Apertura Regular Season,Home,L 1–5,Huila,Tolima,Y*,GK,90,7,5,3,42.9,0,1,1,0,0,Match Report
+20,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-24,Sun,Primera A,Apertura Regular Season,Away,L 0–3,Huila,Junior,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
+21,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-06,Sun,Primera A,Regular season,Home,D 0–0,Pasto,Tolima,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+22,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-09,Wed,Primera A,Regular season,Away,D 2–2,Pasto,Alianza,Y,GK,90,1,2,0,0.0,0,1,1,0,0,Match Report
+23,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-12,Sat,Primera A,Regular season,Home,W 2–1,Pasto,Junior,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+24,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-19,Sat,Primera A,Regular season,Away,L 0–1,Pasto,Boyacá Patriot,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+25,Carlos Mosquera,Boyacá Patriot,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-24,Thu,Primera A,Regular season,Home,D 3–3,Pasto,Rionegro,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report
+26,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2019/s3927/Boyaca-Patriot-Stats-Categoria-Primera-A,2019-04-18,Thu,Primera A,Apertura Regular Season,Away,L 0–4,Boyacá Patriot,Nacional,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report
+27,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2019/s3927/Boyaca-Patriot-Stats-Categoria-Primera-A,2019-08-31,Sat,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,Jaguares,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+28,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2019/s3927/Boyaca-Patriot-Stats-Categoria-Primera-A,2019-09-09,Mon,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,La Equidad,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+29,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2019/s3927/Boyaca-Patriot-Stats-Categoria-Primera-A,2019-10-10,Thu,Primera A,Regular season,Home,L 1–2,Boyacá Patriot,Nacional,Y,GK,90,7,2,6,85.7,0,1,1,0,0,Match Report
+30,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2019/s3927/Boyaca-Patriot-Stats-Categoria-Primera-A,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Boyacá Patriot,Cúcuta,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+31,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-02-04,Sun,Primera División,Torneo Apertura,Away,L 0–3,Atenas,Defensor,Y*,,90,,3,,,0,0,0,0,0,Match Report
+32,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-02-11,Sun,Primera División,Torneo Apertura,Home,W 1–0,Atenas,Racing,Y,,90,,0,,,1,0,0,0,0,Match Report
+33,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-02-18,Sun,Primera División,Torneo Apertura,Away,L 1–3,Atenas,River Plate,Y,,90,,3,,,0,0,0,0,0,Match Report
+34,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-02-25,Sun,Primera División,Torneo Apertura,Home,W 2–1,Atenas,Wanderers,Y,,90,,1,,,0,0,0,0,0,Match Report
+35,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-03-03,Sat,Primera División,Torneo Apertura,Away,L 0–1,Atenas,Liverpool,Y,,90,,1,,,0,0,0,0,0,Match Report
+36,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-03-21,Wed,Primera División,Torneo Apertura,Away,L 0–1,Atenas,Boston River,Y,,90,,1,,,0,0,0,0,0,Match Report
+37,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-03-24,Sat,Primera División,Torneo Apertura,Home,L 0–2,Atenas,Peñarol,Y,,90,,2,,,0,0,0,0,0,Match Report
+38,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-03-27,Tue,Primera División,Torneo Apertura,Away,L 0–1,Atenas,Cerro,Y,,90,,1,,,0,0,0,0,0,Match Report
+39,Álvaro Villete,Boyacá Patriot,https://www.fbref.com//en/squads/244af613/2018/s1768/Atenas-de-San-Carlos-Stats-Primera-Division,2018-04-01,Sun,Primera División,Torneo Apertura,Away,L 0–5,Atenas,Danubio,Y,,90,,5,,,0,0,0,0,0,Match Report
+40,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-02-04,Sun,Primera A,Apertura Regular Season,Away,W 2–0,Boyacá Patriot,Santa Fe,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+41,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-02-11,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Boyacá Patriot,Millonarios,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+42,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-02-15,Thu,Primera A,Apertura Regular Season,Home,W 3–1,Boyacá Patriot,Nacional,Y,GK,90,0,1,0,,0,1,1,0,0,Match Report
+43,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-02-18,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,CD América,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
+44,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-02-24,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Boyacá Patriot,Alianza,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+45,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Boyacá Patriot,Jaguares,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+46,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-08,Thu,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,CA Bucaramanga,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+47,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-14,Wed,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+48,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Envigado,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+49,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-25,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,Huila,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
+50,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-03-29,Thu,Primera A,Apertura Regular Season,Home,W 2–0,Boyacá Patriot,Boyacá Chicó,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+51,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-06,Fri,Primera A,Apertura Regular Season,Home,L 1–3,Boyacá Patriot,AD Cali,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+52,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-12,Thu,Primera A,Apertura Regular Season,Away,W 1–0,Boyacá Patriot,Rionegro,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+53,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-15,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Boyacá Patriot,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+54,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-18,Wed,Primera A,Apertura Regular Season,Away,L 0–2,Boyacá Patriot,Once Caldas,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+55,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-21,Sat,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,La Equidad,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+56,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-04-29,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Boyacá Patriot,Leones FC,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
+57,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Boyacá Patriot,Tolima,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+58,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-05-12,Sat,Primera A,Quarter-finals,Home,D 1–1,Boyacá Patriot,Huila,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
+59,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-05-19,Sat,Primera A,Quarter-finals,Away,D 0 (1)–0 (3),Boyacá Patriot,Huila,Y,GK,120,1,0,1,100.0,1,0,0,0,0,Match Report
+60,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-07-22,Sun,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,Santa Fe,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+61,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-07-29,Sun,Primera A,Regular season,Home,L 0–2,Boyacá Patriot,Millonarios,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+62,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-08-01,Wed,Primera A,Regular season,Away,D 0–0,Boyacá Patriot,Nacional,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+63,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-08-11,Sat,Primera A,Regular season,Home,D 0–0,Boyacá Patriot,CD América,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+64,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-08-18,Sat,Primera A,Regular season,Away,L 2–3,Boyacá Patriot,Alianza,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+65,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-08-27,Mon,Primera A,Regular season,Home,W 4–0,Boyacá Patriot,Jaguares,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+66,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-09-02,Sun,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,CA Bucaramanga,Y*,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
+67,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-09-05,Wed,Primera A,Regular season,Home,D 1–1,Boyacá Patriot,Pasto,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+68,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-09-09,Sun,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Envigado,Y,GK,90,3,2,3,66.7,0,2,1,1,0,Match Report
+69,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-09-14,Fri,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Huila,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+70,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-09-21,Fri,Primera A,Regular season,Away,D 1–1,Boyacá Patriot,Boyacá Chicó,Y,GK,90,8,1,8,100.0,0,1,1,0,0,Match Report
+71,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-10-06,Sat,Primera A,Regular season,Away,W 2–0,Boyacá Patriot,AD Cali,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+72,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-10-12,Fri,Primera A,Regular season,Home,L 0–1,Boyacá Patriot,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+73,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-10-17,Wed,Primera A,Regular season,Away,L 0–4,Boyacá Patriot,Junior,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report
+74,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-10-20,Sat,Primera A,Regular season,Home,W 1–0,Boyacá Patriot,Once Caldas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+75,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-10-28,Sun,Primera A,Regular season,Away,L 0–4,Boyacá Patriot,La Equidad,Y,GK,90,12,4,9,75.0,0,1,1,0,0,Match Report
+76,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-11-04,Sun,Primera A,Regular season,Home,W 2–1,Boyacá Patriot,Leones FC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+77,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2018/s1765/Boyaca-Patriot-Stats-Categoria-Primera-A,2018-11-10,Sat,Primera A,Regular season,Away,L 1–2,Boyacá Patriot,Tolima,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+78,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2017/s1564/Boyaca-Patriot-Stats-Categoria-Primera-A,2017-08-19,Sat,Primera A,Regular season,Away,L 0–2,Boyacá Patriot,CA Bucaramanga,N,,45,2,0,2,100.0,0,0,0,0,0,Match Report
+79,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2017/s1564/Boyaca-Patriot-Stats-Categoria-Primera-A,2017-10-27,Fri,Primera A,Regular season,Home,W 2–0,Boyacá Patriot,Alianza,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+80,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2017/s1564/Boyaca-Patriot-Stats-Categoria-Primera-A,2017-10-31,Tue,Primera A,Regular season,Away,L 0–3,Boyacá Patriot,Nacional,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+81,Diego Alejandro Martínez,Boyacá Patriot,https://www.fbref.com//en/squads/b075ba2a/2017/s1564/Boyaca-Patriot-Stats-Categoria-Primera-A,2017-11-05,Sun,Primera A,Regular season,Home,L 1–2,Boyacá Patriot,Millonarios,Y,GK,45,3,0,3,100.0,0,0,0,0,0,Match Report
