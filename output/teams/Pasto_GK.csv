@@ -1,202 +1,255 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
-0,Name,Team,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
-1,Diego Alejandro Martínez,Pasto,2020-01-26,Sun,Primera A,First stage,Away,W 2–1,Pasto,Millonarios,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-2,Diego Alejandro Martínez,Pasto,2020-02-03,Mon,Primera A,First stage,Away,W 1–0,Pasto,Alianza,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-3,Diego Alejandro Martínez,Pasto,2020-02-16,Sun,Primera A,First stage,Away,D 0–0,Pasto,Cúcuta,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-4,Diego Alejandro Martínez,Pasto,2020-03-10,Tue,Primera A,First stage,Away,D 1–1,Pasto,La Equidad,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-5,Diego Alejandro Martínez,Pasto,2020-09-20,Sun,Primera A,First stage,Home,W 2–0,Pasto,Jaguares,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-6,Diego Alejandro Martínez,Pasto,2020-09-29,Tue,Primera A,First stage,Away,D 1–1,Pasto,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-7,Diego Alejandro Martínez,Pasto,2020-10-03,Sat,Primera A,First stage,Home,W 2–1,Pasto,Boyacá Chicó,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-8,Diego Alejandro Martínez,Pasto,2020-10-07,Wed,Primera A,First stage,Away,W 1–0,Pasto,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-9,Diego Alejandro Martínez,Pasto,2020-10-10,Sat,Primera A,First stage,Home,D 1–1,Pasto,AD Cali,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-10,Diego Alejandro Martínez,Pasto,2020-10-14,Wed,Primera A,First stage,Away,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-11,Diego Alejandro Martínez,Pasto,2020-10-18,Sun,Primera A,First stage,Home,W 2–1,Pasto,Independiente,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-12,Diego Alejandro Martínez,Pasto,2020-10-25,Sun,Primera A,First stage,Away,L 2–3,Pasto,CD América,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report
-13,Diego Alejandro Martínez,Pasto,2020-11-15,Sun,Primera A,First stage,Away,D 1–1,Pasto,Pereira,Y,GK,39,2,1,1,50.0,0,0,0,0,0,Match Report
-14,Luis Enrique Delgado,Pasto,2020-02-07,Fri,Primera A,First stage,Home,W 4–0,Pasto,CA Bucaramanga,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-15,Luis Enrique Delgado,Pasto,2020-02-12,Wed,Sudamericana,First stage,Away,L 0–1,co Pasto,cl Huachipato,Y,GK,90,4,1,4,100.0,0,1,1,0,0,Match Report
-16,Luis Enrique Delgado,Pasto,2020-02-21,Fri,Primera A,First stage,Home,W 1–0,Pasto,Envigado,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-17,Luis Enrique Delgado,Pasto,2020-02-26,Wed,Sudamericana,First stage,Home,L 0–1,co Pasto,cl Huachipato,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-18,Luis Enrique Delgado,Pasto,2020-03-01,Sun,Primera A,First stage,Home,L 1–2,Pasto,La Equidad,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-19,Luis Enrique Delgado,Pasto,2020-09-13,Sun,Primera A,First stage,Home,L 1–3,Pasto,Tolima,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report
-20,Luis Enrique Delgado,Pasto,2020-11-01,Sun,Primera A,First stage,Home,D 1–1,Pasto,Santa Fe,Y,GK,90,3,1,3,100.0,0,1,1,0,0,Match Report
-21,Luis Enrique Delgado,Pasto,2020-11-08,Sun,Primera A,First stage,Away,L 0–1,Pasto,Nacional,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-22,Luis Enrique Delgado,Pasto,2020-11-12,Thu,Primera A,First stage,Home,W 2–1,Pasto,Once Caldas,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-23,Luis Enrique Delgado,Pasto,2020-11-15,Sun,Primera A,First stage,Away,D 1–1,Pasto,Pereira,N,,51,3,0,3,100.0,0,0,0,0,0,Match Report
-24,Luis Enrique Delgado,Pasto,2020-11-22,Sun,Primera A,Quarter-finals,Home,W 1–0,Pasto,Santa Fe,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-25,Luis Enrique Delgado,Pasto,2020-11-29,Sun,Primera A,Quarter-finals,Away,L 0–2,Pasto,Santa Fe,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-26,Alvino Volpi Neto,Pasto,2019-01-27,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Pasto,Santa Fe,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-27,Alvino Volpi Neto,Pasto,2019-01-30,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Envigado,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-28,Alvino Volpi Neto,Pasto,2019-02-03,Sun,Primera A,Apertura Regular Season,Home,L 1–2,Pasto,Once Caldas,Y,GK,90,3,2,2,66.7,0,1,1,0,0,Match Report
-29,Alvino Volpi Neto,Pasto,2019-02-08,Fri,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,CA Bucaramanga,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-30,Alvino Volpi Neto,Pasto,2019-02-17,Sun,Primera A,Apertura Regular Season,Home,W 4–1,Pasto,Jaguares,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
-31,Alvino Volpi Neto,Pasto,2019-02-22,Fri,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Huila,Y,GK,68,1,0,1,100.0,0,0,0,0,0,Match Report
-32,Alvino Volpi Neto,Pasto,2019-03-10,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,AD Cali,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-33,Alvino Volpi Neto,Pasto,2019-03-17,Sun,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Once Caldas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-34,Alvino Volpi Neto,Pasto,2019-03-23,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Millonarios,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-35,Alvino Volpi Neto,Pasto,2019-03-30,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Nacional,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-36,Alvino Volpi Neto,Pasto,2019-04-03,Wed,Primera A,Apertura Regular Season,Away,W 3–1,Pasto,Cúcuta,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-37,Alvino Volpi Neto,Pasto,2019-04-07,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Independiente,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-38,Alvino Volpi Neto,Pasto,2019-04-14,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Tolima,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-39,Alvino Volpi Neto,Pasto,2019-04-17,Wed,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Alianza,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-40,Alvino Volpi Neto,Pasto,2019-04-21,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-41,Alvino Volpi Neto,Pasto,2019-04-28,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-42,Alvino Volpi Neto,Pasto,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Pasto,Rionegro,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-43,Alvino Volpi Neto,Pasto,2019-05-05,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,CD América,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-44,Alvino Volpi Neto,Pasto,2019-05-11,Sat,Primera A,Semi-finals,Away,W 3–1,Pasto,ADU Magdalena,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-45,Alvino Volpi Neto,Pasto,2019-05-15,Wed,Primera A,Semi-finals,Home,W 1–0,Pasto,CD América,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-46,Alvino Volpi Neto,Pasto,2019-05-18,Sat,Primera A,Semi-finals,Home,D 1–1,Pasto,Millonarios,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-47,Alvino Volpi Neto,Pasto,2019-05-25,Sat,Primera A,Semi-finals,Away,L 0–1,Pasto,Millonarios,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-48,Alvino Volpi Neto,Pasto,2019-06-01,Sat,Primera A,Semi-finals,Away,W 3–0,Pasto,CD América,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
-49,Alvino Volpi Neto,Pasto,2019-06-05,Wed,Primera A,Semi-finals,Home,W 3–0,Pasto,ADU Magdalena,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-50,Alvino Volpi Neto,Pasto,2019-06-08,Sat,Primera A,Finals,Away,L 0–1,Pasto,Junior,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-51,Alvino Volpi Neto,Pasto,2019-06-12,Wed,Primera A,Finals,Home,W 1 (4)–0 (5),Pasto,Junior,Y,GK,120,1,0,1,100.0,1,0,0,0,0,Match Report
-52,Alvino Volpi Neto,Pasto,2019-07-14,Sun,Primera A,Regular season,Home,W 2–1,CD América,Alianza,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
-53,Alvino Volpi Neto,Pasto,2019-07-20,Sat,Primera A,Regular season,Away,W 1–0,CD América,Tolima,Y,GK,90,1,0,1,100.0,1,1,0,0,1,Match Report
-54,Alvino Volpi Neto,Pasto,2019-07-25,Thu,Primera A,Regular season,Home,D 1–1,CD América,Boyacá Patriot,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-55,Alvino Volpi Neto,Pasto,2019-08-04,Sun,Primera A,Regular season,Away,W 1–0,CD América,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-56,Alvino Volpi Neto,Pasto,2019-08-10,Sat,Primera A,Regular season,Away,L 1–4,CD América,Independiente,Y,GK,90,6,4,2,33.3,0,0,0,0,0,Match Report
-57,Alvino Volpi Neto,Pasto,2019-08-17,Sat,Primera A,Regular season,Home,D 1–1,CD América,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-58,Alvino Volpi Neto,Pasto,2019-08-22,Thu,Primera A,Regular season,Away,W 2–1,CD América,Santa Fe,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-59,Alvino Volpi Neto,Pasto,2019-08-25,Sun,Primera A,Regular season,Home,W 1–0,CD América,Envigado,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-60,Alvino Volpi Neto,Pasto,2019-08-31,Sat,Primera A,Regular season,Away,L 1–2,CD América,Once Caldas,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
-61,Alvino Volpi Neto,Pasto,2019-09-08,Sun,Primera A,Regular season,Home,W 2–1,CD América,AD Cali,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-62,Alvino Volpi Neto,Pasto,2019-09-15,Sun,Primera A,Regular season,Away,D 2–2,CD América,Jaguares,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-63,Alvino Volpi Neto,Pasto,2019-09-21,Sat,Primera A,Regular season,Home,D 1–1,CD América,CA Bucaramanga,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-64,Alvino Volpi Neto,Pasto,2019-09-29,Sun,Primera A,Regular season,Away,D 3–3,CD América,La Equidad,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report
-65,Alvino Volpi Neto,Pasto,2019-10-02,Wed,Primera A,Regular season,Home,L 0–1,CD América,Huila,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-66,Alvino Volpi Neto,Pasto,2019-10-06,Sun,Primera A,Regular season,Away,L 2–3,CD América,AD Cali,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report
-67,Alvino Volpi Neto,Pasto,2019-10-09,Wed,Primera A,Regular season,Home,W 2–0,CD América,ADU Magdalena,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-68,Alvino Volpi Neto,Pasto,2019-10-12,Sat,Primera A,Regular season,Away,W 2–1,CD América,Millonarios,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-69,Alvino Volpi Neto,Pasto,2019-10-29,Tue,Primera A,Regular season,Home,W 1–0,CD América,Pasto,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-70,Alvino Volpi Neto,Pasto,2019-11-09,Sat,Primera A,Semi-finals,Away,L 1–2,CD América,Santa Fe,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-71,Alvino Volpi Neto,Pasto,2019-11-14,Thu,Primera A,Semi-finals,Home,W 3–1,CD América,Alianza,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-72,Alvino Volpi Neto,Pasto,2019-11-17,Sun,Primera A,Semi-finals,Home,W 1–0,CD América,AD Cali,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-73,Alvino Volpi Neto,Pasto,2019-11-20,Wed,Primera A,Semi-finals,Away,L 1–2,CD América,AD Cali,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-74,Alvino Volpi Neto,Pasto,2019-11-23,Sat,Primera A,Semi-finals,Away,W 1–0,CD América,Alianza,Y,GK,90,0,0,1,,1,1,0,1,0,Match Report
-75,Alvino Volpi Neto,Pasto,2019-11-28,Thu,Primera A,Semi-finals,Home,W 2–0,CD América,Santa Fe,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-76,Alvino Volpi Neto,Pasto,2019-12-01,Sun,Primera A,Finals,Away,D 0–0,CD América,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-77,Alvino Volpi Neto,Pasto,2019-12-07,Sat,Primera A,Finals,Home,W 2–0,CD América,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-78,Carlos Bejarano,Pasto,2019-01-27,Sun,Primera A,Apertura Regular Season,Away,W 2–1,CD América,Alianza,Y*,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-79,Carlos Bejarano,Pasto,2019-01-31,Thu,Primera A,Apertura Regular Season,Home,W 3–1,CD América,Tolima,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-80,Carlos Bejarano,Pasto,2019-02-03,Sun,Primera A,Apertura Regular Season,Away,D 1–1,CD América,Boyacá Patriot,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-81,Carlos Bejarano,Pasto,2019-02-10,Sun,Primera A,Apertura Regular Season,Home,L 0–1,CD América,Junior,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-82,Carlos Bejarano,Pasto,2019-02-16,Sat,Primera A,Apertura Regular Season,Home,W 3–0,CD América,Independiente,Y*,GK,90,8,0,8,100.0,1,0,0,0,0,Match Report
-83,Carlos Bejarano,Pasto,2019-02-23,Sat,Primera A,Apertura Regular Season,Away,W 2–1,CD América,Rionegro,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-84,Carlos Bejarano,Pasto,2019-02-28,Thu,Primera A,Apertura Regular Season,Home,D 0–0,CD América,Santa Fe,Y*,GK,90,0,0,0,,1,0,0,0,0,Match Report
-85,Carlos Bejarano,Pasto,2019-03-03,Sun,Primera A,Apertura Regular Season,Away,L 1–4,CD América,Envigado,Y*,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report
-86,Carlos Bejarano,Pasto,2019-03-10,Sun,Primera A,Apertura Regular Season,Home,W 3–1,CD América,Once Caldas,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-87,Carlos Bejarano,Pasto,2019-03-16,Sat,Primera A,Apertura Regular Season,Away,W 1–0,CD América,AD Cali,Y*,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
-88,Carlos Bejarano,Pasto,2019-03-24,Sun,Primera A,Apertura Regular Season,Home,W 1–0,CD América,Jaguares,Y*,GK,67,2,0,2,100.0,1,0,0,0,0,Match Report
-89,Carlos Bejarano,Pasto,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,D 1–1,CD América,Pasto,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-90,Carlos Bejarano,Pasto,2019-05-12,Sun,Primera A,Semi-finals,Home,L 1–2,CD América,Millonarios,Y*,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-91,Carlos Bejarano,Pasto,2019-05-15,Wed,Primera A,Semi-finals,Away,L 0–1,CD América,Pasto,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-92,Carlos Bejarano,Pasto,2019-05-18,Sat,Primera A,Semi-finals,Away,W 2–0,CD América,ADU Magdalena,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-93,Carlos Bejarano,Pasto,2019-05-22,Wed,Primera A,Semi-finals,Home,W 4–0,CD América,ADU Magdalena,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-94,Carlos Bejarano,Pasto,2019-06-01,Sat,Primera A,Semi-finals,Home,L 0–3,CD América,Pasto,Y*,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
-95,Carlos Bejarano,Pasto,2019-07-14,Sun,Primera A,Regular season,Home,D 0–0,Pasto,Santa Fe,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-96,Carlos Bejarano,Pasto,2019-07-19,Fri,Primera A,Regular season,Away,D 1–1,Pasto,Envigado,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-97,Carlos Bejarano,Pasto,2019-07-27,Sat,Primera A,Regular season,Away,L 1–3,Pasto,Once Caldas,Y,GK,90,2,3,0,0.0,0,1,1,0,0,Match Report
-98,Carlos Bejarano,Pasto,2019-08-05,Mon,Primera A,Regular season,Home,D 1–1,Pasto,CA Bucaramanga,Y,GK,90,0,1,0,,0,1,1,0,0,Match Report
-99,Carlos Bejarano,Pasto,2019-08-11,Sun,Primera A,Regular season,Away,D 1–1,Pasto,Jaguares,Y,GK,90,6,1,6,83.3,0,1,0,1,0,Match Report
-100,Carlos Bejarano,Pasto,2019-08-20,Tue,Primera A,Regular season,Home,W 4–0,Pasto,Huila,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-101,Carlos Bejarano,Pasto,2019-08-24,Sat,Primera A,Regular season,Home,W 2–0,Pasto,ADU Magdalena,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-102,Carlos Bejarano,Pasto,2019-09-01,Sun,Primera A,Regular season,Away,L 1–3,Pasto,AD Cali,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report
-103,Carlos Bejarano,Pasto,2019-09-04,Wed,Primera A,Regular season,Away,D 0–0,Pasto,La Equidad,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-104,Carlos Bejarano,Pasto,2019-09-08,Sun,Primera A,Regular season,Home,W 1–0,Pasto,Once Caldas,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
-105,Carlos Bejarano,Pasto,2019-09-15,Sun,Primera A,Regular season,Away,L 1–2,Pasto,Millonarios,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-106,Carlos Bejarano,Pasto,2019-09-21,Sat,Primera A,Regular season,Home,L 1–2,Pasto,Nacional,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
-107,Carlos Bejarano,Pasto,2019-09-28,Sat,Primera A,Regular season,Home,W 2–1,Pasto,Cúcuta,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-108,Carlos Bejarano,Pasto,2019-10-01,Tue,Primera A,Regular season,Away,L 1–3,Pasto,Independiente,Y,GK,90,7,3,5,71.4,0,1,1,0,0,Match Report
-109,Carlos Bejarano,Pasto,2019-10-29,Tue,Primera A,Regular season,Away,L 0–1,Pasto,CD América,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-110,Carlos Mosquera,Pasto,2019-02-02,Sat,Primera A,Apertura Regular Season,Away,D 1–1,Huila,AD Cali,N,,,,,,,,,,,,Match Report
-111,Carlos Mosquera,Pasto,2019-02-22,Fri,Primera A,Apertura Regular Season,Home,W 2–0,Huila,Pasto,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-112,Carlos Mosquera,Pasto,2019-02-26,Tue,Primera A,Apertura Regular Season,Away,L 0–2,Huila,Cúcuta,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
-113,Carlos Mosquera,Pasto,2019-03-04,Mon,Primera A,Apertura Regular Season,Home,L 1–2,Huila,Alianza,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
-114,Carlos Mosquera,Pasto,2019-03-08,Fri,Primera A,Apertura Regular Season,Away,D 0–0,Huila,Tolima,Y*,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-115,Carlos Mosquera,Pasto,2019-03-17,Sun,Primera A,Apertura Regular Season,Home,L 1–5,Huila,Tolima,Y*,GK,90,7,5,3,42.9,0,1,1,0,0,Match Report
-116,Carlos Mosquera,Pasto,2019-03-24,Sun,Primera A,Apertura Regular Season,Away,L 0–3,Huila,Junior,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
-117,Carlos Mosquera,Pasto,2019-10-06,Sun,Primera A,Regular season,Home,D 0–0,Pasto,Tolima,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-118,Carlos Mosquera,Pasto,2019-10-09,Wed,Primera A,Regular season,Away,D 2–2,Pasto,Alianza,Y,GK,90,1,2,0,0.0,0,1,1,0,0,Match Report
-119,Carlos Mosquera,Pasto,2019-10-12,Sat,Primera A,Regular season,Home,W 2–1,Pasto,Junior,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
-120,Carlos Mosquera,Pasto,2019-10-19,Sat,Primera A,Regular season,Away,L 0–1,Pasto,Boyacá Patriot,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-121,Carlos Mosquera,Pasto,2019-10-24,Thu,Primera A,Regular season,Home,D 3–3,Pasto,Rionegro,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report
-122,Nahuel Losada,Pasto,2018-07-21,Sat,Primera A,Regular season,Home,L 0–1,Pasto,Rionegro,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-123,Nahuel Losada,Pasto,2018-07-29,Sun,Primera A,Regular season,Away,L 0–3,Pasto,Junior,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-124,Nahuel Losada,Pasto,2018-08-05,Sun,Primera A,Regular season,Home,D 0–0,Pasto,Once Caldas,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-125,Nahuel Losada,Pasto,2018-08-12,Sun,Primera A,Regular season,Away,L 0–1,Pasto,La Equidad,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-126,Nahuel Losada,Pasto,2018-08-21,Tue,Primera A,Regular season,Home,W 2–1,Pasto,Leones FC,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-127,Nahuel Losada,Pasto,2018-08-27,Mon,Primera A,Regular season,Away,L 0–1,Pasto,Tolima,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-128,Nahuel Losada,Pasto,2018-09-02,Sun,Primera A,Regular season,Home,D 1–1,Pasto,Santa Fe,Y,GK,90,2,1,2,50.0,0,1,0,1,0,Match Report
-129,Nahuel Losada,Pasto,2018-09-05,Wed,Primera A,Regular season,Away,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-130,Nahuel Losada,Pasto,2018-09-09,Sun,Primera A,Regular season,Home,L 0–2,Pasto,Nacional,Y,GK,90,7,2,6,85.7,0,1,1,0,0,Match Report
-131,Nahuel Losada,Pasto,2018-09-15,Sat,Primera A,Regular season,Away,L 1–3,Pasto,CD América,Y,GK,90,4,3,2,50.0,0,1,1,0,0,Match Report
-132,Nahuel Losada,Pasto,2018-09-23,Sun,Primera A,Regular season,Home,W 2–1,Pasto,Alianza,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
-133,Nahuel Losada,Pasto,2018-09-30,Sun,Primera A,Regular season,Away,W 2–0,Pasto,Jaguares,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-134,Nahuel Losada,Pasto,2018-10-07,Sun,Primera A,Regular season,Home,L 0–1,Pasto,CA Bucaramanga,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-135,Nahuel Losada,Pasto,2018-10-15,Mon,Primera A,Regular season,Home,L 0–1,Pasto,Millonarios,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-136,Nahuel Losada,Pasto,2018-10-18,Thu,Primera A,Regular season,Away,L 0–1,Pasto,Envigado,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-137,Nahuel Losada,Pasto,2018-10-22,Mon,Primera A,Regular season,Home,D 0–0,Pasto,Huila,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-138,Nahuel Losada,Pasto,2018-10-26,Fri,Primera A,Regular season,Away,D 1–1,Pasto,Boyacá Chicó,Y,GK,90,0,1,0,,0,1,1,0,0,Match Report
-139,Nahuel Losada,Pasto,2018-11-04,Sun,Primera A,Regular season,Home,D 1–1,Pasto,Independiente,Y,GK,21,1,0,1,100.0,0,0,0,0,0,Match Report
-140,Ernesto Hernández,Pasto,2018-02-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Rionegro,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-141,Ernesto Hernández,Pasto,2018-02-11,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,Junior,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
-142,Ernesto Hernández,Pasto,2018-02-15,Thu,Primera A,Apertura Regular Season,Away,L 0–3,Pasto,Once Caldas,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report
-143,Ernesto Hernández,Pasto,2018-02-20,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Pasto,La Equidad,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-144,Ernesto Hernández,Pasto,2018-02-23,Fri,Primera A,Apertura Regular Season,Away,L 1–2,Pasto,Leones FC,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
-145,Ernesto Hernández,Pasto,2018-03-04,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Tolima,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-146,Ernesto Hernández,Pasto,2018-03-08,Thu,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,Santa Fe,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-147,Ernesto Hernández,Pasto,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-148,Ernesto Hernández,Pasto,2018-03-17,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Nacional,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
-149,Ernesto Hernández,Pasto,2018-03-24,Sat,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,CD América,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-150,Ernesto Hernández,Pasto,2018-03-29,Thu,Primera A,Apertura Regular Season,Away,W 2–0,Pasto,Alianza,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-151,Ernesto Hernández,Pasto,2018-04-01,Sun,Primera A,Apertura Regular Season,Home,L 0–1,Pasto,Jaguares,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
-152,Ernesto Hernández,Pasto,2018-04-07,Sat,Primera A,Apertura Regular Season,Away,L 1–3,Pasto,CA Bucaramanga,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
-153,Ernesto Hernández,Pasto,2018-04-10,Tue,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Millonarios,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
-154,Víctor Cabezas,Pasto,2018-04-15,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,Envigado,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-155,Víctor Cabezas,Pasto,2018-04-18,Wed,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Huila,Y,GK,90,7,2,6,85.7,0,1,1,0,0,Match Report
-156,Víctor Cabezas,Pasto,2018-04-23,Mon,Primera A,Apertura Regular Season,Home,W 3–0,Pasto,Boyacá Chicó,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-157,Víctor Cabezas,Pasto,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,Independiente,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-158,Víctor Cabezas,Pasto,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Pasto,AD Cali,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
-159,Víctor Cabezas,Pasto,2018-11-04,Sun,Primera A,Regular season,Home,D 1–1,Pasto,Independiente,N,,69,4,1,4,100.0,0,1,1,0,0,Match Report
-160,Víctor Cabezas,Pasto,2018-11-11,Sun,Primera A,Regular season,Away,L 0–1,Pasto,AD Cali,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-161,Andrés Mosquera Marmolejo,Pasto,2017-02-03,Fri,Primera A,Apertura Regular Season,Away,W 4–0,Pasto,Cortuluá,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-162,Andrés Mosquera Marmolejo,Pasto,2017-02-09,Thu,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,La Equidad,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
-163,Andrés Mosquera Marmolejo,Pasto,2017-02-14,Tue,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Expreso Rojo,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-164,Andrés Mosquera Marmolejo,Pasto,2017-02-17,Fri,Primera A,Apertura Regular Season,Home,D 0–0,Pasto,Jaguares,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
-165,Andrés Mosquera Marmolejo,Pasto,2017-02-21,Tue,Primera A,Apertura Regular Season,Home,W 5–0,Pasto,Boyacá Patriot,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-166,Andrés Mosquera Marmolejo,Pasto,2017-02-26,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,CD América,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-167,Andrés Mosquera Marmolejo,Pasto,2017-03-04,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Alianza,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-168,Andrés Mosquera Marmolejo,Pasto,2017-03-09,Thu,Primera A,Apertura Regular Season,Away,L 1–4,Pasto,Independiente,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report
-169,Andrés Mosquera Marmolejo,Pasto,2017-03-18,Sat,Primera A,Apertura Regular Season,Home,D 2–2,Pasto,Cortuluá,Y,GK,90,3,2,2,66.7,0,1,1,0,0,Match Report
-170,Andrés Mosquera Marmolejo,Pasto,2017-03-26,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,AD Cali,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-171,Andrés Mosquera Marmolejo,Pasto,2017-03-31,Fri,Primera A,Apertura Regular Season,Away,L 1–2,Pasto,Nacional,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
-172,Andrés Mosquera Marmolejo,Pasto,2017-04-09,Sun,Primera A,Apertura Regular Season,Home,W 3–1,Pasto,Santa Fe,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
-173,Andrés Mosquera Marmolejo,Pasto,2017-04-15,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Pasto,Millonarios,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-174,Andrés Mosquera Marmolejo,Pasto,2017-04-22,Sat,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,CA Bucaramanga,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
-175,Andrés Mosquera Marmolejo,Pasto,2017-04-29,Sat,Primera A,Apertura Regular Season,Away,W 2–1,Pasto,Envigado,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
-176,Andrés Mosquera Marmolejo,Pasto,2017-05-06,Sat,Primera A,Apertura Regular Season,Home,D 2–2,Pasto,Rionegro,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
-177,Andrés Mosquera Marmolejo,Pasto,2017-05-09,Tue,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Huila,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-178,Andrés Mosquera Marmolejo,Pasto,2017-05-14,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Tolima,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-179,Andrés Mosquera Marmolejo,Pasto,2017-05-20,Sat,Primera A,Apertura Regular Season,Away,W 3–2,Pasto,Once Caldas,Y,GK,90,1,2,0,-100.0,0,1,0,1,0,Match Report
-180,Andrés Mosquera Marmolejo,Pasto,2017-05-28,Sun,Primera A,Apertura Regular Season,Home,L 1–2,Pasto,Junior,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
-181,Andrés Mosquera Marmolejo,Pasto,2017-05-31,Wed,Primera A,Quarter-finals,Away,D 0–0,Pasto,CD América,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-182,Andrés Mosquera Marmolejo,Pasto,2017-06-03,Sat,Primera A,Quarter-finals,Home,L 0–1,Pasto,CD América,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-183,Andrés Mosquera Marmolejo,Pasto,2017-07-08,Sat,Primera A,Regular season,Home,D 1–1,Pasto,Cortuluá,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
-184,Andrés Mosquera Marmolejo,Pasto,2017-07-15,Sat,Primera A,Regular season,Away,L 2–3,Pasto,La Equidad,Y,GK,90,10,3,7,70.0,0,0,0,0,0,Match Report
-185,Andrés Mosquera Marmolejo,Pasto,2017-07-18,Tue,Primera A,Regular season,Home,W 3–1,Pasto,Expreso Rojo,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
-186,Andrés Mosquera Marmolejo,Pasto,2017-07-23,Sun,Primera A,Regular season,Away,L 0–2,Pasto,Jaguares,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report
-187,Andrés Mosquera Marmolejo,Pasto,2017-07-30,Sun,Primera A,Regular season,Away,D 0–0,Pasto,Boyacá Patriot,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-188,Andrés Mosquera Marmolejo,Pasto,2017-08-06,Sun,Primera A,Regular season,Home,W 1–0,Pasto,CD América,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report
-189,Andrés Mosquera Marmolejo,Pasto,2017-08-13,Sun,Primera A,Regular season,Home,L 3–4,Pasto,AD Cali,Y*,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report
-190,Andrés Mosquera Marmolejo,Pasto,2017-08-16,Wed,Primera A,Regular season,Away,L 2–4,Pasto,Alianza,Y,GK,90,8,4,5,62.5,0,1,1,0,0,Match Report
-191,Andrés Mosquera Marmolejo,Pasto,2017-08-19,Sat,Primera A,Regular season,Home,W 1–0,Pasto,Independiente,Y,GK,90,2,0,3,100.0,1,2,0,1,1,Match Report
-192,Andrés Mosquera Marmolejo,Pasto,2017-08-25,Fri,Primera A,Regular season,Away,L 2–3,Pasto,Cortuluá,Y,GK,90,6,3,4,66.7,0,1,1,0,0,Match Report
-193,Andrés Mosquera Marmolejo,Pasto,2017-09-17,Sun,Primera A,Regular season,Away,L 0–1,Pasto,Santa Fe,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
-194,Andrés Mosquera Marmolejo,Pasto,2017-09-20,Wed,Primera A,Regular season,Home,W 2–0,Pasto,Nacional,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
-195,Andrés Mosquera Marmolejo,Pasto,2017-09-24,Sun,Primera A,Regular season,Away,L 0–1,Pasto,Millonarios,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
-196,Andrés Mosquera Marmolejo,Pasto,2017-10-01,Sun,Primera A,Regular season,Home,D 0–0,Pasto,CA Bucaramanga,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
-197,Andrés Mosquera Marmolejo,Pasto,2017-10-22,Sun,Primera A,Regular season,Away,L 1–2,Pasto,Rionegro,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
-198,Andrés Mosquera Marmolejo,Pasto,2017-11-02,Thu,Primera A,Regular season,Away,L 0–3,Pasto,Tolima,Y,GK,90,6,3,4,66.7,0,1,1,0,0,Match Report
-199,Andrés Mosquera Marmolejo,Pasto,2017-11-15,Wed,Primera A,Regular season,Home,W 4–0,Pasto,Huila,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
-200,Andrés Mosquera Marmolejo,Pasto,2017-11-18,Sat,Primera A,Regular season,Away,L 0–1,Pasto,Junior,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+0,Name,Team,Team_Href,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report
+1,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-01-17,Sun,Primera A,Apertura regular season,Home,D 2–2,Pasto,La Equidad,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report
+2,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-01-23,Sat,Primera A,Apertura regular season,Away,W 1–0,Pasto,Envigado,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+3,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-02-09,Tue,Primera A,Apertura regular season,Away,D 1–1,Pasto,Rionegro,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report
+4,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-02-14,Sun,Primera A,Apertura regular season,Home,L 0–1,Pasto,Tolima,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+5,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-02-18,Thu,Primera A,Apertura regular season,Away,L 1–3,Pasto,Millonarios,Y,GK,90,6,3,4,66.7,0,1,1,0,0,Match Report
+6,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-02-21,Sun,Primera A,Apertura regular season,Home,D 2–2,Pasto,Jaguares,Y,GK,90,3,2,2,66.7,0,1,1,0,0,Match Report
+7,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-03-29,Mon,Primera A,Apertura regular season,Away,D 1–1,Pasto,AD Cali,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
+8,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-04-08,Thu,Sudamericana,First stage,Home,L 0–2,co Pasto,co La Equidad,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+9,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-04-11,Sun,Primera A,Apertura regular season,Home,D 0–0,Pasto,Junior,N,,37,2,0,2,100.0,1,0,0,0,0,Match Report
+10,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-04-15,Thu,Primera A,Apertura regular season,Home,D 1–1,Pasto,CA Bucaramanga,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+11,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/72f9f06e/2021/s10991/Pasto-Stats-Categoria-Primera-A,2021-04-18,Sun,Primera A,Apertura regular season,Away,L 2–4,Pasto,Pereira,Y,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report
+12,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-01,Sat,Liga FUTVE,First stage,Home,–,Dep Táchira,Acad Pr Cabello,Y,,90,,,,,0,0,0,0,0,Match Report
+13,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-04,Tue,Libertadores,Second qualifying stage,Away,L 0–4,ve Dep Táchira,co Independiente,Y,GK,90,4,4,1,25.0,0,1,1,0,0,Match Report
+14,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-08,Sat,Liga FUTVE,First stage,Away,L 0–1,Dep Táchira,Aragua,Y,,90,,,,,0,1,1,0,0,Match Report
+15,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-11,Tue,Libertadores,Second qualifying stage,Home,W 2–0,ve Dep Táchira,co Independiente,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+16,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-16,Sun,Liga FUTVE,First stage,Home,W 2–1,Dep Táchira,Metropolitanos,Y,,90,,,,,0,1,1,0,0,Match Report
+17,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-21,Fri,Liga FUTVE,First stage,Home,L 0–2,Dep Táchira,Zamora,Y,,90,,,,,0,1,1,0,0,Match Report
+18,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-02-29,Sat,Liga FUTVE,First stage,Away,L 0–2,Dep Táchira,Deportivo Lara,Y,,90,,,,,0,0,0,0,0,Match Report
+19,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-10-26,Mon,Liga FUTVE,Group stage,Away,W 2–1,Dep Táchira,Monagas,Y,,90,,1,,,0,0,0,0,0,Match Report
+20,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-10-29,Thu,Liga FUTVE,Group stage,Home,W 1–0,Dep Táchira,Metropolitanos,Y,,90,,0,,,1,0,0,0,0,Match Report
+21,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-01,Sun,Liga FUTVE,Group stage,Away,W 1–0,Dep Táchira,Zamora,Y,,90,,0,,,1,0,0,0,0,Match Report
+22,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-13,Fri,Liga FUTVE,Group stage,Away,W 1–0,Dep Táchira,Portuguesa,Y,,90,,0,,,1,0,0,0,0,Match Report
+23,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-16,Mon,Liga FUTVE,Group stage,Home,D 0–0,Dep Táchira,Gran Valencia Maracay,Y,,90,,0,,,1,0,0,0,0,Match Report
+24,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-19,Thu,Liga FUTVE,Group stage,Home,W 3–2,Dep Táchira,Monagas,Y,,90,,2,,,0,1,1,0,0,Match Report
+25,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-22,Sun,Liga FUTVE,Group stage,Away,W 3–0,Dep Táchira,Metropolitanos,Y,,90,,0,,,1,0,0,0,0,Match Report
+26,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-26,Thu,Liga FUTVE,Group stage,Home,L 0–3,Dep Táchira,Zamora,Y,,90,,3,,,0,0,0,0,0,Match Report
+27,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-11-29,Sun,Liga FUTVE,Group stage,Away,D 0–0,Dep Táchira,Caracas,Y,,90,,0,,,1,0,0,0,0,Match Report
+28,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-12-04,Fri,Liga FUTVE,Group stage,Home,D 1–1,Dep Táchira,Aragua,Y,,90,,1,,,0,1,1,0,0,Match Report
+29,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-12-08,Tue,Liga FUTVE,Group stage,Home,W 3–0,Dep Táchira,Portuguesa,Y,,90,,0,,,1,0,0,0,0,Match Report
+30,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-12-11,Fri,Liga FUTVE,Group stage,Away,W 3–0,Dep Táchira,Gran Valencia Maracay,Y,,90,,0,,,1,0,0,0,0,Match Report
+31,José Contreras Verna,Pasto,https://www.fbref.com//en/squads/7701ed02/2020/s10093/Deportivo-Tachira-Stats-Liga-FUTVE,2020-12-15,Tue,Liga FUTVE,Serie Final,Away,L 0–2,Dep Táchira,Dep La Guaira,Y,,90,,2,,,0,0,0,0,0,Match Report
+32,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-01-26,Sun,Primera A,First stage,Away,W 2–1,Pasto,Millonarios,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+33,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-03,Mon,Primera A,First stage,Away,W 1–0,Pasto,Alianza,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+34,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-16,Sun,Primera A,First stage,Away,D 0–0,Pasto,Cúcuta,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+35,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-03-10,Tue,Primera A,First stage,Away,D 1–1,Pasto,La Equidad,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+36,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-09-20,Sun,Primera A,First stage,Home,W 2–0,Pasto,Jaguares,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+37,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-09-29,Tue,Primera A,First stage,Away,D 1–1,Pasto,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+38,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-03,Sat,Primera A,First stage,Home,W 2–1,Pasto,Boyacá Chicó,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+39,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-07,Wed,Primera A,First stage,Away,W 1–0,Pasto,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+40,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-10,Sat,Primera A,First stage,Home,D 1–1,Pasto,AD Cali,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+41,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-14,Wed,Primera A,First stage,Away,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+42,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-18,Sun,Primera A,First stage,Home,W 2–1,Pasto,Independiente,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+43,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-10-25,Sun,Primera A,First stage,Away,L 2–3,Pasto,CD América,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report
+44,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-15,Sun,Primera A,First stage,Away,D 1–1,Pasto,Pereira,Y,GK,39,2,1,1,50.0,0,0,0,0,0,Match Report
+45,Diego Alejandro Martínez,Pasto,https://www.fbref.com//en/squads/a7854d10/2019/s3927/Santa-Fe-Stats-Categoria-Primera-A,2019-04-20,Sat,Primera A,Apertura Regular Season,Home,L 1–2,Santa Fe,AD Cali,N,,70,3,1,2,66.7,0,0,0,0,0,Match Report
+46,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-07,Fri,Primera A,First stage,Home,W 4–0,Pasto,CA Bucaramanga,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+47,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-12,Wed,Sudamericana,First stage,Away,L 0–1,co Pasto,cl Huachipato,Y,GK,90,4,1,4,100.0,0,1,1,0,0,Match Report
+48,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-21,Fri,Primera A,First stage,Home,W 1–0,Pasto,Envigado,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+49,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-02-26,Wed,Sudamericana,First stage,Home,L 0–1,co Pasto,cl Huachipato,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+50,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-03-01,Sun,Primera A,First stage,Home,L 1–2,Pasto,La Equidad,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+51,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-09-13,Sun,Primera A,First stage,Home,L 1–3,Pasto,Tolima,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report
+52,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-01,Sun,Primera A,First stage,Home,D 1–1,Pasto,Santa Fe,Y,GK,90,3,1,3,100.0,0,1,1,0,0,Match Report
+53,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-08,Sun,Primera A,First stage,Away,L 0–1,Pasto,Nacional,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+54,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-12,Thu,Primera A,First stage,Home,W 2–1,Pasto,Once Caldas,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+55,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-15,Sun,Primera A,First stage,Away,D 1–1,Pasto,Pereira,N,,51,3,0,3,100.0,0,0,0,0,0,Match Report
+56,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-22,Sun,Primera A,Quarter-finals,Home,W 1–0,Pasto,Santa Fe,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+57,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/72f9f06e/2020/s10076/Pasto-Stats-Categoria-Primera-A,2020-11-29,Sun,Primera A,Quarter-finals,Away,L 0–2,Pasto,Santa Fe,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
+58,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-02-04,Mon,Primera A,Apertura Regular Season,Away,L 0–2,Rionegro,Tolima,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+59,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-02,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Rionegro,Huila,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+60,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-07,Sun,Primera A,Apertura Regular Season,Away,L 0–2,Rionegro,Jaguares,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+61,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-13,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Rionegro,ADU Magdalena,N,,,,,,,,,,,,Match Report
+62,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-17,Wed,Sudamericana,First stage,Away,D 1 (3)–1 (0),co Rionegro,bo Oriente Petrolero,Y,GK,120,2,1,1,50.0,0,0,0,0,0,Match Report
+63,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-21,Sun,Primera A,Apertura Regular Season,Home,W 2–1,Rionegro,Nacional,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+64,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-24,Wed,Primera A,Apertura Regular Season,Away,D 2–2,Rionegro,La Equidad,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+65,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-04-27,Sat,Primera A,Apertura Regular Season,Away,L 1–2,Rionegro,AD Cali,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
+66,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-05-01,Wed,Primera A,Apertura Regular Season,Home,W 2–1,Rionegro,Pasto,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+67,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Rionegro,Millonarios,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+68,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-05-21,Tue,Sudamericana,Second stage,Home,W 3–2,co Rionegro,ar Independiente,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+69,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-05-28,Tue,Sudamericana,Second stage,Away,L 0–2,co Rionegro,ar Independiente,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+70,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-07-15,Mon,Primera A,Regular season,Home,L 1–3,Rionegro,Cúcuta,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
+71,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-07-21,Sun,Primera A,Regular season,Away,D 2–2,Rionegro,Alianza,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+72,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-07-26,Fri,Primera A,Regular season,Home,W 3–0,Rionegro,Tolima,Y,GK,90,5,0,4,120.0,1,1,1,0,0,Match Report
+73,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-04,Sun,Primera A,Regular season,Away,L 0–2,Rionegro,Boyacá Patriot,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report
+74,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-11,Sun,Primera A,Regular season,Home,W 1–0,Rionegro,Junior,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+75,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-17,Sat,Primera A,Regular season,Away,D 1–1,Rionegro,CD América,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+76,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-22,Thu,Primera A,Regular season,Away,W 2–1,Rionegro,Independiente,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+77,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-25,Sun,Primera A,Regular season,Home,W 1–0,Rionegro,Santa Fe,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+78,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-08-31,Sat,Primera A,Regular season,Away,D 3–3,Rionegro,Envigado,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+79,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-09-07,Sat,Primera A,Regular season,Home,D 1–1,Rionegro,Envigado,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
+80,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-09-13,Fri,Primera A,Regular season,Away,L 0–2,Rionegro,CA Bucaramanga,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+81,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-09-21,Sat,Primera A,Regular season,Home,L 1–2,Rionegro,Once Caldas,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+82,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-09-27,Fri,Primera A,Regular season,Away,D 1–1,Rionegro,Huila,Y,GK,90,10,1,9,90.0,0,0,0,0,0,Match Report
+83,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-01,Tue,Primera A,Regular season,Home,W 3–0,Rionegro,Jaguares,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+84,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-06,Sun,Primera A,Regular season,Away,D 1–1,Rionegro,ADU Magdalena,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+85,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-10,Thu,Primera A,Regular season,Home,D 0–0,Rionegro,La Equidad,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+86,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-13,Sun,Primera A,Regular season,Away,L 0–1,Rionegro,Nacional,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
+87,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-20,Sun,Primera A,Regular season,Home,L 1–4,Rionegro,AD Cali,Y,GK,90,4,4,0,0.0,0,0,0,0,0,Match Report
+88,Luis Enrique Delgado,Pasto,https://www.fbref.com//en/squads/6466f662/2019/s3927/Rionegro-Stats-Categoria-Primera-A,2019-10-24,Thu,Primera A,Regular season,Away,D 3–3,Rionegro,Pasto,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report
+89,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-01-27,Sun,Primera A,Apertura Regular Season,Away,D 1–1,Pasto,Santa Fe,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+90,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-01-30,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Envigado,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+91,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-03,Sun,Primera A,Apertura Regular Season,Home,L 1–2,Pasto,Once Caldas,Y,GK,90,3,2,2,66.7,0,1,1,0,0,Match Report
+92,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-08,Fri,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,CA Bucaramanga,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+93,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-17,Sun,Primera A,Apertura Regular Season,Home,W 4–1,Pasto,Jaguares,Y,GK,90,2,1,2,100.0,0,1,1,0,0,Match Report
+94,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-22,Fri,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Huila,Y,GK,68,1,0,1,100.0,0,0,0,0,0,Match Report
+95,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-10,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,AD Cali,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+96,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-17,Sun,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Once Caldas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+97,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-23,Sat,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Millonarios,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+98,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-30,Sat,Primera A,Apertura Regular Season,Away,W 1–0,Pasto,Nacional,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+99,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-03,Wed,Primera A,Apertura Regular Season,Away,W 3–1,Pasto,Cúcuta,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+100,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-07,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Independiente,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+101,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-14,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Tolima,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+102,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-17,Wed,Primera A,Apertura Regular Season,Home,W 1–0,Pasto,Alianza,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+103,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-21,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+104,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-04-28,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+105,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-01,Wed,Primera A,Apertura Regular Season,Away,L 1–2,Pasto,Rionegro,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+106,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-05,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,CD América,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+107,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-11,Sat,Primera A,Semi-finals,Away,W 3–1,Pasto,ADU Magdalena,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+108,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-15,Wed,Primera A,Semi-finals,Home,W 1–0,Pasto,CD América,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+109,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-18,Sat,Primera A,Semi-finals,Home,D 1–1,Pasto,Millonarios,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+110,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-25,Sat,Primera A,Semi-finals,Away,L 0–1,Pasto,Millonarios,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+111,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-06-01,Sat,Primera A,Semi-finals,Away,W 3–0,Pasto,CD América,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
+112,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-06-05,Wed,Primera A,Semi-finals,Home,W 3–0,Pasto,ADU Magdalena,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+113,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-06-08,Sat,Primera A,Finals,Away,L 0–1,Pasto,Junior,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+114,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-06-12,Wed,Primera A,Finals,Home,W 1 (4)–0 (5),Pasto,Junior,Y,GK,120,1,0,1,100.0,1,0,0,0,0,Match Report
+115,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-14,Sun,Primera A,Regular season,Home,W 2–1,CD América,Alianza,Y,GK,90,1,1,1,100.0,0,1,1,0,0,Match Report
+116,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-20,Sat,Primera A,Regular season,Away,W 1–0,CD América,Tolima,Y,GK,90,1,0,1,100.0,1,1,0,0,1,Match Report
+117,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-25,Thu,Primera A,Regular season,Home,D 1–1,CD América,Boyacá Patriot,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+118,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-04,Sun,Primera A,Regular season,Away,W 1–0,CD América,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+119,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-10,Sat,Primera A,Regular season,Away,L 1–4,CD América,Independiente,Y,GK,90,6,4,2,33.3,0,0,0,0,0,Match Report
+120,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-17,Sat,Primera A,Regular season,Home,D 1–1,CD América,Rionegro,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+121,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-22,Thu,Primera A,Regular season,Away,W 2–1,CD América,Santa Fe,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+122,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-25,Sun,Primera A,Regular season,Home,W 1–0,CD América,Envigado,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+123,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-31,Sat,Primera A,Regular season,Away,L 1–2,CD América,Once Caldas,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
+124,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-08,Sun,Primera A,Regular season,Home,W 2–1,CD América,AD Cali,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+125,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-15,Sun,Primera A,Regular season,Away,D 2–2,CD América,Jaguares,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
+126,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-21,Sat,Primera A,Regular season,Home,D 1–1,CD América,CA Bucaramanga,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+127,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-29,Sun,Primera A,Regular season,Away,D 3–3,CD América,La Equidad,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report
+128,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-02,Wed,Primera A,Regular season,Home,L 0–1,CD América,Huila,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+129,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-06,Sun,Primera A,Regular season,Away,L 2–3,CD América,AD Cali,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report
+130,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-09,Wed,Primera A,Regular season,Home,W 2–0,CD América,ADU Magdalena,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+131,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-12,Sat,Primera A,Regular season,Away,W 2–1,CD América,Millonarios,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+132,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-29,Tue,Primera A,Regular season,Home,W 1–0,CD América,Pasto,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+133,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-09,Sat,Primera A,Semi-finals,Away,L 1–2,CD América,Santa Fe,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report
+134,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-14,Thu,Primera A,Semi-finals,Home,W 3–1,CD América,Alianza,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+135,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-17,Sun,Primera A,Semi-finals,Home,W 1–0,CD América,AD Cali,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+136,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-20,Wed,Primera A,Semi-finals,Away,L 1–2,CD América,AD Cali,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+137,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-23,Sat,Primera A,Semi-finals,Away,W 1–0,CD América,Alianza,Y,GK,90,0,0,1,,1,1,0,1,0,Match Report
+138,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-11-28,Thu,Primera A,Semi-finals,Home,W 2–0,CD América,Santa Fe,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+139,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-12-01,Sun,Primera A,Finals,Away,D 0–0,CD América,Junior,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+140,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-12-07,Sat,Primera A,Finals,Home,W 2–0,CD América,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+141,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-07-24,Tue,Primera A,Regular season,Home,W 1–0,CD América,Leones FC,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+142,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-07-28,Sat,Primera A,Regular season,Away,L 0–1,CD América,Tolima,Y,GK,90,3,1,2,66.7,0,1,0,0,1,Match Report
+143,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-08-05,Sun,Primera A,Regular season,Home,D 0–0,CD América,Santa Fe,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+144,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-08-11,Sat,Primera A,Regular season,Away,D 0–0,CD América,Boyacá Patriot,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+145,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-08-18,Sat,Primera A,Regular season,Home,L 0–2,CD América,Nacional,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+146,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-08-25,Sat,Primera A,Regular season,Home,L 0–2,CD América,Millonarios,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report
+147,Alvino Volpi Neto,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-01,Sat,Primera A,Regular season,Away,D 2–2,CD América,Alianza,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+148,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-01-27,Sun,Primera A,Apertura Regular Season,Away,W 2–1,CD América,Alianza,Y*,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+149,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-01-31,Thu,Primera A,Apertura Regular Season,Home,W 3–1,CD América,Tolima,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+150,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-03,Sun,Primera A,Apertura Regular Season,Away,D 1–1,CD América,Boyacá Patriot,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+151,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-10,Sun,Primera A,Apertura Regular Season,Home,L 0–1,CD América,Junior,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+152,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-16,Sat,Primera A,Apertura Regular Season,Home,W 3–0,CD América,Independiente,Y*,GK,90,8,0,8,100.0,1,0,0,0,0,Match Report
+153,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-23,Sat,Primera A,Apertura Regular Season,Away,W 2–1,CD América,Rionegro,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+154,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-02-28,Thu,Primera A,Apertura Regular Season,Home,D 0–0,CD América,Santa Fe,Y*,GK,90,0,0,0,,1,0,0,0,0,Match Report
+155,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-03,Sun,Primera A,Apertura Regular Season,Away,L 1–4,CD América,Envigado,Y*,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report
+156,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-10,Sun,Primera A,Apertura Regular Season,Home,W 3–1,CD América,Once Caldas,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+157,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-16,Sat,Primera A,Apertura Regular Season,Away,W 1–0,CD América,AD Cali,Y*,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
+158,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-03-24,Sun,Primera A,Apertura Regular Season,Home,W 1–0,CD América,Jaguares,Y*,GK,67,2,0,2,100.0,1,0,0,0,0,Match Report
+159,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-05,Sun,Primera A,Apertura Regular Season,Away,D 1–1,CD América,Pasto,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+160,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-12,Sun,Primera A,Semi-finals,Home,L 1–2,CD América,Millonarios,Y*,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+161,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-15,Wed,Primera A,Semi-finals,Away,L 0–1,CD América,Pasto,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+162,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-18,Sat,Primera A,Semi-finals,Away,W 2–0,CD América,ADU Magdalena,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+163,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-05-22,Wed,Primera A,Semi-finals,Home,W 4–0,CD América,ADU Magdalena,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+164,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-06-01,Sat,Primera A,Semi-finals,Home,L 0–3,CD América,Pasto,Y*,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
+165,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-14,Sun,Primera A,Regular season,Home,D 0–0,Pasto,Santa Fe,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+166,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-19,Fri,Primera A,Regular season,Away,D 1–1,Pasto,Envigado,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+167,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-07-27,Sat,Primera A,Regular season,Away,L 1–3,Pasto,Once Caldas,Y,GK,90,2,3,0,0.0,0,1,1,0,0,Match Report
+168,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-05,Mon,Primera A,Regular season,Home,D 1–1,Pasto,CA Bucaramanga,Y,GK,90,0,1,0,,0,1,1,0,0,Match Report
+169,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-11,Sun,Primera A,Regular season,Away,D 1–1,Pasto,Jaguares,Y,GK,90,6,1,6,83.3,0,1,0,1,0,Match Report
+170,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-20,Tue,Primera A,Regular season,Home,W 4–0,Pasto,Huila,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+171,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-08-24,Sat,Primera A,Regular season,Home,W 2–0,Pasto,ADU Magdalena,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+172,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-01,Sun,Primera A,Regular season,Away,L 1–3,Pasto,AD Cali,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report
+173,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-04,Wed,Primera A,Regular season,Away,D 0–0,Pasto,La Equidad,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+174,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-08,Sun,Primera A,Regular season,Home,W 1–0,Pasto,Once Caldas,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report
+175,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-15,Sun,Primera A,Regular season,Away,L 1–2,Pasto,Millonarios,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+176,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-21,Sat,Primera A,Regular season,Home,L 1–2,Pasto,Nacional,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+177,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-09-28,Sat,Primera A,Regular season,Home,W 2–1,Pasto,Cúcuta,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+178,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-01,Tue,Primera A,Regular season,Away,L 1–3,Pasto,Independiente,Y,GK,90,7,3,5,71.4,0,1,1,0,0,Match Report
+179,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/72f9f06e/2019/s3927/Pasto-Stats-Categoria-Primera-A,2019-10-29,Tue,Primera A,Regular season,Away,L 0–1,Pasto,CD América,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+180,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-02-03,Sat,Primera A,Apertura Regular Season,Away,W 2–1,CD América,Leones FC,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+181,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-02-10,Sat,Primera A,Apertura Regular Season,Home,D 1–1,CD América,Tolima,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+182,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-02-15,Thu,Sudamericana,First stage,Away,W 1–0,co CD América,ar Defensa y Just,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+183,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-02-18,Sun,Primera A,Apertura Regular Season,Home,W 2–0,CD América,Boyacá Patriot,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+184,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-02-22,Thu,Primera A,Apertura Regular Season,Away,L 0–2,CD América,Nacional,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report
+185,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-04,Sun,Primera A,Apertura Regular Season,Away,L 1–3,CD América,Millonarios,Y,GK,90,6,3,4,66.7,0,1,1,0,0,Match Report
+186,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-08,Thu,Sudamericana,First stage,Home,L 0–3,co CD América,ar Defensa y Just,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report
+187,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-15,Thu,Primera A,Apertura Regular Season,Away,L 0–1,CD América,Jaguares,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+188,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-18,Sun,Primera A,Apertura Regular Season,Home,W 2–1,CD América,CA Bucaramanga,Y,GK,90,9,1,8,88.9,0,0,0,0,0,Match Report
+189,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-21,Wed,Primera A,Apertura Regular Season,Away,L 0–3,CD América,Santa Fe,Y*,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report
+190,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-24,Sat,Primera A,Apertura Regular Season,Away,L 0–2,CD América,Pasto,Y*,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+191,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-28,Wed,Primera A,Apertura Regular Season,Home,L 0–1,CD América,Envigado,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+192,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-03-31,Sat,Primera A,Apertura Regular Season,Away,L 0–4,CD América,Huila,Y*,GK,90,6,4,2,33.3,0,0,0,0,0,Match Report
+193,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-04-07,Sat,Primera A,Apertura Regular Season,Home,W 3–0,CD América,Boyacá Chicó,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+194,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-04-14,Sat,Primera A,Apertura Regular Season,Home,W 2–1,CD América,AD Cali,Y*,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+195,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-04-19,Thu,Primera A,Apertura Regular Season,Away,L 1–2,CD América,Rionegro,Y*,GK,90,2,2,1,0.0,0,1,0,1,0,Match Report
+196,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-04-22,Sun,Primera A,Apertura Regular Season,Home,D 2–2,CD América,Junior,Y*,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+197,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-05,Wed,Primera A,Regular season,Home,W 2–1,CD América,Jaguares,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+198,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-08,Sat,Primera A,Regular season,Away,W 3–2,CD América,CA Bucaramanga,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
+199,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-15,Sat,Primera A,Regular season,Home,W 3–1,CD América,Pasto,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+200,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-24,Mon,Primera A,Regular season,Away,D 1–1,CD América,Envigado,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+201,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-09-30,Sun,Primera A,Regular season,Home,D 0–0,CD América,Huila,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+202,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-10-07,Sun,Primera A,Regular season,Away,L 1–2,CD América,Boyacá Chicó,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report
+203,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-10-14,Sun,Primera A,Regular season,Home,L 1–2,CD América,Independiente,Y,GK,90,5,2,3,60.0,0,1,0,0,1,Match Report
+204,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-10-18,Thu,Primera A,Regular season,Away,L 0–1,CD América,AD Cali,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
+205,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-10-21,Sun,Primera A,Regular season,Home,W 2–1,CD América,Rionegro,Y*,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+206,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-10-28,Sun,Primera A,Regular season,Away,D 0–0,CD América,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+207,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-11-04,Sun,Primera A,Regular season,Home,D 1–1,CD América,Once Caldas,Y,GK,90,3,1,3,100.0,0,1,1,0,0,Match Report
+208,Carlos Bejarano,Pasto,https://www.fbref.com//en/squads/c6f65a93/2018/s1765/CD-America-Stats-Categoria-Primera-A,2018-11-10,Sat,Primera A,Regular season,Away,W 2–1,CD América,La Equidad,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+209,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-02-03,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Pasto,Rionegro,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+210,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-02-11,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,Junior,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report
+211,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-02-15,Thu,Primera A,Apertura Regular Season,Away,L 0–3,Pasto,Once Caldas,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report
+212,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-02-20,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Pasto,La Equidad,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+213,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-02-23,Fri,Primera A,Apertura Regular Season,Away,L 1–2,Pasto,Leones FC,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+214,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-04,Sun,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Tolima,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+215,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-08,Thu,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,Santa Fe,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+216,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-14,Wed,Primera A,Apertura Regular Season,Home,D 1–1,Pasto,Boyacá Patriot,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report
+217,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-17,Sat,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Nacional,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report
+218,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-24,Sat,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,CD América,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+219,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-03-29,Thu,Primera A,Apertura Regular Season,Away,W 2–0,Pasto,Alianza,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report
+220,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-01,Sun,Primera A,Apertura Regular Season,Home,L 0–1,Pasto,Jaguares,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report
+221,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-07,Sat,Primera A,Apertura Regular Season,Away,L 1–3,Pasto,CA Bucaramanga,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report
+222,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-10,Tue,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Millonarios,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+223,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-02-04,Sat,Primera A,Apertura Regular Season,Away,D 0–0,Rionegro,CD América,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+224,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-02-07,Tue,Primera A,Apertura Regular Season,Home,D 0–0,Rionegro,Alianza,Y,GK,90,2,0,1,100.0,1,0,0,0,0,Match Report
+225,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-02-12,Sun,Primera A,Apertura Regular Season,Away,L 0–3,Rionegro,Nacional,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report
+226,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-02-19,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Rionegro,Millonarios,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+227,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-02-23,Thu,Primera A,Apertura Regular Season,Away,D 1–1,Rionegro,Envigado,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+228,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-03-01,Wed,Sudamericana,First stage,Away,L 0–1,co Rionegro,ar Racing Club,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
+229,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-03-06,Mon,Primera A,Apertura Regular Season,Home,L 0–1,Rionegro,Cortuluá,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+230,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-03-12,Sun,Primera A,Apertura Regular Season,Away,D 0–0,Rionegro,Expreso Rojo,Y,GK,90,3,0,2,100.0,1,0,0,0,0,Match Report
+231,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-03-20,Mon,Primera A,Apertura Regular Season,Home,L 1–2,Rionegro,Envigado,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+232,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-03-26,Sun,Primera A,Apertura Regular Season,Away,L 0–1,Rionegro,Once Caldas,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+233,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-01,Sat,Primera A,Apertura Regular Season,Home,W 2–1,Rionegro,Boyacá Patriot,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+234,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-05,Wed,Primera A,Apertura Regular Season,Home,W 1–0,Rionegro,Huila,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+235,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-08,Sat,Primera A,Apertura Regular Season,Away,L 0–3,Rionegro,AD Cali,Y,GK,90,11,3,8,72.7,0,0,0,0,0,Match Report
+236,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-16,Sun,Primera A,Apertura Regular Season,Home,L 0–1,Rionegro,Independiente,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+237,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-23,Sun,Primera A,Apertura Regular Season,Away,D 2–2,Rionegro,Santa Fe,Y,GK,90,0,2,0,,0,1,1,0,0,Match Report
+238,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-04-30,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Rionegro,CA Bucaramanga,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+239,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-05-06,Sat,Primera A,Apertura Regular Season,Away,D 2–2,Rionegro,Pasto,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report
+240,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-05-11,Thu,Primera A,Apertura Regular Season,Away,D 1–1,Rionegro,Tolima,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+241,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-05-14,Sun,Primera A,Apertura Regular Season,Home,W 1–0,Rionegro,Junior,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report
+242,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-05-22,Mon,Primera A,Apertura Regular Season,Away,D 2–2,Rionegro,La Equidad,Y,GK,90,5,2,4,80.0,0,1,1,0,0,Match Report
+243,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-05-27,Sat,Primera A,Apertura Regular Season,Home,L 0–1,Rionegro,Jaguares,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+244,Ernesto Hernández,Pasto,https://www.fbref.com//en/squads/6466f662/2017/s1564/Rionegro-Stats-Categoria-Primera-A,2017-06-01,Thu,Sudamericana,First stage,Home,D 1–1,co Rionegro,ar Racing Club,Y,GK,90,0,1,0,,0,0,0,0,0,Match Report
+245,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-15,Sun,Primera A,Apertura Regular Season,Home,W 2–0,Pasto,Envigado,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+246,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-18,Wed,Primera A,Apertura Regular Season,Away,L 0–2,Pasto,Huila,Y,GK,90,7,2,6,85.7,0,1,1,0,0,Match Report
+247,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-23,Mon,Primera A,Apertura Regular Season,Home,W 3–0,Pasto,Boyacá Chicó,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+248,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-04-28,Sat,Primera A,Apertura Regular Season,Away,L 0–1,Pasto,Independiente,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report
+249,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-05-06,Sun,Primera A,Apertura Regular Season,Home,D 0–0,Pasto,AD Cali,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report
+250,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-11-04,Sun,Primera A,Regular season,Home,D 1–1,Pasto,Independiente,N,,69,4,1,4,100.0,0,1,1,0,0,Match Report
+251,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2018/s1765/Pasto-Stats-Categoria-Primera-A,2018-11-11,Sun,Primera A,Regular season,Away,L 0–1,Pasto,AD Cali,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report
+252,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2017/s1564/Pasto-Stats-Categoria-Primera-A,2017-11-06,Mon,Primera A,Regular season,Home,W 2–1,Pasto,Once Caldas,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report
+253,Víctor Cabezas,Pasto,https://www.fbref.com//en/squads/72f9f06e/2017/s1564/Pasto-Stats-Categoria-Primera-A,2017-11-12,Sun,Primera A,Regular season,Home,L 1–2,Pasto,Envigado,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report
