@@ -16,6 +16,7 @@ signings = FBref.loadCSV('signings.csv')
 signings = signings.rename(columns={'Unnamed: 0': 'Year'})
 signings = signings.drop([4])
 signings = FBref.iterLinks(signings)
+signings = signings.set_index(signings.columns[0])
 signings = Dfx.signingsCount(signings)
 FBref.exportCleanFinalCSV(signings,'','signings_count')
 
