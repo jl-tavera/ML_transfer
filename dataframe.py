@@ -1,4 +1,5 @@
 import FBrefScraper as FBref
+import DataFunctions as Dfx
 import pandas as pd
 
 def createDFSignings():
@@ -15,9 +16,13 @@ signings = FBref.loadCSV('signings.csv')
 signings = signings.rename(columns={'Unnamed: 0': 'Year'})
 signings = signings.drop([4])
 signings = FBref.iterLinks(signings)
-print(signings.head)
+signings = Dfx.signingsCount(signings)
+FBref.exportCleanFinalCSV(signings,'','signings_count')
 
-signings_stats = FBref.getAllSquadSigningStats(signings, 'Boyacá Patriot')
-FBref.exportFinalCSV(signings_stats[0],'/teams/', 'Boyaca_Patriot')
-FBref.exportFinalCSV(signings_stats[1],'/teams/','Boyaca_Patriot_GK')
+def getSigningsData(col_name, name):
+    signings_stats = FBref.getAllSquadSigningStats(signings, col_name)
+    FBref.exportFinalCSV(signings_stats[0],'/teams/', name)
+    FBref.exportFinalCSV(signings_stats[1],'/teams/', (name + str('_GK')))
+    
+    return None
 

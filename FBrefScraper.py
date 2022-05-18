@@ -466,3 +466,9 @@ def exportFinalCSV(df, path, name):
 
     return None
 
+def exportCleanFinalCSV(df, path, name):
+    route = cf.export_dir.replace('output/App', 'clean_output/') + path
+    df.to_csv(route + str(name) + '.csv')
+
+    return None
+
