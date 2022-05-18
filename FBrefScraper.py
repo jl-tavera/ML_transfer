@@ -393,9 +393,10 @@ def getSeasonURL(soup, year):
             squad_url = formatHREF(squad_url)
 
         if int(year - 1) == player_year:
-            season_url2 = columns[0].find_all('a', href=True)
-            season_url2 = formatHREF(season_url2)
-            print(season_url2)
+            if len(columns[0]) > 0:
+                season_url2 = columns[0].find_all('a', href=True)
+                season_url2 = formatHREF(season_url2)
+                print(season_url2)
 
             squad_url2 = columns2[0].find_all('a', href=True)
             squad_url2 = formatHREF(squad_url2)
