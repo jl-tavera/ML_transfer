@@ -11,6 +11,5 @@ def signingsCount(df):
         if col != 'Year':
             for i, row in df.iterrows(): 
                 df.at[i, col] = len(row[col])
-    df.append(df.sum(numeric_only=True), ignore_index=True)
-    
+
     return df
