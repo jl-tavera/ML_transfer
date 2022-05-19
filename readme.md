@@ -1,6 +1,6 @@
 **Algoritmos Predictivos para el Éxito de Fichajes**
 ================
-## **Web Scrappinga de Datos**
+## **Web Scraping de Datos**
 
 Para la recopilación de Datos decidimos hacer scraping de los datos de la Liga Betplay del 2017 hasta el 2021. Para lo anterior, filtramos la información de la siguiente manera:
 

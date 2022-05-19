@@ -53,12 +53,12 @@ def signingCounts(filename):
 
 
 def getSigningsData(col_name, name):
-    signings_stats = FBref.getAllSquadSigningStats(signings, col_name)
+    signings_stats = FBref.getAllSquadSigningStats('signings', col_name)
     FBref.exportFinalCSV(signings_stats[0],'/teams/', name)
     FBref.exportFinalCSV(signings_stats[1],'/teams/', (name + str('_GK')))
     
     return None
 
 data = (Dfx.completeRawData('signings.csv'))
-print(data)
+FBref.exportFinalCSV(data,'','data')
 

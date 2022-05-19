@@ -1,6 +1,7 @@
 '''
 LIBRARIES
 '''
+from stringprep import in_table_a1
 import FBrefScraper as FBref
 import pandas as pd
 import numpy as np
@@ -49,18 +50,39 @@ def completeRawData(filename):
     signings_names = df['Name'].unique()
 
     df = df.drop(['Match Report','Date',
-                    'Round', 'Venue' ], axis = 1)
+                    'Round', 'Venue', 'Day',
+                    'CrdY', 'CrdR', 'Opponent' ], axis = 1)
 
-    df_ML = pd.DataFrame
-    df_ML.columns = df.columns 
+    df = df.fillna(0)   
+    df['min_href'] = 0
+    df_ML = []
+
    
     for name in signings_names:
-        for i, row in df.iterrows:
+        print(name)
+        player_info = {}
+        found_player = False
+        for i, col in enumerate(df.columns.tolist()):
+            player_info[col] = []
+
+        for i, row in df.iterrows():
             if row['Name'] == name:
-                min = 0
-                if row['Team'] == row['Squad']:
-                    min += row['Min']
+                found_player = True
+                if row['Team'] in row['Squad']:
+                    min_href = row['Team_Href']
+                else:
+                    for i, col in enumerate(df.columns.tolist()):
+                        stat = player_info[col]
+                        stat.append(row[col])
+                        player_info[col] = stat
 
+            if row['Name'] != name and found_player == True:
+                break
 
+        if len(player_info['Team']) > 1:
+            player_info['min_href'] = min_href 
+            df_ML.append(player_info)
 
-    return len(teams_href)
+    df_ML = pd.DataFrame(df_ML)
+    return df_ML
+
