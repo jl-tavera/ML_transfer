@@ -2,7 +2,6 @@ import FBrefScraper as FBref
 import DataFunctions as Dfx
 import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib.colors
 
 def createDFSignings():
     seasons = FBref.getSeasons('https://fbref.com/en/comps/41/history/Primera-A-Seasons')
@@ -59,4 +58,7 @@ def getSigningsData(col_name, name):
     FBref.exportFinalCSV(signings_stats[1],'/teams/', (name + str('_GK')))
     
     return None
+
+data = (Dfx.completeRawData('signings.csv'))
+print(data)
 
