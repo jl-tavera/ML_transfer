@@ -1,11 +1,5 @@
-**ALGORITMOS PARA LA PREDICCIÓN DE ÉXITO DE FICHAJES**
+**Algoritmos Predictivos para el Éxito de Fichajes**
 ================
-**Jose Luis Tavera Ruiz**
-
-## **Introducción**
-
-
-
 ## **Web Scrappinga de Datos**
 
 Para la recopilación de Datos decidimos hacer scraping de los datos de la Liga Betplay del 2017 hasta el 2021. Para lo anterior, filtramos la información de la siguiente manera:
@@ -16,10 +10,8 @@ Para la recopilación de Datos decidimos hacer scraping de los datos de la Liga 
 4. Finalmente, obtenemos los links de los fichajes   
 
 <center>
-
 <figure>
 <img src="img/count_plot.png" id="id" class="class" style="width:60.0%;height:60.0%" alt="Número de Fichajes por Año" /><figcaption aria-hidden="true">Número de Fichajes por Año</figcaption>
 </figure>
-
 </center>
 
