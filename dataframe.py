@@ -14,39 +14,42 @@ def createDFSignings():
     FBref.exportFinalCSV(signings,'','signings')
     return None
 
-signings = FBref.loadCSV('signings.csv')
-signings = signings.rename(columns={'Unnamed: 0': 'Year'})
-signings = signings.drop([4])
-signings = FBref.iterLinks(signings)
-signings = signings.set_index(signings.columns[0])
-signings = Dfx.signingsCount(signings)
-FBref.exportCleanFinalCSV(signings,'','signings_count')
+def signingCounts(filename):
+    signings = FBref.loadCSV(filename)
+    signings = signings.rename(columns={'Unnamed: 0': 'Year'})
+    signings = signings.drop([4])
+    signings = FBref.iterLinks(signings)
+    signings = signings.set_index(signings.columns[0])
+    signings = Dfx.signingsCount(signings)
+    FBref.exportCleanFinalCSV(signings,'','signings_count')
 
-signings_tr = signings.transpose() 
-signings_tr['Teams'] = signings_tr.index
-signings_tr = signings_tr.drop('Total', 1)
+    signings_tr = signings.transpose() 
+    signings_tr['Teams'] = signings_tr.index
+    signings_tr = signings_tr.drop('Total', 1)
 
 
-count_plot = signings_tr.plot(x='Teams',
-                kind='barh', 
-                stacked=True,
-                title='Fichajes por Año', 
-                figsize=(12,6))
-                
-xlab = count_plot.xaxis.get_label()
-ylab = count_plot.yaxis.get_label()
-ttl = count_plot.title
+    count_plot = signings_tr.plot(x='Teams',
+                    kind='barh', 
+                    stacked=True,
+                    title='Fichajes por Año', 
+                    figsize=(12,6))
+                    
+    xlab = count_plot.xaxis.get_label()
+    ylab = count_plot.yaxis.get_label()
+    ttl = count_plot.title
 
-xlab.set_style('italic')
-xlab.set_size(10)
-ylab.set_style('italic')
-ylab.set_size(10)
-ttl.set_weight('bold')
-ttl.set_size(20)
+    xlab.set_style('italic')
+    xlab.set_size(10)
+    ylab.set_style('italic')
+    ylab.set_size(10)
+    ttl.set_weight('bold')
+    ttl.set_size(20)
 
-plot = count_plot.get_figure()
-path = 'img/count_plot'
-plot.savefig( path, dpi=300)
+    plot = count_plot.get_figure()
+    path = 'img/count_plot'
+    plot.savefig( path, dpi=300)
+
+    return None
 
 
 
