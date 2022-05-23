@@ -6,6 +6,85 @@ import FBrefScraper as FBref
 import pandas as pd
 import numpy as np
 
+
+'''
+FORMAT FUNCTIONS
+'''
+
+def rawDuplicates(string):
+    string = string[1:-1]
+    string = string.split(',')
+    string = list(dict.fromkeys(string))
+    value = string[0]
+    value = value[1:-1]
+
+    return value
+
+def rawListDuplicates(string):
+    lst = string[1:-1]
+    lst = lst.split(',')
+    lst = list(dict.fromkeys(lst))
+    for element in lst:
+        if len(element) < 3:
+            lst.remove(element)
+    no_space = lst[0]
+    space = lst[1]
+
+    if no_space in space: 
+        lst.remove(space)
+
+    return lst
+
+def formatHREF(lst):
+    format_lst = []
+    for href in lst:
+        if ' ' in href:
+            href = href.replace(' ', '')
+        href = href[1:-1]
+        format_lst.append(href)
+
+    return format_lst
+
+def formatComp(lst):
+    col = 0
+    if 'Primera A' in lst:
+        col = 1
+
+    return col
+
+
+def formatResult(lst):
+    lst = lst[1:-1]
+    lst = lst.split(', ')
+    total = len(lst)
+    avg_goal = 0
+    w = 0
+    l = 0
+    for result in lst:
+        result = result[1:-1]
+        result = result.split(' ')
+        if len(result) == 2:
+            if result[0] == 'W':
+                goals = result[1].split('-')
+                avg_goal += abs(int(goals[0]) - int(goals[1]))
+                w +=  1
+            
+            if result[0] == 'L':
+                goals = result[1].split('-')
+                avg_goal += abs(int(goals[0]) - int(goals[1]))*(-1)
+                l += 1
+        else: 
+            print(result)
+
+    
+    avg_goal = round(avg_goal/total, 3) 
+    w_percentage = round(w/total , 3)
+    l_percentage = round(l/total , 3)
+
+    return (avg_goal, w_percentage, l_percentage)
+
+
+
 def signingsCount(df): 
     cols = df.columns.tolist()
 
@@ -51,7 +130,7 @@ def completeRawData(filename):
 
     df = df.drop(['Match Report','Date',
                     'Round', 'Venue', 'Day',
-                    'CrdY', 'CrdR', 'Opponent' ], axis = 1)
+                    'Opponent' ], axis = 1)
 
     df = df.fillna(0)   
     df['min_href'] = 0
@@ -86,3 +165,38 @@ def completeRawData(filename):
     df_ML = pd.DataFrame(df_ML)
     return df_ML
 
+def createRFDF(filename):
+    signings = FBref.loadCSV(filename)
+    signings = signings.drop(['0'],axis = 1 )
+    j = 0
+    for i, row in signings.iterrows():
+
+        list_name = row['Name']
+        list_name = rawDuplicates(list_name)
+        signings.at[i, 'Name'] = list_name
+
+        list_team = row['Team']
+        list_team = rawDuplicates(list_team)
+        signings.at[i, 'Team'] = list_name
+
+        list_teamhref = row['Team_Href']
+        list_teamhref = rawListDuplicates(list_teamhref)
+        list_teamhref = formatHREF(list_teamhref)
+
+        list_comp = row['Comp']
+        list_comp = formatComp(list_comp)
+        signings.at[i, 'Comp'] = list_name
+
+        list_result = row['Result']
+        list_result = formatResult(list_result)
+
+
+
+        
+        if len(list_teamhref) > 0:
+            j += 1
+            print(j)
+            print(list_result)
+            
+
+    return None
