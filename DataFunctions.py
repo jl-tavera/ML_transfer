@@ -5,6 +5,7 @@ from stringprep import in_table_a1
 import FBrefScraper as FBref
 import pandas as pd
 import numpy as np
+from collections import Counter
 
 
 '''
@@ -35,13 +36,16 @@ def rawListDuplicates(string):
 
     return lst
 
-def formatHREF(lst):
+def formatHREF(lst, min_href):
     format_lst = []
     for href in lst:
         if ' ' in href:
             href = href.replace(' ', '')
         href = href[1:-1]
         format_lst.append(href)
+
+    if min_href in format_lst:
+        format_lst.remove(min_href)
 
     return format_lst
 
@@ -65,12 +69,13 @@ def formatResult(lst):
         result = result.split(' ')
         if len(result) == 2:
             if result[0] == 'W':
-                goals = result[1].split('-')
+                goals = result[1].split('–')
                 avg_goal += abs(int(goals[0]) - int(goals[1]))
                 w +=  1
             
             if result[0] == 'L':
-                goals = result[1].split('-')
+                goals = result[1]
+                goals = goals.split('–')
                 avg_goal += abs(int(goals[0]) - int(goals[1]))*(-1)
                 l += 1
         else: 
@@ -83,6 +88,23 @@ def formatResult(lst):
 
     return (avg_goal, w_percentage, l_percentage)
 
+def formatSquads(lst):
+    lst = lst[1:-1]
+    lst = lst.split(', ')
+    lst = Counter(lst)
+
+    return lst
+
+def formatStart(lst):
+    lst = lst[1:-1]
+    lst = lst.split(', ')
+    total = len(lst)
+    i = 0 
+    for start in lst: 
+        if start[1] == 'Y':
+            i += 1
+    
+    return round(i/total, 3)
 
 
 def signingsCount(df): 
@@ -179,9 +201,11 @@ def createRFDF(filename):
         list_team = rawDuplicates(list_team)
         signings.at[i, 'Team'] = list_name
 
+        min_href = str(row['min_href'])
+
         list_teamhref = row['Team_Href']
         list_teamhref = rawListDuplicates(list_teamhref)
-        list_teamhref = formatHREF(list_teamhref)
+        list_teamhref = formatHREF(list_teamhref, min_href)
 
         list_comp = row['Comp']
         list_comp = formatComp(list_comp)
@@ -190,13 +214,17 @@ def createRFDF(filename):
         list_result = row['Result']
         list_result = formatResult(list_result)
 
+        list_squad = row['Squad']
+        list_squad = formatSquads(list_squad)
+
 
 
         
         if len(list_teamhref) > 0:
             j += 1
             print(j)
-            print(list_result)
+            print(list_pos)
+   
             
 
     return None
