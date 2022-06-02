@@ -122,6 +122,24 @@ def signingsCount(df):
 
     return df
 
+def stdev(lst):
+    lst_stat = []
+    lst = lst[1:-1]
+    lst = lst.split(', ')
+    for element in lst:
+        if len(element) == 1:
+            element = int(element)
+            lst_stat.append(element)
+        elif len(element) > 2:
+            element = int(element[1:-1])
+            lst_stat.append(element)
+       
+
+    array = np.asarray(lst_stat)
+    std = round(np.std(array),3)
+
+    return std
+
 def completeRawData(filename):
     signings = FBref.loadCSV(filename)
     colnames = signings.columns.tolist()
@@ -190,6 +208,10 @@ def completeRawData(filename):
 def createRFDF(filename):
     signings = FBref.loadCSV(filename)
     signings = signings.drop(['0'],axis = 1 )
+    stat_names = ['Min', 'Gls','Ast','PK','PKatt',
+                'Sh','SoT','CrdY','CrdR','Fls',
+                'Fld','Off','Crs','TklW','Int',
+                'OG','PKwon','PKcon']
     j = 0
     for i, row in signings.iterrows():
 
@@ -217,13 +239,22 @@ def createRFDF(filename):
         list_squad = row['Squad']
         list_squad = formatSquads(list_squad)
 
+        for stat in stat_names:
+            list_stat = row[stat]
+            std = stdev(list_stat)
+            signings.at[i, stat] = std
+            
+
 
 
         
         if len(list_teamhref) > 0:
             j += 1
             print(j)
-            print(list_pos)
+            print(list_teamhref)
+            print(list_name)
+            print(row['min_href'])
+            
    
             
 
