@@ -289,23 +289,24 @@ def createRFDF(filename, team):
                 min_norm = mins[0][1]
                 competition = norm_stats[2]
                 normalized_dict = norm_stats[0]
+                main_pos = norm_stats[3]
                 dict_lists = createLst(normalized_dict, player, col_names)
 
                 player = dict_lists[0]
                 col_names = dict_lists[1]
 
                 player.append(competition)
+                player.append(main_pos)
                 player.append(min_norm)
                 player.append(group_min)
 
                 col_names.append('competition')
+                col_names.append('position')
                 col_names.append('min_norm')
                 col_names.append('group_min')
                 print(list_name)
                 print(group_min)
 
-                if len(df) == 0:
-                    df.append(col_names)
                 
                 df.append(player)
     

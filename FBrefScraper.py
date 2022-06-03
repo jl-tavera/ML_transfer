@@ -682,7 +682,7 @@ def getNormalizedStats(url, name, stats_names):
     all_stats = normalized_stats[1]
 
 
-    return normalized_dict, all_stats, len(pos_players)
+    return normalized_dict, all_stats, len(pos_players), main_pos
 
 def getMinGroup(url, name):
     r = requests.get(url)
