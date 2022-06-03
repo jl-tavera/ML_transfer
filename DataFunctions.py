@@ -1,7 +1,12 @@
 '''
 LIBRARIES
 '''
+
+import config as cf
+from curses import termname
 from stringprep import in_table_a1
+from time import sleep
+from random import randint
 import FBrefScraper as FBref
 import pandas as pd
 import numpy as np
@@ -79,14 +84,14 @@ def formatResult(lst):
                 avg_goal += abs(int(goals[0]) - int(goals[1]))*(-1)
                 l += 1
         else: 
-            print(result)
+            total -= 1
 
     
     avg_goal = round(avg_goal/total, 3) 
     w_percentage = round(w/total , 3)
     l_percentage = round(l/total , 3)
 
-    return (avg_goal, w_percentage, l_percentage)
+    return avg_goal, w_percentage, l_percentage
 
 def formatSquads(lst):
     lst = lst[1:-1]
@@ -139,6 +144,14 @@ def stdev(lst):
     std = round(np.std(array),3)
 
     return std
+
+def createLst(normalized_dict, player, col_names):
+    for key in normalized_dict:
+        new_key = str(key) + '_n'
+        col_names.append(new_key)
+        player.append(normalized_dict[key])
+
+    return player, col_names
 
 def completeRawData(filename):
     signings = FBref.loadCSV(filename)
@@ -205,23 +218,30 @@ def completeRawData(filename):
     df_ML = pd.DataFrame(df_ML)
     return df_ML
 
-def createRFDF(filename):
+def createRFDF(filename, team):
     signings = FBref.loadCSV(filename)
     signings = signings.drop(['0'],axis = 1 )
+    df = []
+    col_names = []
+    
     stat_names = ['Min', 'Gls','Ast','PK','PKatt',
                 'Sh','SoT','CrdY','CrdR','Fls',
                 'Fld','Off','Crs','TklW','Int',
                 'OG','PKwon','PKcon']
     j = 0
     for i, row in signings.iterrows():
+        player = []
 
         list_name = row['Name']
         list_name = rawDuplicates(list_name)
-        signings.at[i, 'Name'] = list_name
+        player.append(list_name)
+        col_names.append('Name')
+        
 
         list_team = row['Team']
         list_team = rawDuplicates(list_team)
-        signings.at[i, 'Team'] = list_name
+        player.append(list_team)
+        col_names.append('Team')
 
         min_href = str(row['min_href'])
 
@@ -231,35 +251,72 @@ def createRFDF(filename):
 
         list_comp = row['Comp']
         list_comp = formatComp(list_comp)
-        signings.at[i, 'Comp'] = list_name
+        player.append(list_comp)
+        col_names.append('Comp')
 
         list_result = row['Result']
         list_result = formatResult(list_result)
+        player.append(list_result[0])
+        player.append(list_result[1])
+        player.append(list_result[2])
+        col_names.append('avg_goal')
+        col_names.append('w_percentage')
+        col_names.append('l_percentage')
+
 
         list_squad = row['Squad']
         list_squad = formatSquads(list_squad)
+        player.append(list_comp)
+        col_names.append('Squad')
+
 
         for stat in stat_names:
             list_stat = row[stat]
             std = stdev(list_stat)
-            signings.at[i, stat] = std
-            
-
-
+            player.append(std)
+            col_names.append(stat)
 
         
-        if len(list_teamhref) > 0:
-            
+        if len(list_teamhref) > 0 and team == list_team:
             url = list_teamhref[0]
-            pos = FBref.getNormalizedStats(url, list_name, stat_names)
-            print(pos)
-            j += 1
-            print(j)
-            print(list_teamhref)
-            print(list_name)
-            print(row['min_href'])
-            
-   
-            
+            url2 = row['min_href']
+            sleep(randint(5,10))
+            norm_stats = FBref.getNormalizedStats(url, list_name, stat_names)
+            sleep(randint(5,10))
+            mins = FBref.getMinGroup(url2,list_name )
+            if norm_stats[1] == True and mins[1] == True:
+                group_min = mins[0][0]
+                min_norm = mins[0][1]
+                competition = norm_stats[2]
+                normalized_dict = norm_stats[0]
+                dict_lists = createLst(normalized_dict, player, col_names)
+
+                player = dict_lists[0]
+                col_names = dict_lists[1]
+
+                player.append(competition)
+                player.append(min_norm)
+                player.append(group_min)
+
+                col_names.append('competition')
+                col_names.append('min_norm')
+                col_names.append('group_min')
+                print(list_name)
+                print(group_min)
+
+                if len(df) == 0:
+                    df.append(col_names)
+                
+                df.append(player)
+    
+    df_ML = pd.DataFrame(df)
+    exportCleanFinalCSV(df_ML, '/teams/', team)
 
     return None
+
+def exportCleanFinalCSV(df, path, name):
+    route = cf.clean_export_dir.replace('/App', '') + path
+    df.to_csv(route + str(name) + '.csv')
+
+    return None
+

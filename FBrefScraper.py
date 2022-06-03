@@ -78,6 +78,8 @@ def formatMRSTeam(squads, final_stats):
 def formatMinutes(mins):
     if ',' in mins:
         mins = mins.replace(',','')
+        if len(mins) ==0:
+            mins = 0
 
     return int(mins)
 
@@ -89,9 +91,13 @@ def createStatsDict(stats_names):
     return dict
 
 def formatStat(stat):
-    stat = int(stat)
+    all_stats = True
+    if stat != '':
+        stat = int(stat)
+    else:
+        all_stats = False
 
-    return stat
+    return stat, all_stats
 
 def updateDict(dict, key, value):
     lst = dict[key]
@@ -99,6 +105,46 @@ def updateDict(dict, key, value):
     dict[key] = lst
 
     return dict
+
+
+def normalizedStats(player_dict, stats_dict):
+    all_stats = True
+    for stat in stats_dict:
+        avg = 0
+        if len(stats_dict[stat]) > 0:
+            
+            for element in stats_dict[stat]:
+                if type(element) == int:
+                    avg += element
+                else: 
+                    all_stats = False
+                    break
+            if avg != 0 and all_stats == True:
+                avg = avg/len(stats_dict[stat])
+                avg = round((player_dict[stat][0])/avg, 3) 
+            elif avg == 0 and all_stats == True:
+                avg = 0.00001
+            
+        player_dict[stat] = avg
+    
+    return player_dict, all_stats
+        
+def groupMin(player_min, max_min, total_mins):
+    lst3_size = len(total_mins)//4  
+    min_norm = round(player_min/max_min, 3)
+
+    group = 4
+    for  i,value in enumerate(total_mins):
+        if player_min == value:
+            if i <= lst3_size:
+                group = 1
+            elif i > lst3_size and i<= (lst3_size*2):
+                group = 2
+            elif i > (lst3_size*2) and i<= (lst3_size*3):
+                group = 3
+    
+    return group, min_norm
+
 
 
 '''
@@ -480,6 +526,8 @@ def getNormalizedStats(url, name, stats_names):
     
     rows = table_standard.tbody.find_all('tr')
     stats_dict = createStatsDict(stats_names)
+    player_dict = createStatsDict(stats_names)
+    all_stats = True
     main_pos = []
     pos_players = []
     for i, row in enumerate(table_standard.tbody.find_all('th')):
@@ -517,27 +565,170 @@ def getNormalizedStats(url, name, stats_names):
         if mins < 270:
             break
         
-        if same_pos and player_name != name:
+        if same_pos:
             pos_players.append(player_name)
 
     for i, row in enumerate(table_standard.tbody.find_all('th')):
-        goals = rows[i].find_all('td', {'data-stat':'goals'})
-
-
         player_name = row.text.strip()
+
+        minutes = rows[i].find_all('td', {'data-stat':'minutes'})
+        goals = rows[i].find_all('td', {'data-stat':'goals'})
+        assists = rows[i].find_all('td', {'data-stat':'assists'})
+        pens_made = rows[i].find_all('td', {'data-stat':'pens_made'})
+        pens_att = rows[i].find_all('td', {'data-stat':'pens_att'})
+        cards_yellow = rows[i].find_all('td', {'data-stat':'cards_yellow'})
+        cards_red = rows[i].find_all('td', {'data-stat':'cards_red'})
+        
         if player_name in pos_players:
+            mins = formatMinutes(minutes[0].text.strip())
             goal = formatStat(goals[0].text.strip())
-            stats_dict = updateDict(stats_dict, 'Gls', goal)
+            ast = formatStat(assists[0].text.strip())
+            pk = formatStat(pens_made[0].text.strip())
+            pkatt = formatStat(pens_att[0].text.strip())
+            crdY = formatStat(cards_yellow[0].text.strip())
+            crdR = formatStat(cards_red[0].text.strip())
+            
+            
+            stats_dict = updateDict(stats_dict, 'Min', mins)
+            stats_dict = updateDict(stats_dict, 'Gls', goal[0])
+            stats_dict = updateDict(stats_dict, 'Ast', ast[0])
+            stats_dict = updateDict(stats_dict, 'PK', pk[0])
+            stats_dict = updateDict(stats_dict, 'PKatt', pkatt[0])
+            stats_dict = updateDict(stats_dict, 'CrdY', crdY[0])
+            stats_dict = updateDict(stats_dict, 'CrdR', crdR[0])
+        
+        if player_name == name:
 
-
-
-
-
-
-
-    return name, main_pos, len(pos_players)
-                    
+            player_dict = updateDict(player_dict, 'Min', mins)
+            player_dict = updateDict(player_dict, 'Gls', goal[0])
+            player_dict = updateDict(player_dict, 'Ast', ast[0])
+            player_dict = updateDict(player_dict, 'PK', pk[0])
+            player_dict = updateDict(player_dict, 'PKatt', pkatt[0])
+            player_dict = updateDict(player_dict, 'CrdY', crdY[0])
+            player_dict = updateDict(player_dict, 'CrdR', crdR[0])
+        
+    for caption in soup.find_all('caption'):
+                if 'Shooting' in caption.get_text():
+                    table_shooting = caption.find_parent('table')
+                    break
     
+    rows = table_shooting.tbody.find_all('tr')
+    for i, row in enumerate(table_shooting.tbody.find_all('th')):
+        player_name = row.text.strip()
+
+        shots_total = rows[i].find_all('td', {'data-stat':'shots_total'})
+        shots_on_target = rows[i].find_all('td', {'data-stat':'shots_on_target'})
+
+        if player_name in pos_players:
+            sh = formatStat(shots_total[0].text.strip())
+            sot = formatStat(shots_on_target[0].text.strip())
+
+            stats_dict = updateDict(stats_dict, 'Sh', sh[0])
+            stats_dict = updateDict(stats_dict, 'SoT', sot[0])
+
+        if player_name == name:
+
+            player_dict = updateDict(player_dict, 'Sh', sh[0])
+            player_dict = updateDict(player_dict, 'SoT', sot[0])
+
+
+    for caption in soup.find_all('caption'):
+                if 'Miscellaneous Stats ' in caption.get_text():
+                    table_miscellaneous = caption.find_parent('table')
+                    break
+    
+    rows = table_miscellaneous.tbody.find_all('tr')
+    for i, row in enumerate(table_miscellaneous.tbody.find_all('th')):
+        player_name = row.text.strip()
+
+        fouls = rows[i].find_all('td', {'data-stat':'fouls'})
+        fouled = rows[i].find_all('td', {'data-stat':'fouled'})
+        offsides = rows[i].find_all('td', {'data-stat':'offsides'})
+        crosses = rows[i].find_all('td', {'data-stat':'crosses'})
+        interceptions = rows[i].find_all('td', {'data-stat':'interceptions'})
+        tackles_won = rows[i].find_all('td', {'data-stat':'tackles_won'})
+        own_goals = rows[i].find_all('td', {'data-stat':'own_goals'})
+        
+        if player_name in pos_players:
+            
+            fls = formatStat(fouls[0].text.strip())
+            fld = formatStat(fouled[0].text.strip())
+            off = formatStat(offsides[0].text.strip())
+            crs = formatStat(crosses[0].text.strip())
+            int = formatStat(interceptions[0].text.strip())
+            tklw = formatStat(tackles_won[0].text.strip())
+            og = formatStat(own_goals[0].text.strip())
+
+            stats_dict = updateDict(stats_dict, 'Fls', fls[0])
+            stats_dict = updateDict(stats_dict, 'Fld', fld[0])
+            stats_dict = updateDict(stats_dict, 'Off', off[0])
+            stats_dict = updateDict(stats_dict, 'Crs', crs[0])
+            stats_dict = updateDict(stats_dict, 'Int', int[0])
+            stats_dict = updateDict(stats_dict, 'TklW', tklw[0])
+            stats_dict = updateDict(stats_dict, 'OG', og[0])
+        
+        if player_name == name:
+
+            player_dict = updateDict(player_dict, 'Fls', fls[0])
+            player_dict = updateDict(player_dict, 'Fld', fld[0])
+            player_dict = updateDict(player_dict, 'Off', off[0])
+            player_dict = updateDict(player_dict, 'Crs', crs[0])
+            player_dict = updateDict(player_dict, 'Int', int[0])
+            player_dict = updateDict(player_dict, 'TklW', tklw[0])
+            player_dict = updateDict(player_dict, 'OG', og[0])
+
+    normalized_stats = normalizedStats(player_dict, stats_dict)
+    normalized_dict = normalized_stats[0]
+    all_stats = normalized_stats[1]
+
+
+    return normalized_dict, all_stats, len(pos_players)
+
+def getMinGroup(url, name):
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+    total_mins = []
+    max_min = 0
+    player_min = 0
+    info = soup.find_all('strong') 
+    col_league = False
+    for strong in info:
+        if 'Governing Country' in strong.get_text():
+            p = strong.find_parent('p')
+            country = p.find('a')
+            country = country.get_text()
+
+            if 'Colombia' in country:
+                col_league = True
+
+
+    for caption in soup.find_all('caption'):
+                if 'Standard Stats' in caption.get_text():
+                    table_standard = caption.find_parent('table')
+                    break
+    
+    rows = table_standard.tbody.find_all('tr')
+    for i, row in enumerate(table_standard.tbody.find_all('th')):
+        player_name = row.text.strip()
+        minutes = rows[i].find_all('td', {'data-stat':'minutes'})
+        mins = formatMinutes(minutes[0].text.strip())
+        if i ==0:
+            max_min = mins
+        
+        if player_name == name:
+            player_min = mins
+
+
+        if mins < 270:
+            break
+
+        
+        total_mins.append(mins)
+    
+    group_min = groupMin(player_min, max_min, total_mins)
+
+
+    return group_min, col_league
 
 '''
 DATAFRAME FUNCTIONS
