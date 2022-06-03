@@ -61,6 +61,6 @@ def getSigningsData(col_name, name):
 
 # data = (Dfx.completeRawData('signings.csv'))
 # FBref.exportFinalCSV(data,'','data')
-
-df_ML = Dfx.createRFDF('data.csv', 'Nacional')
+ 
+df_ML = Dfx.createRFDF('data.csv', 'Millonarios')
 
