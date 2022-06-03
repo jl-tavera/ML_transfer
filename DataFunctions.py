@@ -249,6 +249,10 @@ def createRFDF(filename):
 
         
         if len(list_teamhref) > 0:
+            
+            url = list_teamhref[0]
+            pos = FBref.getNormalizedStats(url, list_name, stat_names)
+            print(pos)
             j += 1
             print(j)
             print(list_teamhref)

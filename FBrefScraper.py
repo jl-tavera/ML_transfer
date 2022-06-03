@@ -75,6 +75,32 @@ def formatMRSTeam(squads, final_stats):
 
     return stats_dict
 
+def formatMinutes(mins):
+    if ',' in mins:
+        mins = mins.replace(',','')
+
+    return int(mins)
+
+def createStatsDict(stats_names):
+    dict = {}
+    for stat in stats_names:
+        dict[stat] = [] 
+
+    return dict
+
+def formatStat(stat):
+    stat = int(stat)
+
+    return stat
+
+def updateDict(dict, key, value):
+    lst = dict[key]
+    lst.append(value)
+    dict[key] = lst
+
+    return dict
+
+
 '''
 FILTER FUNCTIONS
 '''
@@ -441,7 +467,77 @@ def getAllSquadSigningStats(df, col):
     stats_df_gk = pd.DataFrame(stats_df_gk)
 
     return stats_df, stats_df_gk
+
+
+def getNormalizedStats(url, name, stats_names):
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, features='lxml')
+
+    for caption in soup.find_all('caption'):
+                if 'Standard Stats' in caption.get_text():
+                    table_standard = caption.find_parent('table')
+                    break
+    
+    rows = table_standard.tbody.find_all('tr')
+    stats_dict = createStatsDict(stats_names)
+    main_pos = []
+    pos_players = []
+    for i, row in enumerate(table_standard.tbody.find_all('th')):
+        player_name = row.text.strip()
+        position = rows[i].find_all('td', {'data-stat':'position'})
         
+        if name == player_name:
+            pos = position[0].text.strip()
+            if ',' in pos:
+                pos = pos.split(',')
+                main_pos = pos
+            else:
+                main_pos.append(pos)
+            break
+
+    for i, row in enumerate(table_standard.tbody.find_all('th')):
+        player_name = row.text.strip()
+        position = rows[i].find_all('td', {'data-stat':'position'})
+        minutes = rows[i].find_all('td', {'data-stat':'minutes'})
+        minutes = minutes[0].text.strip()
+        mins = formatMinutes(minutes)
+        pos = position[0].text.strip()
+        same_pos = False
+        player_pos = []
+        if ',' in pos:
+            pos = pos.split(',')
+            player_pos = pos
+        else:
+            player_pos.append(pos)
+
+        for each_pos in player_pos:
+            if each_pos in main_pos:
+                same_pos = True
+
+        if mins < 270:
+            break
+        
+        if same_pos and player_name != name:
+            pos_players.append(player_name)
+
+    for i, row in enumerate(table_standard.tbody.find_all('th')):
+        goals = rows[i].find_all('td', {'data-stat':'goals'})
+
+
+        player_name = row.text.strip()
+        if player_name in pos_players:
+            goal = formatStat(goals[0].text.strip())
+            stats_dict = updateDict(stats_dict, 'Gls', goal)
+
+
+
+
+
+
+
+    return name, main_pos, len(pos_players)
+                    
+    
 
 '''
 DATAFRAME FUNCTIONS
