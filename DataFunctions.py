@@ -284,7 +284,7 @@ def createRFDF(filename, team):
             norm_stats = FBref.getNormalizedStats(url, list_name, stat_names)
             sleep(randint(5,10))
             mins = FBref.getMinGroup(url2,list_name )
-            if norm_stats[1] == True and mins[1] == True:
+            if norm_stats[1] == True and mins[1] == True and norm_stats[4] == True:
                 group_min = mins[0][0]
                 min_norm = mins[0][1]
                 competition = norm_stats[2]

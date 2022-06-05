@@ -677,12 +677,20 @@ def getNormalizedStats(url, name, stats_names):
             player_dict = updateDict(player_dict, 'TklW', tklw[0])
             player_dict = updateDict(player_dict, 'OG', og[0])
 
-    normalized_stats = normalizedStats(player_dict, stats_dict)
-    normalized_dict = normalized_stats[0]
-    all_stats = normalized_stats[1]
+    normalized_stats = {}
+    normalized_dict ={}
+    all_stats = True
+    empty_player_dict = True
+    for key in player_dict:
+        if len(player_dict[key]) == 0 and (key != "PKcon" and key != "PKwon") :
+            empty_player_dict = False
+    if empty_player_dict:
+        normalized_stats = normalizedStats(player_dict, stats_dict)
+        normalized_dict = normalized_stats[0]
+        all_stats = normalized_stats[1]
 
 
-    return normalized_dict, all_stats, len(pos_players), main_pos
+    return normalized_dict, all_stats, len(pos_players), main_pos, empty_player_dict
 
 def getMinGroup(url, name):
     r = requests.get(url)
