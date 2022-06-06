@@ -31,6 +31,12 @@ def loadCSV(name):
 
     return csv
 
+def loadCleanCSV(name):
+
+    route = cf.clean_export_dir.replace('/App', '') + name
+    csv = pd.read_csv(route)
+
+    return csv
 
 '''
 FORMAT FUNCTIONS

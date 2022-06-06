@@ -275,7 +275,6 @@ def createRFDF(filename, team):
             std = stdev(list_stat)
             player.append(std)
             col_names.append(stat)
-
         
         if len(list_teamhref) > 0 and team == list_team:
             url = list_teamhref[0]
@@ -307,7 +306,6 @@ def createRFDF(filename, team):
                 print(list_name)
                 print(group_min)
 
-                
                 df.append(player)
     
     df_ML = pd.DataFrame(df)
@@ -315,9 +313,107 @@ def createRFDF(filename, team):
 
     return None
 
+
+def createColNames():
+    col_names = []
+    stat_names = ['Min_sd', 'Gls_sd','Ast_sd','PK_sd','PKatt_sd',
+                'Sh_sd','SoT_sd','CrdY_sd','CrdR_sd','Fls_sd',
+                'Fld_sd','Off_sd','Crs_sd','TklW_sd','Int_sd',
+                'OG_sd','PKwon_sd','PKcon_sd']
+
+    col_names.append('Name')
+    col_names.append('Team')
+    col_names.append('Comp')
+    col_names.append('avg_goal')
+    col_names.append('w_percentage')
+    col_names.append('l_percentage')
+    col_names.append('Squad')
+
+
+    for stat in stat_names:
+        col_names.append(stat)
+        
+    col_names.append('Min_n')
+    col_names.append('Gls_n')
+    col_names.append('Ast_n')
+    col_names.append('PK_n')
+    col_names.append('PKatt_n')
+    col_names.append('CrdY_n')
+    col_names.append('CrdR_n')
+    col_names.append('Sh_n')
+    col_names.append('SoT_n')
+    col_names.append('Fls_n')
+    col_names.append('Fld_n')
+    col_names.append('Off_n')
+    col_names.append('Crs_n')
+    col_names.append('Int_n')
+    col_names.append('TklW_n')
+    col_names.append('OG_n')
+    col_names.append('PKwon_n')
+    col_names.append('PKcon_n')
+
+    col_names.append('competition')
+    col_names.append('position')
+    col_names.append('min_norm')
+    col_names.append('group_min')
+
+    col_names = pd.DataFrame(col_names)
+    col_names = col_names.transpose()
+    exportCleanFinalCSV(col_names, '/teams/', 'col_names')
+
+    return None
+    
+def createFinalDF(filename):
+    df = FBref.loadCleanCSV('/teams/col_names.csv')
+    signings = FBref.loadCSV(filename)
+    colnames = signings.columns.tolist()
+    colnames = colnames[1:]
+
+    for i,col in enumerate(colnames):
+        df_name = '/teams/' + str(col) + '.csv'
+        df_team = FBref.loadCleanCSV(df_name)
+
+        df = df.reset_index(drop=True)
+        df = df.append(df_team, ignore_index=True)
+
+    df2 = df.rename(columns=df.iloc[0]).loc[1:]
+    position = df2['position'].unique()
+    for i, row in df2.iterrows(): 
+        if (row['position'] == "['MF', 'FW']") or (row['position'] == "['FW', 'MF']"):
+            df2.at[i, 'position'] = 'AM'
+
+        elif (row['position'] == "['DF', 'MF']") or (row['position'] =="['MF', 'DF']"):
+            df2.at[i, 'position'] = 'DM'
+
+        elif row['position'] == "['DF']":
+            df2.at[i, 'position'] = 'D'
+
+        elif row['position'] == "['MF']":
+            df2.at[i, 'position'] = 'M'
+
+        else: 
+            df2.at[i, 'position'] = 'A'
+        
+    df2.drop(0, axis=1, inplace=True)
+    df2.drop("PKcon_sd", axis=1, inplace=True)
+    df2.drop("PKwon_sd", axis=1, inplace=True)
+    df2.drop("PKcon_n", axis=1, inplace=True)
+    df2.drop("PKwon_n", axis=1, inplace=True)
+    df2.drop("Squad", axis=1, inplace=True)
+
+
+    exportCleanFinalCSV(df2, '', 'ML_df')
+
+    
+    
+    return None
+    
+
 def exportCleanFinalCSV(df, path, name):
     route = cf.clean_export_dir.replace('/App', '') + path
     df.to_csv(route + str(name) + '.csv')
 
     return None
+
+
 
